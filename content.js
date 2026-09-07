@@ -173,6 +173,29 @@ window.ATLAS = {
       id: "flow",
       title: "전공정 8단계",
       lead: "잉곳에서 완성 웨이퍼까지. 실제로는 이 단계들이 층마다 수백 번 반복됩니다.",
+      cap: "층 하나를 만드는 데 이 고리가 한 바퀴 돕니다. 로직은 이 바퀴를 열 번 넘게 돕니다.",
+      svg: `<svg viewBox="0 0 340 208" width="100%" role="img" aria-label="층 하나를 만드는 공정 반복 고리">
+<g fill="none" stroke="var(--teal)" stroke-width="1.5" opacity=".55">
+<path d="M170 44a60 60 0 0 1 52 30"/><path d="M222 134a60 60 0 0 1-52 30"/>
+<path d="M118 134a60 60 0 0 0 52 30"/><path d="M118 74a60 60 0 0 1 52-30"/>
+</g>
+<g fill="var(--teal)"><path d="M226 70l4 10-10-2z"/><path d="M170 170l-10-5 10-5z"/><path d="M114 138l-4-10 10 2z"/><path d="M170 38l10 5-10 5z"/></g>
+<g><rect x="120" y="14" width="100" height="30" rx="6" fill="var(--panel2)" stroke="var(--teal)"/>
+<text x="170" y="28" font-size="11" fill="var(--ink)" text-anchor="middle">증착</text>
+<text x="170" y="39" font-size="9" fill="var(--dim)" text-anchor="middle">막을 쌓는다</text></g>
+<g><rect x="226" y="74" width="100" height="30" rx="6" fill="var(--panel2)" stroke="var(--teal)"/>
+<text x="276" y="88" font-size="11" fill="var(--ink)" text-anchor="middle">포토</text>
+<text x="276" y="99" font-size="9" fill="var(--dim)" text-anchor="middle">패턴을 그린다</text></g>
+<g><rect x="120" y="134" width="100" height="30" rx="6" fill="var(--panel2)" stroke="var(--teal)"/>
+<text x="170" y="148" font-size="11" fill="var(--ink)" text-anchor="middle">식각</text>
+<text x="170" y="159" font-size="9" fill="var(--dim)" text-anchor="middle">그대로 깎는다</text></g>
+<g><rect x="14" y="74" width="100" height="30" rx="6" fill="var(--panel2)" stroke="var(--teal)"/>
+<text x="64" y="88" font-size="11" fill="var(--ink)" text-anchor="middle">CMP</text>
+<text x="64" y="99" font-size="9" fill="var(--dim)" text-anchor="middle">평탄하게 간다</text></g>
+<text x="170" y="86" font-size="11" fill="var(--brass)" text-anchor="middle">층 1개</text>
+<text x="170" y="100" font-size="9" fill="var(--dim)" text-anchor="middle">= 고리 한 바퀴</text>
+<text x="170" y="192" font-size="9" fill="var(--dim)" text-anchor="middle">계측과 세정은 매 단계 사이에 들어간다</text>
+</svg>`,
       steps: [
         ["웨이퍼 제조", "실리콘 잉곳 성장 → 절단 → 연마. 300mm가 표준"],
         ["산화 · 절연막", "표면에 SiO₂ 등 절연층 형성. 이후 층간 절연은 CVD/ALD로"],
@@ -188,6 +211,49 @@ window.ATLAS = {
       id: "feol",
       title: "FEOL / MEOL / BEOL",
       lead: "웨이퍼 공정을 높이 방향으로 자르는 구분. 본인 담당 영역이 어디인지 보여주는 축입니다.",
+      cap: "칩 단면. 아래에서 위로 갈수록 배선이 굵어지고, 맨 위가 패키지와 만나는 면입니다.",
+      svg: `<svg viewBox="0 0 340 278" width="100%" role="img" aria-label="칩 단면 구조도">
+<circle cx="145" cy="30" r="13" fill="var(--brass)"/>
+<rect x="118" y="40" width="54" height="9" fill="var(--brass)"/>
+<rect x="25" y="53" width="210" height="12" fill="none" stroke="var(--line)" stroke-width="1.5"/>
+<text x="30" y="62" font-size="9" fill="var(--dim)">passivation</text>
+<rect x="35" y="70" width="170" height="9" fill="var(--brass)" opacity=".55"/>
+<rect x="140" y="79" width="10" height="9" fill="var(--brass)" opacity=".55"/>
+<rect x="45" y="88" width="150" height="9" fill="var(--brass)" opacity=".55"/>
+<rect x="95" y="97" width="8" height="8" fill="var(--brass)" opacity=".55"/>
+<rect x="40" y="105" width="140" height="5" fill="var(--teal)"/>
+<rect x="70" y="110" width="6" height="9" fill="var(--teal)" opacity=".6"/>
+<rect x="150" y="110" width="6" height="9" fill="var(--teal)" opacity=".6"/>
+<rect x="40" y="119" width="160" height="5" fill="var(--teal)"/>
+<rect x="55" y="124" width="6" height="9" fill="var(--teal)" opacity=".6"/>
+<rect x="120" y="124" width="6" height="9" fill="var(--teal)" opacity=".6"/>
+<rect x="35" y="133" width="150" height="5" fill="var(--teal)"/>
+<rect x="90" y="138" width="5" height="9" fill="var(--teal)" opacity=".6"/>
+<rect x="165" y="138" width="5" height="9" fill="var(--teal)" opacity=".6"/>
+<rect x="35" y="147" width="170" height="5" fill="var(--teal)"/>
+<rect x="50" y="160" width="6" height="20" fill="var(--violet)"/>
+<rect x="88" y="160" width="6" height="20" fill="var(--violet)"/>
+<rect x="140" y="160" width="6" height="20" fill="var(--violet)"/>
+<rect x="180" y="160" width="6" height="20" fill="var(--violet)"/>
+<g stroke="var(--teal)" stroke-width="2" fill="none">
+<rect x="40" y="185" width="46" height="30" rx="3"/>
+<line x1="46" y1="194" x2="80" y2="194"/><line x1="46" y1="200" x2="80" y2="200"/><line x1="46" y1="206" x2="80" y2="206"/>
+<rect x="130" y="185" width="46" height="30" rx="3"/>
+<line x1="136" y1="194" x2="170" y2="194"/><line x1="136" y1="200" x2="170" y2="200"/><line x1="136" y1="206" x2="170" y2="206"/>
+</g>
+<rect x="25" y="222" width="210" height="30" fill="var(--panel2)" stroke="var(--line)"/>
+<text x="130" y="242" font-size="11" fill="var(--dim)" text-anchor="middle">Si 기판</text>
+<g stroke="var(--line)" stroke-width="1" fill="none">
+<path d="M247 18h6v82h-6"/><path d="M247 104h6v56h-6"/><path d="M247 160h6v22h-6"/><path d="M247 184h6v36h-6"/>
+</g>
+<text x="260" y="55" font-size="11" fill="var(--brass)">Far-BEOL</text>
+<text x="260" y="68" font-size="9" fill="var(--dim)">패드 · UBM · 본딩면</text>
+<text x="260" y="128" font-size="11" fill="var(--teal)">BEOL 하부</text>
+<text x="260" y="141" font-size="9" fill="var(--dim)">미세 배선 · 비아</text>
+<text x="260" y="175" font-size="11" fill="var(--violet)">MEOL</text>
+<text x="260" y="205" font-size="11" fill="var(--dim)">FEOL</text>
+<text x="260" y="218" font-size="9" fill="var(--dim)">트랜지스터</text>
+</svg>`,
       rows: [
         ["FEOL", "트랜지스터 자체를 만드는 구간. 웰, 게이트, 소스/드레인, 채널. 나노시트·핀 형상이 여기서 결정"],
         ["MEOL", "소자와 배선을 잇는 중간 구간. 컨택, 로컬 인터커넥트, M0"],
@@ -200,6 +266,35 @@ window.ATLAS = {
       id: "device",
       title: "트랜지스터 진화",
       lead: "채널을 게이트가 얼마나 감싸는가의 역사입니다.",
+      cap: "청록이 채널, 황동이 게이트입니다. 게이트가 채널을 감싸는 면이 1면에서 4면으로 늘어납니다.",
+      svg: `<svg viewBox="0 0 340 122" width="100%" role="img" aria-label="트랜지스터 구조 진화 비교">
+<rect x="14" y="20" width="60" height="10" fill="var(--brass)"/>
+<rect x="14" y="30" width="60" height="14" fill="var(--teal)"/>
+<rect x="8" y="44" width="72" height="26" fill="var(--panel2)" stroke="var(--line)"/>
+<text x="44" y="88" font-size="11" fill="var(--dim)" text-anchor="middle">Planar</text>
+<text x="44" y="101" font-size="9" fill="var(--dim)" text-anchor="middle">1면 제어</text>
+<path d="M96 44v-18h10v18M116 44v-18h10v18M136 44v-18h10v18" fill="var(--teal)"/>
+<path d="M92 40v-22h58v22" fill="none" stroke="var(--brass)" stroke-width="4"/>
+<rect x="88" y="44" width="72" height="26" fill="var(--panel2)" stroke="var(--line)"/>
+<text x="124" y="88" font-size="11" fill="var(--dim)" text-anchor="middle">FinFET</text>
+<text x="124" y="101" font-size="9" fill="var(--dim)" text-anchor="middle">3면 제어</text>
+<rect x="172" y="18" width="60" height="26" fill="none" stroke="var(--brass)" stroke-width="4"/>
+<rect x="182" y="22" width="40" height="4" fill="var(--teal)"/>
+<rect x="182" y="29" width="40" height="4" fill="var(--teal)"/>
+<rect x="182" y="36" width="40" height="4" fill="var(--teal)"/>
+<rect x="168" y="44" width="72" height="26" fill="var(--panel2)" stroke="var(--line)"/>
+<text x="204" y="88" font-size="11" fill="var(--teal)" text-anchor="middle">GAA</text>
+<text x="204" y="101" font-size="9" fill="var(--dim)" text-anchor="middle">4면 · 현재</text>
+<rect x="252" y="6" width="60" height="18" fill="none" stroke="var(--brass)" stroke-width="3"/>
+<rect x="262" y="11" width="40" height="3" fill="var(--teal)"/>
+<rect x="262" y="17" width="40" height="3" fill="var(--teal)"/>
+<rect x="252" y="26" width="60" height="18" fill="none" stroke="var(--brass)" stroke-width="3"/>
+<rect x="262" y="31" width="40" height="3" fill="var(--violet)"/>
+<rect x="262" y="37" width="40" height="3" fill="var(--violet)"/>
+<rect x="248" y="44" width="72" height="26" fill="var(--panel2)" stroke="var(--line)"/>
+<text x="284" y="88" font-size="11" fill="var(--dim)" text-anchor="middle">CFET</text>
+<text x="284" y="101" font-size="9" fill="var(--dim)" text-anchor="middle">수직 적층 · 연구</text>
+</svg>`,
       steps: [
         ["Planar", "평면 구조. 20nm 부근에서 누설 전류로 한계"],
         ["FinFET", "채널을 지느러미로 세워 3면 제어. 14nm~5nm 세대의 주력"],
@@ -235,6 +330,35 @@ window.ATLAS = {
       id: "pkg",
       title: "패키징과 3D 집적",
       lead: "미세화가 느려진 만큼 성능 향상의 무게중심이 여기로 옮겨왔습니다.",
+      cap: "왼쪽은 옆으로 늘어놓고 인터포저로 잇는 방식, 오른쪽은 위로 쌓아 관통 전극으로 잇는 방식입니다.",
+      svg: `<svg viewBox="0 0 340 146" width="100%" role="img" aria-label="2.5D와 3D 패키징 구조 비교">
+<text x="80" y="16" font-size="11" fill="var(--teal)" text-anchor="middle">2.5D — 나란히</text>
+<rect x="20" y="34" width="46" height="26" fill="var(--teal)" opacity=".8"/>
+<text x="43" y="51" font-size="9" fill="var(--panel)" text-anchor="middle">로직</text>
+<rect x="82" y="26" width="40" height="8" fill="var(--violet)" opacity=".8"/>
+<rect x="82" y="36" width="40" height="8" fill="var(--violet)" opacity=".8"/>
+<rect x="82" y="46" width="40" height="8" fill="var(--violet)" opacity=".8"/>
+<text x="102" y="20" font-size="9" fill="var(--dim)" text-anchor="middle">HBM</text>
+<g fill="var(--brass)"><rect x="90" y="26" width="3" height="28"/><rect x="110" y="26" width="3" height="28"/></g>
+<rect x="14" y="64" width="118" height="14" fill="var(--panel2)" stroke="var(--brass)"/>
+<text x="73" y="74" font-size="9" fill="var(--dim)" text-anchor="middle">실리콘 인터포저</text>
+<rect x="14" y="82" width="118" height="12" fill="var(--panel2)" stroke="var(--line)"/>
+<text x="73" y="91" font-size="9" fill="var(--dim)" text-anchor="middle">패키지 기판</text>
+<text x="73" y="116" font-size="9" fill="var(--dim)" text-anchor="middle">배선 길이가 남는다</text>
+<text x="73" y="130" font-size="9" fill="var(--dim)" text-anchor="middle">캐파 병목 지점</text>
+<line x1="166" y1="24" x2="166" y2="120" stroke="var(--line)"/>
+<text x="256" y="16" font-size="11" fill="var(--brass)" text-anchor="middle">3D — 위로</text>
+<rect x="212" y="24" width="88" height="14" fill="var(--teal)" opacity=".8"/>
+<rect x="212" y="41" width="88" height="14" fill="var(--teal)" opacity=".6"/>
+<rect x="212" y="58" width="88" height="14" fill="var(--teal)" opacity=".45"/>
+<g fill="var(--brass)"><rect x="230" y="24" width="4" height="48"/><rect x="256" y="24" width="4" height="48"/><rect x="282" y="24" width="4" height="48"/></g>
+<g stroke="var(--brass)" stroke-width="1" stroke-dasharray="3 3"><line x1="212" y1="39.5" x2="300" y2="39.5"/><line x1="212" y1="56.5" x2="300" y2="56.5"/></g>
+<rect x="206" y="76" width="100" height="14" fill="var(--panel2)" stroke="var(--line)"/>
+<text x="256" y="86" font-size="9" fill="var(--dim)" text-anchor="middle">패키지 기판</text>
+<text x="256" y="106" font-size="9" fill="var(--brass)" text-anchor="middle">세로선 = TSV</text>
+<text x="256" y="120" font-size="9" fill="var(--dim)" text-anchor="middle">점선 = 하이브리드 본딩면</text>
+<text x="256" y="134" font-size="9" fill="var(--dim)" text-anchor="middle">본딩면이 곧 최상부 배선</text>
+</svg>`,
       rows: [
         ["전통 패키지", "와이어 본딩 → 플립칩. 다이를 기판에 붙이고 보호"],
         ["팬아웃(WLP)", "기판 없이 재배선층(RDL)으로 I/O 확장. 얇고 저지연"],
