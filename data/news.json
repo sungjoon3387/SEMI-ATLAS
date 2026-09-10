@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-10T07:51:01.569699+09:00",
- "updated_kr": "2026년 09월 10일 07:51",
+ "updated": "2026-09-11T07:52:21.567674+09:00",
+ "updated_kr": "2026년 09월 11일 07:52",
  "count": 160,
  "cats": [
   {
@@ -25,14 +25,6 @@
   }
  ],
  "trend": [
-  {
-   "date": "2026-08-28",
-   "foundry": 0,
-   "pkg": 0,
-   "memory": 0,
-   "equip": 0,
-   "market": 0
-  },
   {
    "date": "2026-08-29",
    "foundry": 0,
@@ -136,36 +128,927 @@
    "memory": 1,
    "equip": 1,
    "market": 7
+  },
+  {
+   "date": "2026-09-11",
+   "foundry": 3,
+   "pkg": 0,
+   "memory": 2,
+   "equip": 1,
+   "market": 6
   }
  ],
  "items": [
   {
-   "title": "잘 나가는 반도체, 9월 노사 분수령…삼성은 노조 재편·하이닉스는 재투표",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BMGJDa2Vha0xSTUZmVVBhbk1GQU82M3RJaWkydnJkQ05FVC1OY1ZOOXlHVHNVYnFsY1I0cmtQSER5YlRMbm5BejJOajJpcHc?oc=5",
+   "title": "中 SMIC, 파운드리 3위로…삼성 턱밑 추격",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0FIOE9udktqSEFBZkFkWnNXYkJ6Z2wxeEo1QWIzT0I5cVY5NVVQeGh1bFM0OXhkUkNHRFBSbXFPMnlXejhnNmdqVXlXNFgxX2Z6QlN1YmxQWFpXdVE3dlVmWGJUMDZQWWE1ODVMd1diaG5Bb0hsbDctMTVRWl9YbElwTkVFNlU1?oc=5",
+   "source": "글로벌이코노믹",
+   "summary": "中 SMIC, 파운드리 3위로…삼성 턱밑 추격 글로벌이코노믹",
+   "published": "2026-09-11T07:47:14+09:00",
+   "date": "2026-09-11",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": true,
+   "score": 14.99,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "메모리 이어 파운드리도… 中 SMIC 약진에 삼성, 2위 자리도 '흔들'",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wbHZWc1ZsZzY4X2hST19WREo5YmVVWkJPOThYZU5URVhxMWNtTUkxczhTc09MTnhsLXYtVE8zYWxWbjI3Qkc4MXo1V0I5ZTFFeVZ4Z0tiWjdwZw?oc=5",
+   "source": "한국경제",
+   "summary": "메모리 이어 파운드리도… 中 SMIC 약진에 삼성, 2위 자리도 '흔들' 한국경제",
+   "published": "2026-09-11T07:00:10+09:00",
+   "date": "2026-09-11",
+   "tags": [
+    "foundry",
+    "memory"
+   ],
+   "samsung": true,
+   "score": 14.86,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "KB證 “삼성전자, HBM4에서 zHBM까지⋯성장의 판 커진다”",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzV2hqTWFNNURiN1NWeFZVSGJKZVNNTTNUTXZleXBiMjFrc0lvNjBYbXZSeHpGX21vazRCY2lQVmo2YzVfSDl3MDBVZmFyOFE?oc=5",
    "source": "v.daum.net",
-   "summary": "잘 나가는 반도체, 9월 노사 분수령…삼성은 노조 재편·하이닉스는 재투표 v.daum.net",
-   "published": "2026-09-10T06:02:14+09:00",
+   "summary": "KB證 “삼성전자, HBM4에서 zHBM까지⋯성장의 판 커진다” v.daum.net",
+   "published": "2026-09-11T07:45:00+09:00",
+   "date": "2026-09-11",
+   "tags": [
+    "memory"
+   ],
+   "samsung": true,
+   "score": 13.98,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "Samsung 2nm push gains momentum as Synopsys cuts NPU die area by 22%",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcldrempqLU9uSmRtaWZNUHZIWm9ZeTB1dDloRkJSV1hKNVJ6dl9palhPMzZYVjd6TGRodEJ5SjhBNExIWlVETXdSdXA1NGdhUTRNM1pqd04wNGxOdEEyQVlXTkJ3eEJ2ZXRoaU5GbjFrSlJYcGJNQXducUQ1blVMNUVsX09UdVAxSnc?oc=5",
+   "source": "digitimes",
+   "summary": "Samsung 2nm push gains momentum as Synopsys cuts NPU die area by 22% digitimes",
+   "published": "2026-09-11T07:02:31+09:00",
+   "date": "2026-09-11",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": true,
+   "score": 9.86,
+   "feed": "Foundry EN"
+  },
+  {
+   "title": "[산업계 이중고] N% 성과급이 당긴 불씨, ICT까지 번진 ‘추투’…호황-불황 산업 동반 ‘파업 도미노’",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JN3RPeFNsZEp4V2tIWkhrYTVNWGFyUEZ4NjJla2tSY0lZbWxsNVl3MGUyYXctX3VKM003RUlQYlhDdXBqZnFXaGVjbHF1Y1FpS1FzOFVYb1JPYXZINm1LeWpkSS1nWEF2UlVNcmJudWpLWmlI?oc=5",
+   "source": "대한경제",
+   "summary": "[산업계 이중고] N% 성과급이 당긴 불씨, ICT까지 번진 ‘추투’…호황-불황 산업 동반 ‘파업 도미노’ 대한경제",
+   "published": "2026-09-11T05:40:17+09:00",
+   "date": "2026-09-11",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 7.63,
+   "feed": "삼성전자 실적"
+  },
+  {
+   "title": "Top Companies Racing to Build the World’s Most Advanced Chips",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFNFWHVvY08xbmlXMF9fTC1SUkJZOHF6OUhOSFU0MmNyVXZ2NGxRWVM3U0YzLTRkSW0xc3pkR0JiM0RjQnNHX0Z6UDF6WjlIdEpmQzFqdW9xMW5jQmZObEFOZ3F6dnZTX2VYcFMzcDBPbTVYWUhoN1NVQkFZd1BxQ2RZazRON2hYTHR5NkZ6b0FvMmNaLUhoVUZhbk52QVFHUTlIeUN5RVZ4NF9pdHfSAa4BQVVfeXFMUExTRVh1b2NPMW5pVzBfX0wtUlJCWThxejlITkhVNDJjclV2djRsUVlTN1NGMy00ZEltMXN6ZEdCYjNEY0JzR19GelAxelo5SHRKZkMxanVvcTFuY0JmTmxBTmdxenZ2U19lWHBTM3AwT201WFlIaDdTVUJBWXdQcUNkWWs0TjdoWEx0eTZGem9BbzJjWi1IaFVGYW5OdkFRR1E5SHlDeUVWeDRfaXR3?oc=5",
+   "source": "Analytics Insight",
+   "summary": "Top Companies Racing to Build the World’s Most Advanced Chips Analytics Insight",
+   "published": "2026-09-11T01:53:51+09:00",
+   "date": "2026-09-11",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 7.01,
+   "feed": "Foundry EN"
+  },
+  {
+   "title": "[인터뷰] 2000억 투입한 네이버, '보파모'로 사업보국 실현…\"AI 보안 주권 지킬 것\"",
+   "url": "https://zdnet.co.kr/view/?no=20260910090943",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]\"국가 위기 상황에서 해외 모델에 기대지 않고 사용할 수 있는 우리나라만의 인공지능(AI) 모델이 반드시 필요합니다. 네이버 경영진이 '보안 특화 AI 사업'에 약 2000억원 상당의 자체 그래픽처리장치(GPU) 4000장을 투입하기로 결단한 것도 이런 이유에서입니다. 앞으로 국내 AI 보안 역량을 키워 국가 발전에 이바지하고자 합니다.\"김진휘 네이버클라우드 보안 전무와 성낙호",
+   "published": "2026-09-11T06:01:01+09:00",
+   "date": "2026-09-11",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 5.69,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "MS \"AI 악용 100만 건 이상 송장 사기 메일 전송 발견\"",
+   "url": "https://zdnet.co.kr/view/?no=20260910195946",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]미국 마이크로소프트(MS)가 AI를 악용한 대규모 경영진 사칭 및 송장 사기 캠페인을 발견했다. 보안분야서 캠페인(campaign)은 광고나 홍보 활동을 뜻하는 게 아니라, 공격자(해커)가 특정 목적을 달성하기 위해 일정 기간 동안 벌이는 일련의 사이버공격 활동을 의미한다. 이번 송장 사기 캠페인은 제3자 이메일 전송 인프라를 이용, 금융 사기 이메일 100만 건 이상을 발송했",
+   "published": "2026-09-11T01:00:01+09:00",
+   "date": "2026-09-11",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 4.85,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "위통, 유럽 최초의 종합 서비스 센터 개소",
+   "url": "https://zdnet.co.kr/view/?no=20260911001015",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]노르웨이에 위치한 시설로 정비, 검사 및 부품 공급을 통합해 배터리 전기버스의 차량 전 수명주기 지원 스토케, 노르웨이 2026년 9월 10일 /PRNewswire/ -- 위통버스(Yutong Bus)가 9월 8일 노르웨이 스토케에서 유럽 최초의 위통 서비스 센터(Yutong Service Center, 이하 '센터')를 공식 개소하면서, 차량 인도, 애프터서비스, 예비 부품 ",
+   "published": "2026-09-11T00:10:15+09:00",
+   "date": "2026-09-11",
+   "tags": [
+    "equip",
+    "market"
+   ],
+   "samsung": false,
+   "score": 4.72,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "2026 ZTE 글로벌 서밋 & 유저 콩그레스, 쿠알라룸푸르에서 개막하며 연결성에서 디지털 가치 창출로 도약",
+   "url": "https://zdnet.co.kr/view/?no=20260911001004",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아] 제15회 ZTE 글로벌 서밋 & 유저 콩그레스(ZTE Global Summit & User Congress)가 말레이시아 쿠알라룸푸르에서 공식 개막했으며, GSMA M360 아세안(GSMA M360 ASEAN)과 처음으로 동시 개최 말레이시아 장관급 인사, 주말레이시아 중국대사, GSMA 지도부, 글로벌 통신사 임원 및 업계 파트너들이 네트워크 진화, AI 기반 혁신 및 디지",
+   "published": "2026-09-11T00:10:04+09:00",
+   "date": "2026-09-11",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 4.72,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "삼성 '엑시노스' 2Q 점유율 9%로 껑충…2나노 파운드리도 탄력",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rREc4R1FKUlFGbjlwTFI3ZFpxUS1OUzQ3SHhZOXNiNi14VEo5clJHOTIxU1otYWR3bFpjMHhraXQ3SXAyeEoxWkFWRDhINkE?oc=5",
+   "source": "v.daum.net",
+   "summary": "삼성 '엑시노스' 2Q 점유율 9%로 껑충…2나노 파운드리도 탄력 v.daum.net",
+   "published": "2026-09-10T18:55:29+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry",
+    "market"
+   ],
+   "samsung": true,
+   "score": 17.84,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "삼성전자 파운드리 중국 SMIC에 역전당할 판, 한진만 테일러 공장으로 두자릿수 점유율 회복 나선다",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jeGJfOVpwLUs5RFV4REpLTjlQeDdoSGJZQ2Q3aDNKek5vRE1ZaWRvd3ZsTHlKclhTWjRLamdUTmpVcklGTjJ2VlV6dFNKZFFETjRfR1JEaXlQcG01Nkc5Vm9qOGwyLWVHMkM5UmRKY2c0bTA?oc=5",
+   "source": "비즈니스포스트",
+   "summary": "삼성전자 파운드리 중국 SMIC에 역전당할 판, 한진만 테일러 공장으로 두자릿수 점유율 회복 나선다 비즈니스포스트",
+   "published": "2026-09-10T15:19:17+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry",
+    "market"
+   ],
+   "samsung": true,
+   "score": 17.24,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "2나노 탑재한 아이폰18…삼성·TSMC, GAA 기술력 '진검승부'",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB3dlhjQ1lTWjJhX2thdlVZWUg1ZkRqZFdqNzNFcUlxcjVxR2x5bXZCRjQydllQYlJYLTBJbDdDalQtcEV4RGc?oc=5",
+   "source": "v.daum.net",
+   "summary": "2나노 탑재한 아이폰18…삼성·TSMC, GAA 기술력 '진검승부' v.daum.net",
+   "published": "2026-09-10T11:16:34+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": true,
+   "score": 14.57,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "OpenAI·삼성 '차세대 칩' 협력 진전…파운드리까지 손잡나",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXNJeWdzbk56MXBuSVVVR29jdE1UN3B4NU5qanpTOFo2ZUI4MTdsQWlNRVJ1aTNvcUhsR3VNUmk3MGhRcFNzUzl3ZU5yTHJqTVh0Z2puN01pVGEwMU5VTDBhc3BtbkNPek1CQlFad21OeTM0SFJCQTd1UWdrSXhQazFVX3lWdw?oc=5",
+   "source": "글로벌이코노믹",
+   "summary": "OpenAI·삼성 '차세대 칩' 협력 진전…파운드리까지 손잡나 글로벌이코노믹",
+   "published": "2026-09-10T16:10:40+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": true,
+   "score": 12.39,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "대만에 밀리고 중국에 쫓겼다…삼성 파운드리, 2위 사수",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QSU1nUUhaVzhON3NfYlBpOHNPeDhMbEJhUWFwQVJLSXFaV1lxU0s2OWEyak51WkdwaldwU0Mwc1hGY3FqM21tOXI5ekVWTlFzWUxaNktMZDRZUQ?oc=5",
+   "source": "한국경제",
+   "summary": "대만에 밀리고 중국에 쫓겼다…삼성 파운드리, 2위 사수 한국경제",
+   "published": "2026-09-10T11:03:35+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry",
+    "market"
+   ],
+   "samsung": true,
+   "score": 11.53,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "2분기 파운드리 매출 사상 최대…삼성·TSMC 격차 66%p",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8walVyVEQ2ZXkyN1puNE12b3VVRkF3T2hVa3JZckx2R0NDTjFLdmFjdWRvUUVXUjd1SXd6NDdwaVJxc0xZWGZMTWFGUEVMS01zUUswSk9xTjlrVHRIVDdRV0lwNFhTM09YVkE?oc=5",
+   "source": "컨슈머타임스",
+   "summary": "2분기 파운드리 매출 사상 최대…삼성·TSMC 격차 66%p 컨슈머타임스",
+   "published": "2026-09-10T09:08:05+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": true,
+   "score": 11.21,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "SK하이닉스, 하이브리드 본딩 적용 시점…“기술 아닌 고객 수요·표준이 결정”",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qRmxSenQ2UDFzOVdGSlp5QWlZMUsyUVlXVjZ0ODVZQ3QwZkdEUmtkZ3QtMU5UNjZLRXRaaUJpQmF1OUs4QmNpTUJvMVlmb0RHQnd5dWlydllxVHNVcHNxZ3lqeS1OWnpnVnVocnVrZ1c2SEEtcjNJ0gF3QVVfeXFMTWpGbFJ6dDZQMXM5V0ZKWnlBaVkxSzJRWVdWNnQ4NVlDdDBmR0RSa2RndC0xTlQ2NktFdFppQmlCYXU5SzhCY2lNQm8xWWZvREdCd3l1aXJ2WXFUc1Vwc3FneWp5LU5aemdWdWhydWtnVzZIQS1yM0k?oc=5",
+   "source": "스트레이트뉴스",
+   "summary": "SK하이닉스, 하이브리드 본딩 적용 시점…“기술 아닌 고객 수요·표준이 결정” 스트레이트뉴스",
+   "published": "2026-09-10T16:49:13+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "pkg",
+    "memory"
+   ],
+   "samsung": false,
+   "score": 10.49,
+   "feed": "어드밴스드 패키징"
+  },
+  {
+   "title": "Samsung Exynos Rebounds to 9% Mobile AP Share in Q2 as 2nm Process Stabilization Pays Off",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fSUtVdkQ3OFYtMkxEekVMUW8yUjc5azBMY3AxeHo3TUtVS2NXUTdJa0xXVHJ6aWY3RE1IeEs5bVlraGdZbS14eEN1V2JPTzE0WWNNcTdyTmRfUXdXMWhkOXJIYjJtZUlqcVZibkc3TU5HY1BORlE?oc=5",
+   "source": "finance.biggo.com",
+   "summary": "Samsung Exynos Rebounds to 9% Mobile AP Share in Q2 as 2nm Process Stabilization Pays Off finance.biggo.com",
+   "published": "2026-09-10T18:35:00+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": true,
+   "score": 9.79,
+   "feed": "Foundry EN"
+  },
+  {
+   "title": "삼성전자, 포괄하는 노조에서 사실상 ‘반도체 중심 노조’로 조직 성격을 재편",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xV0ZqcFhwSTlIRWh4UkFBMXRGYzU5UTdHdHF2Rml5RzV2cVRHZjZ4TDRsMHdkQzY1SlBCWTI5ZU5QRkM1aS1QdjUxSURhbEVEVndMZ2JXN1MzcHBNWDk3aXlWT0U2aXQ0?oc=5",
+   "source": "정경시사 FOCUS",
+   "summary": "삼성전자, 포괄하는 노조에서 사실상 ‘반도체 중심 노조’로 조직 성격을 재편 정경시사 FOCUS",
+   "published": "2026-09-10T18:32:14+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 9.78,
+   "feed": "삼성전자 실적"
+  },
+  {
+   "title": "\"'월세 70만원' 받으려 면적 줄였나\"…삼성전자 평택 부정수급 의혹 '확산'",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KLXJvaHdGMHZVMG13QV83SjBqWkUzYUgwOHlXWTZsREJ6eXVnaDNMZ0NlUHY2TlRPTDlXWmE1T1NXTUtGVG9mamp2aVpMUFUtbGxUSGtxTGdHeS1Kc3daedIBeEFVX3lxTE5nRHZELW91bUZoNG5IWi1rSGhadS1ublJfX1d3dVFub2tVcHQ1QkVaVjNxU2dHOG1UbkxEZk9CbERkMk9RVHZJVjl5Xzd6N3hkTmt5WGZFeXJqVTF6alRyN0lCakNMOUxza1BUYW5GUVZPZEFuNEdfeQ?oc=5",
+   "source": "뉴시스",
+   "summary": "\"'월세 70만원' 받으려 면적 줄였나\"…삼성전자 평택 부정수급 의혹 '확산' 뉴시스",
+   "published": "2026-09-10T16:43:20+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 9.48,
+   "feed": "삼성전자 실적"
+  },
+  {
+   "title": "노노 갈등 끝 결국… 삼성전자 초기업노조에 반도체 DS만 남긴다",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83MjhCUHR5VHNYMkFZLW96S1FfemZ2U3JDeGlzVWY1Y3ZzMVM2enMwOFNrOHJMUUdNaGNhSDF0TGphc2hCX3piR2RuX0xpMUJMRE5wcFZCWVdCSm9URERrc0Q1M1hMa2owLUs0?oc=5",
+   "source": "비즈한국",
+   "summary": "노노 갈등 끝 결국… 삼성전자 초기업노조에 반도체 DS만 남긴다 비즈한국",
+   "published": "2026-09-10T16:01:44+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 9.36,
+   "feed": "삼성전자 실적"
+  },
+  {
+   "title": "삼성SDI도 삼성전자 반도체 부문처럼…성과급 재원 ‘영업이익’ 기준으로 변경 - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaGFqU01yWVRFcUU1Z0JnTVVETWR3c0JJSWlnLS1tVFAtV3JlRDdaYUpma190LUs3WmVZMzEwRVlnNFQzUGxEMTR6NWNZVHUzNmZoS3lhWF94R1FWS2NoMUJsZV9aeWNBZTJjMFdLZU9HNm9SQTBYazljUzZvMkF2cEIwMUjSAZgBQVVfeXFMTkNaMzNwZVpSazNoZmstVHU3NFRfOXF6MmtLZl9wakJpV29yUEFRdzhyblExRS1zejRIeDJiTkNhR0JQQU8xT0FuNzVwaUwxMDA2VGg4T0NaanJlMzZJYzUxRzlGUWd5NldscXRuLW43VmZYcnlpVE1SZ19USUFKQjIzdnAtWjZSalVENjV4RTNVR1AyZDFuZ1E?oc=5",
+   "source": "Chosunbiz",
+   "summary": "삼성SDI도 삼성전자 반도체 부문처럼…성과급 재원 ‘영업이익’ 기준으로 변경 - 조선비즈 Chosunbiz",
+   "published": "2026-09-10T14:32:00+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 9.11,
+   "feed": "삼성전자 실적"
+  },
+  {
+   "title": "티에스이, 삼성전자·SK하이닉스 HBM4·4E 프로브카드 공급 가속 페달",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RdlVYMXZWQVBXeEg4aFdNd1V0U0FvQWVlNXNQZGFtN1p3VTRRWTdkZlVMdmQzSTcxYTJUdG53S084b0kyTldVc1FaTUpYNEtSMjZ1Z0lBWkJPVWI4OWl0SmNXNm5IYUhJNGxuNXFjTkdXUdIBdkFVX3lxTFA4RTlfOGc3SHg3aDlvQnA3YW5ORDRiUlhReHdSVndDclBoRUVVdkdsaW56RHowdk1KVjN1cG5fakZuSGVjdG4tOEdBelRwWWNfZnZfZE8yTFMzTUlYci0yMG5KRG5PRHhHc0x3Wnl2SGc1WnhpaGc?oc=5",
+   "source": "시사저널e",
+   "summary": "티에스이, 삼성전자·SK하이닉스 HBM4·4E 프로브카드 공급 가속 페달 시사저널e",
+   "published": "2026-09-10T14:01:21+09:00",
    "date": "2026-09-10",
    "tags": [
     "memory"
    ],
    "samsung": true,
-   "score": 9.7,
-   "feed": "삼성전자 실적"
+   "score": 9.03,
+   "feed": "HBM"
   },
   {
-   "title": "애플, '아이폰18 프로' 공개…가변 조리개·A20 프로로 카메라·성능 강화",
-   "url": "https://www.etnews.com/20260910000004",
-   "source": "전자신문",
-   "summary": "애플이 '아이폰18 프로'와 '아이폰18 프로 맥스'를 공개했다. 아이폰 최초로 가변 조리개 카메라를 적용하고 2나노미터(㎚) 공정 기반 'A20 프로' 칩과 차세대 베이퍼 챔버를 탑재했다. 국내 출고가는 각각 199만원, 219만원부터다.〈본지 8월26일자 2면 참조〉 애플은 9일(현지시간) 미국 캘리포니아주 쿠퍼티노 애플파크에서 신제품 공개 행사를 열고 아이폰18프로와 프로맥스를 공개했다",
-   "published": "2026-09-10T06:42:21+09:00",
+   "title": "OpenAI Confirms Samsung Chip Program; Samsung Has Half Its Best Node Reserved for Its Own Memory",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbTZKMENEM1RqT2M0U25hbnlVWURleUctcVNyaGpmNnYxbGlkLUp0TTc3cFhYQ3cwYWVYNTNHcWE0a3E5eXZCYkJkSXMxaDRnNktrOHdidEwtN0dPVHVXb1ZCdGcwYnUxNjg3ODR4S0Z6R1Y4ZEI3eUpOcHRMMHFDNXRGbTZYN2plenBzZXY4MGRNVmxtZUQ5VDNFRTZIUDBoc3gxX1B0aTVtWm5HZDNreWZabnBSTjJ3VUx4WlhIZE1HSlpGMVRPbDlyNXduQTJ5aG9Hd3lScnNzamUtUDBv?oc=5",
+   "source": "Tech Times",
+   "summary": "OpenAI Confirms Samsung Chip Program; Samsung Has Half Its Best Node Reserved for Its Own Memory Tech Times",
+   "published": "2026-09-10T23:16:39+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 8.57,
+   "feed": "Foundry EN"
+  },
+  {
+   "title": "OpenAI Adds Samsung Foundry to Its Silicon Program, Closing TSMC-Only Risk",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa3FSdzdTZXhnVU82d2NESnUzY3RwUFE1OXJXcnI2OVVrMDlUd1JsMmt6TnVYQkw4OE5Pa1RVdk5GVXpHM0VBZEMwZ2pIcDkxZ2M3SFJqX2lZUGFTWEpITFFqSTQ1eEZxcklxZldhdzduTGVMejhjRmtuRVlWYkptelUzTDdzc2ZPcVdFZHVyVUpkR3RqczNFVTFWUk1fZTlPUUtHcmRmdnM4NzBFYnhPallOaEd1ZUVnNFRaSFRzSXEtT1k?oc=5",
+   "source": "Tech Times",
+   "summary": "OpenAI Adds Samsung Foundry to Its Silicon Program, Closing TSMC-Only Risk Tech Times",
+   "published": "2026-09-10T22:11:10+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": true,
+   "score": 8.39,
+   "feed": "Foundry EN"
+  },
+  {
+   "title": "메모리반도체 호황 2030년까지 지속 전망, 삼성전자 SK하이닉스 가격 인상 '절제'가 관건",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NSDROakVyQmhjNnFDZzJDZF9jVkpIMU1uZFZlc3cta1V6MTFfTXBQSS1aeWxxM2YzbFc3dEJ5c2V5SVRYN09jZ3JBSTJmQVhZV3dtUzRXWkowX0N4NUNpRnJpSDFNazhxZHU4dVg0QlJHREU?oc=5",
+   "source": "비즈니스포스트",
+   "summary": "메모리반도체 호황 2030년까지 지속 전망, 삼성전자 SK하이닉스 가격 인상 '절제'가 관건 비즈니스포스트",
+   "published": "2026-09-10T10:10:59+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "memory",
+    "market"
+   ],
+   "samsung": true,
+   "score": 8.39,
+   "feed": "D램·낸드"
+  },
+  {
+   "title": "오픈AI, 삼성과 '차세대 AI칩' 공동 개발·생산 협력…HBM 넘어 보폭 넓힌다",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rWVpldUhfeXVSeWhFX0pRTDU2ektYeG1haEw5eHF6bTFmN1BuR3dNZzc3X3dtWEl0aksxaUZIb2pRMUt3OFlic3ktVG04MnVORU9fdXh5QmVJUFVZeDQ1QlgzLTRRZjNhU21talZkQ1NWZjDSAXdBVV95cUxPRWZ1T2dLVmxLOHg0SU8wVFZ1aWRlYmNhVW85dzE2bGIyck9SSjRnbDFzVkRWU09JTWlKLWxIVUZGa04tRTRSNTg4QWhKWWZTR25PSlBuTlpRYk5NdHQ1c1l3YWxXaVJMVFI3Rlo4V0FHNlZGc2lmaw?oc=5",
+   "source": "핀포인트뉴스",
+   "summary": "오픈AI, 삼성과 '차세대 AI칩' 공동 개발·생산 협력…HBM 넘어 보폭 넓힌다 핀포인트뉴스",
+   "published": "2026-09-10T08:16:00+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "memory"
+   ],
+   "samsung": true,
+   "score": 8.07,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "삼성전자 27만원·SK하이닉스 190만원 돌파…프리마켓 동반 강세",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ab3NOcFlLa0ZtTHZjN2x1WmZ2NkkxUG0zNkY4ZE10ZHZCQVAtSEtwdWExdXBfWWVjQXBOVnozWmhYQ2xiTlpsdlBhZEhsMklQNXIzb2hpMFFBLVlGaTFYOdIBeEFVX3lxTFBaV0RfVDc4NjdVNEdCYkcybE9Kd3RUYmZCNjdQYVp5OG0tZWNCTEZMdUV5VmJTeWxPdXR3X1NxUEp2M3RjTlNLZlk1Y0YtY0pULXJOMGxHUEFsUi1XazZ2N09QSUltX3BQZ3Z0LXEtZ0pMYjJfcDRGLQ?oc=5",
+   "source": "뉴시스",
+   "summary": "삼성전자 27만원·SK하이닉스 190만원 돌파…프리마켓 동반 강세 뉴시스",
+   "published": "2026-09-10T08:14:47+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "memory"
+   ],
+   "samsung": true,
+   "score": 8.06,
+   "feed": "D램·낸드"
+  },
+  {
+   "title": "Samsung's Texas 2nm Fab Fully Booked; Yields Hit 80%, Closing In on TSMC",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95WjBBVk1ZaHBDYmh1dldwcS1mMTdvMVBJa2ItVjNiOWdjMDJRMHY1ME0tREZiczN6RGZWYlM4VVE2eFpHeHItSldOUTZIVTBLazZ1dU9HVl9OTVpKcmhpQnVGd1lycGhoQ2xMVG9IZkpxVWx2eXc?oc=5",
+   "source": "finance.biggo.com",
+   "summary": "Samsung's Texas 2nm Fab Fully Booked; Yields Hit 80%, Closing In on TSMC finance.biggo.com",
+   "published": "2026-09-10T19:35:00+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": true,
+   "score": 7.95,
+   "feed": "Foundry EN"
+  },
+  {
+   "title": "클레온-삼성전자, ‘게임스컴 2026’서 ‘페이커’ 디지털 휴먼 공개",
+   "url": "https://zdnet.co.kr/view/?no=20260910180907",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]휴먼 AI 인터페이스 기업 클레온이 삼성전자와 손잡고 독일 쾰른에서 열린 게임 전시회 ‘게임스컴 2026’에서 프로게이머 ‘페이커’의 디지털 휴먼을 활용한 상호작용 팬 경험을 공개했다.10일 회사에 따르면, 지난달 26일부터 30일까지 열린 행사 현장에서 관람객들은 삼성전자 전시 공간에 구현된 페이커 디지털 휴먼과 실시간으로 소통하며 함께 사진을 촬영했다. 화면 속 디지털 휴먼",
+   "published": "2026-09-10T18:09:07+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 7.71,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "“반도체 2000조 시대 도래”…삼성·SK, ‘메모리 슈퍼사이클’ 언제까지 지속되나",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIaTE0aU5CMzRtcC1iVzJLS3QtUnUySDlBQ1hGbFRnb2JTOWEyRC0xUGpDdDdXOV80VEZlOTZvaF9FSmxraWcyMF82WFFSWldGRFRMQjRhakJLVXZKU1BYbmljMFpqRENV?oc=5",
+   "source": "CEO스코어데일리",
+   "summary": "“반도체 2000조 시대 도래”…삼성·SK, ‘메모리 슈퍼사이클’ 언제까지 지속되나 CEO스코어데일리",
+   "published": "2026-09-10T17:07:49+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "memory"
+   ],
+   "samsung": true,
+   "score": 7.54,
+   "feed": "HBM"
+  },
+  {
+   "title": "美 AMD도 ‘HBM 품귀’ 호소…인텔 파운드리 협력엔 선 긋기 [비즈360]",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB1ZGN0Q3duTVk5VUh1d0E5QWJNUVdvbmpTaUV6dDk5MHNzdFhEaHhGVnpNZXotb0t1bFNsT0NDNUdfeFktaFE?oc=5",
+   "source": "v.daum.net",
+   "summary": "美 AMD도 ‘HBM 품귀’ 호소…인텔 파운드리 협력엔 선 긋기 [비즈360] v.daum.net",
+   "published": "2026-09-10T10:47:55+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry",
+    "memory"
+   ],
+   "samsung": false,
+   "score": 7.49,
+   "feed": "TSMC"
+  },
+  {
+   "title": "TSMC 8월 매출 53% 급증 ‘사상 최대’…AI칩 수요 폭발 : 국제",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kb2w4UmRuSWQxbDBwYVZndXU0WEN0Z0xWVGk5MlZyWWFFLUFqWDBrTVJ0SGtfOU11VVAxNkRBTE9JeE54bldsVmRB?oc=5",
+   "source": "재경일보",
+   "summary": "TSMC 8월 매출 53% 급증 ‘사상 최대’…AI칩 수요 폭발 : 국제 재경일보",
+   "published": "2026-09-10T16:15:00+09:00",
    "date": "2026-09-10",
    "tags": [
     "foundry"
    ],
    "samsung": false,
-   "score": 8.81,
-   "feed": "전자신문"
+   "score": 7.4,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "삼성SDI, 성과급 기준 ‘영업이익’으로 개편…내년부터 적용",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBreWU4aXRDajQtYzNyRVlFdzRxX1dkMnB1MWpUUmN6RmVwTngwUEh6TUZQdW1oQ0R5dWlyUmYxUWptS2hnNnFONy1FSTRlOVBMWEozcTl3aWI4TkJ3ODl3SzNQaDk0VkVBOG00WXRVMNIBc0FVX3lxTE9nejdaeTVvTGhVSDVabGdEYlNISVIzZ0Zub0FCaDY5di1HVWlDbjlMcFpnNTBOb2dLVmdnU1JTNVFqZmlVSUNiR3BxMUF4WE8xdWhxY0lqZElHZWFqVkc0NkR4VXRmT0hVX1IxTGM5TEEyVWM?oc=5",
+   "source": "시사저널",
+   "summary": "삼성SDI, 성과급 기준 ‘영업이익’으로 개편…내년부터 적용 시사저널",
+   "published": "2026-09-10T15:57:48+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 7.35,
+   "feed": "삼성전자 실적"
+  },
+  {
+   "title": "삼성SDI, 성과급 산정방식 바꾼다…EVA에서 ‘영업이익 10%’로 변경",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SVGtIMDFycWtMME94NWxHVUpHSWVMZW5YZ2tOVG9KejIzRDBSQ1pUeHM0bE8xZWpnTjlpUkZ4aWdvcC1WWEgxU2x5OTM0YU56d3FuYXRkZmhJSTVEOGZwaGFfalV3R1I3bXlVRmV3RQ?oc=5",
+   "source": "뉴스퀘스트",
+   "summary": "삼성SDI, 성과급 산정방식 바꾼다…EVA에서 ‘영업이익 10%’로 변경 뉴스퀘스트",
+   "published": "2026-09-10T15:20:43+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 7.25,
+   "feed": "삼성전자 실적"
+  },
+  {
+   "title": "TSMC 내년 1.4나노 시험생산, 삼성도 추격…‘양자 영역’ 원자급 반도체 전쟁",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xOHozYlAyX0dNZWlwZ0d0cm84T2p4U2FfWXptVDlmZmltVVFIWE9CNnhIU0dxbGVRelNTeTdGdndDaGpzb1BCb1ctTmp3cGlISVlCZXpaZUtGOXR5bm9pdmhtbWlHdE1lYkFHaGhHd1k?oc=5",
+   "source": "위키리크스한국",
+   "summary": "TSMC 내년 1.4나노 시험생산, 삼성도 추격…‘양자 영역’ 원자급 반도체 전쟁 위키리크스한국",
+   "published": "2026-09-10T14:55:00+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": true,
+   "score": 7.18,
+   "feed": "TSMC"
+  },
+  {
+   "title": "Samsung Foundry and Cadence Expand AI Design Ecosystem for Next-Generation AI Infrastructure and Physical AI - Samsung Semiconductor",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQnY3dVVzM2J1UTFvd204cWtwQ2pNallFVkdIZ3VZNjd3Q0pQZXpwaFRuYnl1dnp4bG0tOWhlb3FhU2FwMURkT0xBaXlaUWRHYVpxUWdVTFpKZHRpam03S0NnLVR1MFpOd2JOZFo0QTZzdE1WTDY2emFrR05KMG91RDBGNnQxbXZFSVY5dE5EQ2xXUWtPQ2Q3RmJRclh3bW9fdW4xejlWOUJZLWxpWWM5d3pKQ2ZLUDlYaThxcjBTOHdjUDRjeFBFX0RhQXUyQnhQZmN6MHVyeEhqZHhCeDk3eWxUalJqbndqNnRGUGJkOUcxTThWYm1BLQ?oc=5",
+   "source": "Samsung Semiconductor",
+   "summary": "Samsung Foundry and Cadence Expand AI Design Ecosystem for Next-Generation AI Infrastructure and Physical AI Samsung Semiconductor",
+   "published": "2026-09-10T14:31:55+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": true,
+   "score": 7.11,
+   "feed": "Foundry EN"
+  },
+  {
+   "title": "삼성SDI도 성과급 기준 바꾼다…'영업이익 10%'",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KbU1ENXZzTXItM0ZfZnYyclpnTW1SLVBCMmNMZHRpY2x0LXFHRVNwNU5ILU01a1Nfb3N6YjdYNmRGZDE5c0c3clVSMjB0MGM4cXdhTg?oc=5",
+   "source": "dailian.co.kr",
+   "summary": "삼성SDI도 성과급 기준 바꾼다…'영업이익 10%' dailian.co.kr",
+   "published": "2026-09-10T14:24:00+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 7.09,
+   "feed": "삼성전자 실적"
+  },
+  {
+   "title": "삼성SDI도 성과급 재원 ‘EVA→영업이익’으로 바꾼다",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdHJkSURZMl9LZWRpNXQ3V1hNbnhDUmV6eTJfaVJSVERzUlpydmlNbWNKUi1ZdTNVWVRxQVlLejdYTUFJeHVCbkt2b1lVQ0hZXzVuaXlNV0xsN05qeUJNamhHci05MnhQTUJVc0k0S1lJMFY0OE1DanppZFNxNVBLYg?oc=5",
+   "source": "edaily.co.kr",
+   "summary": "삼성SDI도 성과급 재원 ‘EVA→영업이익’으로 바꾼다 edaily.co.kr",
+   "published": "2026-09-10T13:56:11+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 7.01,
+   "feed": "삼성전자 실적"
+  },
+  {
+   "title": "Apple Unveils 2nm iPhone 18: Samsung and TSMC Battle Over Packaging and Thermal Management",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UTHFnWFdaNEp1T1RtUUk0bTIyWWRCS0RjSG1FYlJ1SWdYWU85TThESmdaRVNNMEdtblNRbTR1c0ktQUp5Y2FYT1F6a1h2QnNxckVNZmFIMGNCMTRQTEVLTHFUOWlsSkJPVnBEMk5GbzhScTUyeUE?oc=5",
+   "source": "finance.biggo.com",
+   "summary": "Apple Unveils 2nm iPhone 18: Samsung and TSMC Battle Over Packaging and Thermal Management finance.biggo.com",
+   "published": "2026-09-10T11:36:00+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry",
+    "pkg"
+   ],
+   "samsung": true,
+   "score": 6.62,
+   "feed": "Foundry EN"
+  },
+  {
+   "title": "TSMC, 8월 매출 5148억대만달러…AI 칩 수요에 월간 최고치",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82dXBpZmVqT1cyVUZ5UFMtS2JURmF4SUgyVWNwdkh2SGxwTzhSZldTOERBTzIzVEtwNDZfQ0pYSXBwaGh5aFNBaFExWnhVT2wzM3dsbXJ6OTlIUDVJZ001djRDY3lnR2k2Y01MRUtOMDNCcnc?oc=5",
+   "source": "디지털투데이",
+   "summary": "TSMC, 8월 매출 5148억대만달러…AI 칩 수요에 월간 최고치 디지털투데이",
+   "published": "2026-09-10T22:09:00+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": false,
+   "score": 6.38,
+   "feed": "TSMC"
+  },
+  {
+   "title": "A20 Pro Goes 2nm: GPU Up 40%, Bandwidth Up 50% [2026] - tech-insider.org",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95WE9WR2p3V0NsUU9wMXRJTTF2Q2x4ZnFjd1JRNXFtcEFWUlhxaVJEUGRlRlozN3ZScTRvclM0LVlSWjFEZngwLVlFQXRnWlFGVEMzNHZDbjdmdDdZNEV4UkhOQnc1amVVUVR3?oc=5",
+   "source": "tech-insider.org",
+   "summary": "A20 Pro Goes 2nm: GPU Up 40%, Bandwidth Up 50% [2026] tech-insider.org",
+   "published": "2026-09-10T19:59:34+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": false,
+   "score": 6.02,
+   "feed": "Foundry EN"
+  },
+  {
+   "title": "잘 나가는 반도체, 9월 노사 분수령…삼성은 노조 재편·하이닉스는 재투표",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ncko0UEk4RS1xTXQ5eXM3dklFQWx4a0UxTG9BN2loWkN4RVg3c1hDV29Wd0pBWGtkdVM5bGJya2xCTjl6ODBvc2dmbw?oc=5",
+   "source": "v.daum.net",
+   "summary": "잘 나가는 반도체, 9월 노사 분수령…삼성은 노조 재편·하이닉스는 재투표 v.daum.net",
+   "published": "2026-09-10T06:02:00+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "memory"
+   ],
+   "samsung": true,
+   "score": 6.0,
+   "feed": "삼성전자 실적"
+  },
+  {
+   "title": "대만 TSMC, 내년 4월 '1.4나노 반도체' 시험생산...6개월 단축",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRcUhoSUViWjlxNFRGNk1GRGNybDVJS0RXa1hmbERPVkVITUpSUzVneG44aGRUNmh3UHhDYjV0SlN1N0g2cndB?oc=5",
+   "source": "아이뉴스24",
+   "summary": "대만 TSMC, 내년 4월 '1.4나노 반도체' 시험생산...6개월 단축 아이뉴스24",
+   "published": "2026-09-10T19:40:26+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": false,
+   "score": 5.97,
+   "feed": "TSMC"
+  },
+  {
+   "title": "[반도체포커스] 딥시크, 이번엔 ‘메모리 다이어트’…신형 V4.1 플래시, HBM 4분의 1·SSD 8분의 1",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wVklMYkg4ck1ndkVDVDJQVmJNemNMSzg4cDROVkExRU5MZm55TUpWbjZ1SWhXMVllUkdYbTB0cmpsLWxHb3pxd0dyTDlycVVNRUNXcnpoMENUdDM1eGtkUFI5WV9WZ1g3YWJfdVRpUUM0c3RncmhB?oc=5",
+   "source": "이코노미트리뷴",
+   "summary": "[반도체포커스] 딥시크, 이번엔 ‘메모리 다이어트’…신형 V4.1 플래시, HBM 4분의 1·SSD 8분의 1 이코노미트리뷴",
+   "published": "2026-09-10T19:14:31+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "memory"
+   ],
+   "samsung": false,
+   "score": 5.9,
+   "feed": "HBM"
+  },
+  {
+   "title": "[포토뉴스] 미리 준비하는 명절 선물",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4ODNuU2pleGJnYUZFUTh4UjdoYzZ5dHl5ZjRFX1JJbl9XOHJhWVo5a3hpam9vUm41Q0loZ2ZkbVY3NHNMeklpNXBOWTRlT0YxRktKOW41eHhxOEw3aEgyU1k2YlRRZWh3OWloTjBuRHVybzFab19HUERrTnk?oc=5",
+   "source": "부산일보",
+   "summary": "[포토뉴스] 미리 준비하는 명절 선물 부산일보",
+   "published": "2026-09-10T18:23:12+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 5.75,
+   "feed": "삼성전자 실적"
+  },
+  {
+   "title": "대만 신주싱, 애플에 폴더블폰 힌지 '골든샘플'만 공급...생산 불안정",
+   "url": "https://zdnet.co.kr/view/?no=20260910175451",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]애플이 9일(현지시간) 공개한 첫 번째 폴더블폰 '아이폰 듀오' 힌지 생산이 여전히 불안정한 것으로 10일 파악됐다. 아이폰 듀오 생산일정 지연에 가장 큰 영향을 미친 부품도 힌지였다. 당초 아이폰 듀오 힌지 퍼스트 벤더는 미국 암페놀이었지만, 세컨드 벤더였던 신주싱이 퍼스트 벤더로 힌지를 생산 중이다. 암페놀의 생산수율이 기대를 크게 밑돌았기 때문이다. 업계 관계자 A는 \"신",
+   "published": "2026-09-10T18:12:10+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry",
+    "market"
+   ],
+   "samsung": true,
+   "score": 5.72,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "TSMC, 1.4나노 공장 공정 6개월 단축…내년 시험가동",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ycUVIeDJEUkFZQV8zOXpPbkEwa1dYd0tITHpVdnYyZ1VmaWFQd1VBWVpTOFlYLWlxZlR4LWdWTk5UNXVqblMtbUxtaTVhUEM3Vk16N1RaNWF4UXBO?oc=5",
+   "source": "메트로신문",
+   "summary": "TSMC, 1.4나노 공장 공정 6개월 단축…내년 시험가동 메트로신문",
+   "published": "2026-09-10T16:53:07+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": false,
+   "score": 5.5,
+   "feed": "TSMC"
+  },
+  {
+   "title": "TSMC ‘AI 특수’ 어디까지⋯8월 매출 53% 급증해 ‘신기록’ · 비결은?",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsVkluazVIandOZTk2ZzctMUFxSWkwbVdIM0lUSy14MnZWZjlpRWN1VUZQbU1rMXNjY1dUQ3JRLXhudUwtTW5CRUU1ZFdHclVGX0pLVnNJU29nT1Fw?oc=5",
+   "source": "supple.kr",
+   "summary": "TSMC ‘AI 특수’ 어디까지⋯8월 매출 53% 급증해 ‘신기록’ · 비결은? supple.kr",
+   "published": "2026-09-10T16:14:00+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": false,
+   "score": 5.39,
+   "feed": "TSMC"
+  },
+  {
+   "title": "TSMC 8월 매출 53% 급증 '사상 최대'…\"공장 20곳 증설해도 부족\"",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LRDBJM2hRVzBaWnd2YWhlUi1VVlhYR3BiWGNkVHBtOHFQM2tILWgyeGVnbHBLOGtGZTR4R1RWd19jb05FVHEzMTZQVUNyTXpwNVlOUUVFeHdvNUQyNHFKMG5sTdIBY0FVX3lxTE5LRDBJM2hRVzBaWnd2YWhlUi1VVlhYR3BiWGNkVHBtOHFQM2tILWgyeGVnbHBLOGtGZTR4R1RWd19jb05FVHEzMTZQVUNyTXpwNVlOUUVFeHdvNUQyNHFKMG5sTQ?oc=5",
+   "source": "뉴스1",
+   "summary": "TSMC 8월 매출 53% 급증 '사상 최대'…\"공장 20곳 증설해도 부족\" 뉴스1",
+   "published": "2026-09-10T15:47:01+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry",
+    "market"
+   ],
+   "samsung": false,
+   "score": 5.32,
+   "feed": "TSMC"
+  },
+  {
+   "title": "TSMC 8월 매출 22조원 또 ‘사상 최대’…AI칩 독주에 신기록 행진",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VS1RXT25qMkdFbUNJN2FZdDlVVGc0bkVwZkNMcmd3SkFrWnpMOU1jSDEzb3hpeU5IVzN5TjFGSGFaUGNCWWxjeGFEMG0xV3liWlhEdHhhbERaRzBMbEppY3l3Sy0?oc=5",
+   "source": "포쓰저널",
+   "summary": "TSMC 8월 매출 22조원 또 ‘사상 최대’…AI칩 독주에 신기록 행진 포쓰저널",
+   "published": "2026-09-10T15:37:19+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": false,
+   "score": 5.29,
+   "feed": "TSMC"
+  },
+  {
+   "title": "2nm Chip Race Shifts To Heat-Management Packaging",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82Q3RQcnZ0RGtFbFJmWGVwZjV3UFFEYnNKcDM5aXhiMFB0YjRfbTdRYThEb3VWSV9KWm41UGxGLXRHVmQ1OFVTUm1KS2dMOTNuOWlZLW9QTGZCdVNxVHVvMHhCWC0xdEs1NVFsUElteHRIVHVP?oc=5",
+   "source": "Businesskorea",
+   "summary": "2nm Chip Race Shifts To Heat-Management Packaging Businesskorea",
+   "published": "2026-09-10T12:25:19+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry",
+    "pkg"
+   ],
+   "samsung": false,
+   "score": 4.76,
+   "feed": "Foundry EN"
+  },
+  {
+   "title": "TSMC, 내년 1.4나노 공정 제품 생산…예정보다 6개월 단축",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01dXlwd3RMVncyeFdvVUZGZEVEZ2RjVkdIMDJIaVhlci1DbVpRRUlLZmxSQWRudHVLTkxUcE9oMzJ0MXk4S19ucjBuXzJwVE85alN6U01ETGpXOWPSAWBBVV95cUxOOWhJd0E5STVhZzZTNE1rWEtOSnJBWXlvUWgtMFBvdnNiTEkzZktVY1RtMC1GNzZuUGFDYTh4SzhrdUs2TjE2TUhiTHRlbVpBTm5GUkY1a3FLNEd6Zm9CdFU?oc=5",
+   "source": "연합뉴스",
+   "summary": "TSMC, 내년 1.4나노 공정 제품 생산…예정보다 6개월 단축 연합뉴스",
+   "published": "2026-09-10T11:47:49+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": false,
+   "score": 4.66,
+   "feed": "TSMC"
+  },
+  {
+   "title": "[기고] AI 여권 없이 글로벌 시장에 설 수 있을까",
+   "url": "https://zdnet.co.kr/view/?no=20260910232602",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]냉전이 끝난 뒤 1990년대 세계화 열풍 속에서 ‘국경이 사라진다’는 말이 유행했다. 그러나 국경은 사라지지 않았다. 국경을 넘는 방식이 표준화됐을 뿐이다.사람에게는 여권이 있고, 기업에는 계약과 인증서가 있다. 상대가 누구인지 확인하고 무엇을 할 자격이 있는지 증명해야 다음 문이 열린다. 역설적으로 국경이 낮아질수록 ‘증명’의 방식은 더 정교해졌다.AI도 이제 같은 문 앞에 ",
+   "published": "2026-09-10T23:26:02+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 4.59,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "중기부 선정 '기후테크' 최고혁신상...기가에떼와 더오리진",
+   "url": "https://zdnet.co.kr/view/?no=20260910231316",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]중기부가 주관한 '모두의 챌린지 기후테크'에서 최고혁신상을 기가에떼와 더 오리진(The Origin) 두 회사가 받았다. 중기부는 10일 제주 카카오 스페이스닷원에서 '모두의 챌린지 기후테크' 파이널 피칭을 개최했다.'모두의 챌린지 기후테크'는 기후분야 우수 창업기업을 발굴해 육성해야한다는 중기부와 한국과학기술원(KAIST)의 공감대에서 출발했다. 한국과학기술원(KAIST)이 ",
+   "published": "2026-09-10T23:13:16+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "equip",
+    "market"
+   ],
+   "samsung": false,
+   "score": 4.56,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "뉴리타스, 이사회 의장으로 케이스 크루이토프 전 유니레버 북미 사장 선임",
+   "url": "https://zdnet.co.kr/view/?no=20260910231002",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]30년 경력의 업계 베테랑… 바이오테크 선도기업 뉴리타스에 글로벌 사업 확장 및 상용화 전문성 제공 기대 더블린, 2026년 9월 10일 /PRNewswire/ -- 생리활성 펩타이드 발굴 분야의 글로벌 선도기업 뉴리타스(Nuritas)가 케이스 크루이토프(Kees Kruythoff)씨를 이사회 의장으로 선임했다고 9월 10일 발표했다. 크루이토프씨는 전 유니레버(Unileve",
+   "published": "2026-09-10T23:10:02+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 4.55,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "휴네시온, NAC 솔루션 ‘i-oneNAC V3.0’ CC인증 획득",
+   "url": "https://zdnet.co.kr/view/?no=20260910225925",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]정보보안 전문기업 휴네시온의 네트워크 접근제어(Network Access Control, NAC) 솔루션 ‘i-oneNAC V3.0’이 CC(Common Criteria) 인증을 획득했다. CC인증은 정보보호제품의 보안성과 신뢰성을 국제적으로 통용하는 기준에 따라 평가하는 제도다. 공공기관을 비롯해 높은 수준의 보안성이 요구되는 환경에서 정보보호제품 도입 시 주요 기준으로 활용",
+   "published": "2026-09-10T22:59:25+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 4.52,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "김인욱 두산 전자BG 사장 \"중국 등 여러 곳 증설 검토\"",
+   "url": "https://zdnet.co.kr/view/?no=20260910220951",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]김인욱 두산 전자BG 사장이 \"현재 국내 증평·김천 공장을 증설하고 있고, 태국 공장 신설 계획을 발표했다\"며 \"(추가적으로) 중국 등 여러 지역에서 증설을 검토하고 있다\"고 밝혔다. 인천에서 열리고 있는 'KPCA쇼' 2일차인 10일 두산 부스에서 '향후 증설 계획'을 묻는 본지 기자 질문에 김인욱 사장이 이처럼 답했다. 두산 전자BG의 주력품은 인쇄회로기판(PCB) 생산에 ",
+   "published": "2026-09-10T22:29:12+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "memory",
+    "equip",
+    "market"
+   ],
+   "samsung": false,
+   "score": 4.44,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "메모리가 세계 반도체 매출 절반 차지… “AI 확산에 공급난 지속” - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONndLc2dIcDF3c09JN09VU2h3SkZZbnl6Z0ZzQldLZmJzbXBYWnhYc1c0dklBcnoydXNCc0R4VDFBWXlqd2g2T3BJaHZoLUk0RXlReGxiU2ZJdDg5OXpyQ0hQbEswU3NDOXVoR1FqNDQzTVZ3SWpoRk5OZjFyOHlVRFFR0gGWAUFVX3lxTE4xdHN5S2FMdlZOTnEwQkJtZTF3eE1nYWdZR3ZQcjR2d05jSlBRVkxXektVd052UThxMVdVYVVWbEpHb1FLUzQxUWhXUDBIVElHel9ueTZDUENMMUY4RVowWk9ubHpFRnhDTjVYQ0p4bnVEckxVQnZHNkc1cjE3X1BTTUZqdjVFVDFHUEJDa2Vud01UVlRkUQ?oc=5",
+   "source": "Chosunbiz",
+   "summary": "메모리가 세계 반도체 매출 절반 차지… “AI 확산에 공급난 지속” - 조선비즈 Chosunbiz",
+   "published": "2026-09-10T10:15:00+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "memory"
+   ],
+   "samsung": false,
+   "score": 4.4,
+   "feed": "HBM"
+  },
+  {
+   "title": "에어컴, 총괄 책임자에 쿠람 초드리 선임",
+   "url": "https://zdnet.co.kr/view/?no=20260910221003",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아] 에어컴에서 오래 재직한 임원… 성장과 AI 혁신의 다음 단계 주도 페어팩스, 버지니아, 2026년 9월 10일 /PRNewswire/ -- 에어컴(Aircom)이 제품•엔지니어링 부문 부사장을 맡아온 쿠람 초드리를 총괄책임자 겸 CTO로 승진 임명하고 에어컴 사업 전반에 대한 책임을 맡겼다고 9월 10일 발표했다. 이번 리더십 전환은 에어컴이 제품 혁신의 새로운 단계에 진입하",
+   "published": "2026-09-10T22:10:03+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 4.38,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "삼전·닉스 장 초반 '희비'…美 반도체주 강세에도 엇갈려[핫스탁]",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84YVZpdk5wcUxwcE1mRXdsRFVyOGNPd3pQT3R3N0s4enRodEl3U0pMUFEteEktUHVocUNqNWVacEpEZUdjWllycGFSN01WbGNyQ3VNUFdqbldsUUlrdmROY9IBeEFVX3lxTE1wRk5IMjQ1WW82TkZBTVU3UXJaZXBqblllMURNSDlKR0VsSjgzdV9hVWw3U2xCTDBteENaMklsbVQ3VThQVVc2akttRm9BOEZkdS1TZS0xclZZX3NCMFM4Z01oanNMdFZvUEo4UjhLQ1dWYjJCUmtrMQ?oc=5",
+   "source": "뉴시스",
+   "summary": "삼전·닉스 장 초반 '희비'…美 반도체주 강세에도 엇갈려[핫스탁] 뉴시스",
+   "published": "2026-09-10T09:35:33+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 4.29,
+   "feed": "D램·낸드"
+  },
+  {
+   "title": "HBM 넘어 D램·낸드까지 ‘품귀’…SK하이닉스 ADR 최고가",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DRVhVbnJvNzFKQXdhY1d3VEdPcVZTUG1LTVItODNEbVRqbTQ2Q3pkYTRzSHB0VlBNQTd2TktaLXRoVVhvaG1NX3c2Wm1aNFRTdTEyeDBSSGdTeUh1YV9UWnU0NmRvRDczUmEybW5MUQ?oc=5",
+   "source": "뉴스퀘스트",
+   "summary": "HBM 넘어 D램·낸드까지 ‘품귀’…SK하이닉스 ADR 최고가 뉴스퀘스트",
+   "published": "2026-09-10T09:19:32+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "memory"
+   ],
+   "samsung": false,
+   "score": 4.24,
+   "feed": "D램·낸드"
+  },
+  {
+   "title": "700~800명 지정CPO들 '권한' 강화...CEO는 '책임' 강화",
+   "url": "https://zdnet.co.kr/view/?no=20260910211643",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]현행 법상 기업 및 기관이 의무적으로 두게 돼 있는 700~800명 추정 지정 CPO들의 권한과 책임이 11일부터 대폭 강화된다. 또 해킹에 따른 개인정보보호 책임과 관리체계 강화 차원에서 사업주와 대표자(CEO)의 최종 책임을 법으로 명확히 했다. 특히 기업 및 기관의 사전예방 투자에는 인센티브를 주고, 개인정보 유출 가능성 통지제도를 처음으로 도입하는 한편 유출통지 항목 및",
+   "published": "2026-09-10T21:16:43+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 4.23,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "[인사] 방송미디어통신위원회",
+   "url": "https://zdnet.co.kr/view/?no=20260910205405",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]◇국장 승진▲방송기반국장 최선경",
+   "published": "2026-09-10T20:54:05+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 4.17,
+   "feed": "ZDNet Korea"
   },
   {
    "title": "[오늘의 증시]코스피 7000선 지켜낼까…유가·美 국채금리 상승 '부담'",
@@ -178,93 +1061,236 @@
     "market"
    ],
    "samsung": false,
-   "score": 7.97,
+   "score": 4.0,
    "feed": "D램·낸드"
   },
   {
-   "title": "성과급도 채용도 ‘엔지니어 퍼스트’⋯韓기업 인재 공식 바뀐다 [AI시대 新기술귀족 ③]",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTT2N3MEtraVBvbFRfWkhaV3ZxYXdpNGdual9lTlBTb3lhNGJoZzh1aEgxZXE1M3pwVVkzX3hyckg3eW42Y05QaTEtbTJMdXRWTzJkSlhZVzZuTlZP?oc=5",
-   "source": "supple.kr",
-   "summary": "성과급도 채용도 ‘엔지니어 퍼스트’⋯韓기업 인재 공식 바뀐다 [AI시대 新기술귀족 ③] supple.kr",
-   "published": "2026-09-10T05:00:00+09:00",
+   "title": "김성수 특임교수 \"포스트 PBS 전환 골든타임 놓쳐선 안돼\"",
+   "url": "https://zdnet.co.kr/view/?no=20260910192644",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]\"포스트 PBS(연구과제중심제) 전환의 골든타임을 놓쳐선 안된다. 정부와 국회가 전략연구사업의 법적·제도적 기반을 2027년 예산안에 실질적으로 반영해야 할 것이다.\"김성수 연세대 특임교수가 10일 국회의원회관 제1간담회의실에서 열린 '2026년도 제2회 과학기술정책포럼'에서 이 같이 주제 발표했다.김 특임교수는 과학기술정보통신부 과학기술혁신본부장과 과학기술인공제회 이사장, 한",
+   "published": "2026-09-10T19:26:44+09:00",
    "date": "2026-09-10",
    "tags": [
     "market"
    ],
    "samsung": false,
-   "score": 7.53,
-   "feed": "삼성전자 실적"
+   "score": 3.93,
+   "feed": "ZDNet Korea"
   },
   {
-   "title": "애플 '에어팟5'…ANC 강화·시리 AI·실시간 번역 지원",
-   "url": "https://www.etnews.com/20260910000007",
-   "source": "전자신문",
-   "summary": "애플이 오픈형 무선 이어폰 '에어팟5'를 공개했다. 액티브 노이즈 캔슬링(ANC) 성능을 강화하고 '시리 AI'와 실시간 번역 기능을 지원한다. 국내 가격은 19만9000원부터다. 에어팟5는 기존 프로 제품군에 집중됐던 ANC와 AI 기능을 일반형 제품까지 확대했다는 점이 특징이다. 기본 모델 가격을 20만원 아래로 책정하면서 오픈형 이어폰을 선호하지만 노이즈 캔슬링과 AI 기능도 원하는 수",
-   "published": "2026-09-10T06:54:25+09:00",
+   "title": "케이블TV 생존카드 '매출 연동제' 제시…\"가입자수 따라 콘텐츠값도 조정\"",
+   "url": "https://zdnet.co.kr/view/?no=20260910181112",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아][광주=홍지후 기자] 가입자가 줄어도 방송채널사용사업자(PP)에 지급하는 콘텐츠 대가는 고정되는 케이블TV(SO)의 비용 구조를 바꾸기 위해 매출 연동제를 도입해야 한다는 주장이 제기됐다. 실시간 방송 수신료 매출이 감소하면 콘텐츠 대가도 함께 조정하는 구조를 만들어 SO와 PP가 시장 변화에 따른 부담을 나눠야 한다는 취지다.이종관 법무법인 세종 수석전문위원은 10일 김대중컨",
+   "published": "2026-09-10T19:22:40+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "foundry",
+    "market"
+   ],
+   "samsung": false,
+   "score": 3.92,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "[카드뉴스] 회사 안 사고 사람만 몰래 빼가기 금지",
+   "url": "https://zdnet.co.kr/view/?no=20260910101208",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 최근 기업 간 인수합병 대신 회사는 인수하지 않고 핵심 인재만 쏙 데려가는 '애퀴하이어' 방식이 화제인데요. 마치 축구팀에서 실력 좋은 선수들만 통째로 스카우트하는 것과 비슷한 방식이라 눈길을 끕니다. 이런 꼼수 채용에 대해 전문가 70%가 부작용을 우려하고 있고, 괜찮다는 의견은 30%에 그쳐 걱정의 목소리가 훨씬 큰 상황이에요. 이 때문에",
+   "published": "2026-09-10T19:08:32+09:00",
    "date": "2026-09-10",
    "tags": [
     "market"
    ],
    "samsung": false,
-   "score": 5.84,
-   "feed": "전자신문"
+   "score": 3.88,
+   "feed": "ZDNet Korea"
   },
   {
-   "title": "애플 차세대 워치12·울트라4…심박 측정 정교해지고 배터리 늘었다",
-   "url": "https://www.etnews.com/20260910000005",
-   "source": "전자신문",
-   "summary": "애플이 '애플 워치 시리즈12'와 '애플 워치 울트라4'를 공개했다. 두 제품 모두 새로운 '건강 감지 시스템'과 S11 칩을 탑재해 심박수·심박 변이 측정 기능을 강화하고, 사용자의 회복 상태를 점수로 보여주는 '준비 상태' 기능을 새로 지원한다. 시리즈12 국내 가격은 59만9000원, 울트라4는 124만9000원부터다. 애플은 9일(현지시간) 미국 캘리포니아주 쿠퍼티노 애플파크에서 신제",
-   "published": "2026-09-10T06:49:30+09:00",
-   "date": "2026-09-10",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 5.83,
-   "feed": "전자신문"
-  },
-  {
-   "title": "애플, 첫 폴더블폰 '아이폰 듀오' 공개…출고가 329만원",
-   "url": "https://www.etnews.com/20260910000002",
-   "source": "전자신문",
-   "summary": "애플이 첫 폴더블 스마트폰 '아이폰 듀오(iPhone Duo)'를 공개했다. 19.3㎝ 내부 디스플레이와 13.6㎝ 외부 디스플레이를 탑재했으며 국내 출고가는 329만원부터 시작한다. 〈본지 9월8일자 2면 참조〉 애플은 9일(현지시간) 미국 캘리포니아주 쿠퍼티노 애플파크에서 신제품 공개 행사를 열고 아이폰 듀오를 선보였다. 좌우로 펼치는 폴드형 제품으로, 펼쳤을 때 19.3㎝ 슈퍼 레티나 ",
-   "published": "2026-09-10T06:30:09+09:00",
-   "date": "2026-09-10",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 5.78,
-   "feed": "전자신문"
-  },
-  {
-   "title": "신체 나이 최대 6살 어려졌다…폐 질환 후보물질 '뜻밖의 효과'",
-   "url": "https://www.etnews.com/20260909000363",
-   "source": "전자신문",
-   "summary": "인공지능(AI)을 활용해 개발된 폐질환 치료제 후보물질에서 환자들의 생물학적 나이를 되돌리는 뜻밖의 효과가 확인됐다. 8일(현지시간) 미국 폭스뉴스 등에 따르면 인실리코 메디신 연구진은 중증 희귀 폐질환인 특발성 폐섬유증(IPF) 치료제로 개발 중인 신약 후보물질 '렌토서팁(Rentosertib)'을 환자들에게 투여한 결과, 혈액 단백질 지표를 기준으로 생물학적 나이가 평균 3~4년, 최대 ",
-   "published": "2026-09-10T06:00:00+09:00",
-   "date": "2026-09-10",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 5.69,
-   "feed": "전자신문"
-  },
-  {
-   "title": "“침 맞는 개·고양이, 효과 있다”…中, 노령 반려동물 '한방치료' 확산",
-   "url": "https://www.etnews.com/20260908000273",
-   "source": "전자신문",
-   "summary": "중국에서 나이가 많은 반려동물의 건강을 돌보기 위해 전통의학을 활용하려는 보호자들이 증가하고 있다. 한약이나 침, 뜸뿐 아니라 벌침을 이용한 치료까지 반려동물 진료 영역에 등장하면서 관련 시장도 점차 확대되는 분위기다. 7일(현지시간) 홍콩 사우스차이나모닝포스트(SCMP)는 중국의 한 소셜미디어(SNS)에서 반려동물 전통의학 치료를 의미하는 '#petTCM' 해시태그가 500만회 이상의 조회",
-   "published": "2026-09-10T06:00:00+09:00",
+   "title": "외국인 98%·개인 79% 최윤범 측 선택…고려아연 주총 표심 뜯어보니",
+   "url": "https://zdnet.co.kr/view/?no=20260910184352",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]고려아연과 MBK파트너스·영풍이 맞붙은 감사위원 선임 표대결에서 일반주주 표심이 승부를 갈랐다. 대주주 의결권이 제한되는 ‘3% 룰’이 적용된 가운데 외국인과 개인주주 다수가 고려아연 이사회가 추천한 백인규 후보를 선택한 것으로 나타났다.10일 업계에 따르면 전날 열린 고려아연 임시주주총회에서 백 후보는 의결권이 있는 발행주식 총수 기준 81.8% 찬성률로 감사위원이 되는 독립",
+   "published": "2026-09-10T18:58:21+09:00",
    "date": "2026-09-10",
    "tags": [
     "equip",
     "market"
    ],
    "samsung": false,
-   "score": 5.69,
-   "feed": "전자신문"
+   "score": 3.85,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "[AI는 지금] AMD 추격에 '쿠다' 더 세졌다…엔비디아, AI SW 주도권 강화 가속",
+   "url": "https://zdnet.co.kr/view/?no=20260910184038",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]엔비디아가 인공지능(AI) 가속기 시장의 주도권을 지키기 위해 소프트웨어 경쟁력을 한층 강화하고 있다. 차세대 그래픽처리장치(GPU)인 '루빈' 출하가 시작된 가운데 쿠다(CUDA)의 개발 지원을 확대하고 공유 GPU 관리와 AI 코딩 기능까지 고도화하면서 기업과 개발자를 자사 생태계에 더욱 깊숙이 끌어들이려는 모양새다.엔비디아는 지난 9일 '쿠다 툴킷 13.4'를 공개했다고 ",
+   "published": "2026-09-10T18:46:12+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "memory",
+    "market"
+   ],
+   "samsung": false,
+   "score": 3.82,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "네이버웹툰 작가 만족도 4년 새↑…\"글로벌 진출 기회 긍정적\"",
+   "url": "https://zdnet.co.kr/view/?no=20260910165232",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]네이버웹툰과 직접 계약한 창작자들의 플랫폼 만족도는 전반적으로 높은 것으로 나타났다. 특히 수익 정산과 계약 절차에 대한 신뢰도가 높았으며, 4년 전과 비교해서는 글로벌 시장 진출 기회에 대한 평가가 눈에 띄게 개선됐다.10일 고려대학교 엔터테인먼트경영연구센터와 한국미디어경영학회가 개최한 ‘지속가능한 웹툰 생태계를 위한 질문’ 세미나에서는 네이버웹툰 계약 창작자들을 대상으로 진",
+   "published": "2026-09-10T18:37:44+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 3.79,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "이정문 \"문화유산 촬영 허가 여전히 '프리패스'…가이드라인 사후 관리 전무\"",
+   "url": "https://zdnet.co.kr/view/?no=20260910180331",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]국가지정 문화유산의 훼손을 막기 위해 도입된 방송 촬영 허가 가이드라인이 시행 1년 반을 넘겼음에도 모든 신청 건이 여과 없이 승인된 것으로 드러났다.국회 문화체육관광위원회 소속 더불어민주당 이정문 의원(충남 천안병)은 국가유산청으로부터 제출받은 자료를 분석한 결과, 가이드라인이 시행된 지난해부터 올해 8월까지 국가지정 문화유산 소재지 8개 지자체에 접수된 방송 촬영 신청 53",
+   "published": "2026-09-10T18:17:01+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "equip",
+    "market"
+   ],
+   "samsung": false,
+   "score": 3.74,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "\"롯데다움, AI로 만든다\"…롯데, 디자인 플랫폼 개발 추진",
+   "url": "https://zdnet.co.kr/view/?no=20260910165303",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]롯데가 그룹의 브랜드와 디자인 철학을 인공지능(AI)에 학습시킨 자체 디자인 플랫폼 개발을 추진한다.롯데는 이날 롯데월드타워에서 ‘2026 롯데 디자인전략회의’를 열고 그룹의 브랜드 정체성과 디자인 전략을 점검했다고 10일 밝혔다. 회의에는 신동빈 롯데 회장을 비롯해 롯데지주 대표와 주요 계열사 대표 등 약 50명이 참석했다.올해 디자인전략회의의 주제는 ‘상상, 그 너머를 상상",
+   "published": "2026-09-10T18:16:31+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 3.73,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "롯데온, '뷰세라' 특가 행사 13일까지 연다",
+   "url": "https://zdnet.co.kr/view/?no=20260910162428",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]롯데온은 환절기 피부 관리에 적합한 뷰티 상품을 합리적인 가격에 선보이는 '오늘의 특가'를 내건 '뷰세라'를 오는 13일까지 시행한다고 10일 밝혔다.롯데온이 지난달 31일부터 이달 9일까지 뷰세라 판매 실적을 살펴본 결과, 보습과 피부 컨디션 관리에 초점을 맞춘 상품들이 높은 관심을 받은 것으로 나타났다.▲SK-II 피테라 에센스 ▲설화수 자음생 2종 세트 ▲록시땅 시어 버터",
+   "published": "2026-09-10T18:14:42+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 3.73,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "피부과 전문의 없는 피부진료 의원…\"3명 중 2명은 간판에 속아\"",
+   "url": "https://zdnet.co.kr/view/?no=20260910143839",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]피부질환의 올바른 치료를 위해서는 피부과 전문의의 진료가 필수적이지만, 환자들이 비전문의 진료를 전문의 치료로 오인하는 사례가 많다는 지적이 나왔다.대한피부과학회가 10일 ‘소중한 나의 손, 피부과 전문의와 함께’를 주제로 개최한 ‘제24회 피부건강의 날’ 기자간담회에서 이하은 포레피부과 원장은 피부질환의 원인이 다양한 만큼 피부과 전문의의 진료를 받는 것이 중요하다고 강조했다",
+   "published": "2026-09-10T18:13:55+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 3.73,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "스마일게이트, 'CFS 2026 그랜드 파이널' 11월 중국 우한서 개최",
+   "url": "https://zdnet.co.kr/view/?no=20260910175951",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]글로벌 18개 팀이 맞붙는 세계 최고 권위의 크로스파이어 e스포츠 대회가 새로운 진행 방식을 도입해 중국 우한에서 개막한다.스마일게이트는 간판 e스포츠 대회인 'CFS 2026 그랜드 파이널'을 개최한다고 10일 밝혔다. 본 대회는 오는 11월24일부터 12월6일까지 중국 후베이성 우한에서 진행된다.올해로 13주년을 맞은 이번 대회의 공식 슬로건은 팀과 팬이 함께 전진한다는 의",
+   "published": "2026-09-10T18:03:01+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 3.7,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "문체부, 제1회 한중 여행업계 교류회 개최…지역관광 활성화 모색",
+   "url": "https://zdnet.co.kr/view/?no=20260910174921",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]한국과 중국의 여행업계가 사상 처음으로 공식 교류의 장을 열고 방한 관광객의 지방 유치 확대를 위한 협력에 나선다.문화체육관광부는 한국관광공사, 한국여행업협회와 함께 10일 인천에서 '제1회 한중 여행업계 교류회'를, 11일 경북 안동에서 '지역관광 설명회 및 트래블마트'를 연이어 개최한다고 밝혔다.이번 행사는 양국 여행협회 간 최초로 열리는 공식 교류로, 수도권에 편중된 방한",
+   "published": "2026-09-10T17:56:01+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 3.68,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "민음사 빵 다음은 '밀리의서재빵'…연세유업과 10주년 기념 협업",
+   "url": "https://zdnet.co.kr/view/?no=20260910161200",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]kt 밀리의서재는 창립 10주년을 맞아 연세대학교 연세유업과 함께 '연세우유 밀리의 생크림빵'을 출시한다고 10일 밝혔다.이번 제품은 밀리의서재가 창립 10주년을 기념해 진행하는 프로젝트 가운데 하나다. 밀리의서재는 이번 협업을 통해 독서와 먹는 즐거움을 결합했다. 책과 콘텐츠에 한정됐던 브랜드 경험을 미식 분야로 넓혀 기존 이용자뿐만 아니라 밀리의서재를 이용해 보지 않은 소비",
+   "published": "2026-09-10T17:55:06+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 3.67,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "문체부, 지방공항 중심 5대 대표 관광권 확정…지역 관광 육성 시동",
+   "url": "https://zdnet.co.kr/view/?no=20260910174525",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]수도권에 집중된 외국인 관광객의 발길을 전국으로 분산하기 위해 5개 지방국제공항을 거점으로 인근 도시를 묶는 대규모 초광역 관광권이 조성된다.문화체육관광부는 지방공항을 중심으로 새로운 지역관광 성장축을 구축하는 '지방공항 중심 5대 관광권'을 최종 확정했다고 10일 밝혔다.이번 권역 선정은 방한 외래객의 지역 분산을 유도하기 위한 정책으로, 민간 전문가 중심의 관광권 선정위원회",
+   "published": "2026-09-10T17:47:01+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 3.65,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "\"직매입 대금 35일 내 지급...재고 떠안는 대량매입 어려워질 수도\"",
+   "url": "https://zdnet.co.kr/view/?no=20260910163132",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]대규모 유통업체의 납품대금 지급기한을 단축하는 법안이 국회 문턱을 넘으면서 유통업계가 향후 영향을 예의주시하고 있다. 납품업체의 자금 부담을 덜어주겠다는 취지지만 직매입 비중이 높은 유통업체에서는 기존 자금 운용 방식의 변화가 불가피하다는 목소리가 나온다.10일 유통업계에 따르면 직매입 납품대금 지급기한 단축을 골자로 한 ‘대규모유통업에서의 거래 공정화에 관한 법률’ 개정안은 ",
+   "published": "2026-09-10T17:42:51+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 3.64,
+   "feed": "ZDNet Korea"
+  },
+  {
+   "title": "고려대, 지방간→간암 원인 밝혀…새 치료법 제시",
+   "url": "https://zdnet.co.kr/view/?no=20260910171515",
+   "source": "ZDNet Korea",
+   "summary": "[지디넷코리아]비만이나 고지혈증 등으로 발생하는 지방간이 중증 간암으로 악화하는 원인을 밝혀냈다. 원인을 제거하면, 최소한 간암발병 원인 가운데 하나는 제거할 수 있을 전망이다.고려대학교는 구승회·지성욱 생명과학부 교수 공동 연구팀(제1저자 김근우 박사과정, 최다희 박사, 김수영 박사과정)이 대사이상지방간질환(MASLD)이 지방변성 간세포암으로 악화되는 핵심 과정을 규명했다고 10일 밝혔다.",
+   "published": "2026-09-10T17:19:11+09:00",
+   "date": "2026-09-10",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 3.57,
+   "feed": "ZDNet Korea"
   },
   {
    "title": "[전망] 삼성 파운드리, 테일러·2나노로 AI 반도체 고객 넓힐까?",
@@ -278,7 +1304,7 @@
     "market"
    ],
    "samsung": true,
-   "score": 17.98,
+   "score": 17.0,
    "feed": "삼성 파운드리"
   },
   {
@@ -292,7 +1318,7 @@
     "foundry"
    ],
    "samsung": true,
-   "score": 16.37,
+   "score": 16.0,
    "feed": "삼성 파운드리"
   },
   {
@@ -306,7 +1332,22 @@
     "foundry"
    ],
    "samsung": true,
-   "score": 15.34,
+   "score": 14.0,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "삼성전자 주가 재평가 조건은⋯“파운드리ㆍ주주환원이 관건” [찐코노미]",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KRHhHNWZqU0U5Sk5PUkV1ek5EUnNMbXBRTDBhR242YmJ3NENfSEZ5cVpXRTZ6SlZfNUMtVENjNG93bGRPU0lYRE5mWFZTWk5hamVaNA?oc=5",
+   "source": "v.daum.net",
+   "summary": "삼성전자 주가 재평가 조건은⋯“파운드리ㆍ주주환원이 관건” [찐코노미] v.daum.net",
+   "published": "2026-09-09T13:35:00+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "foundry",
+    "market"
+   ],
+   "samsung": true,
+   "score": 13.0,
    "feed": "삼성 파운드리"
   },
   {
@@ -321,37 +1362,35 @@
     "market"
    ],
    "samsung": true,
-   "score": 14.77,
+   "score": 13.0,
    "feed": "삼성 파운드리"
   },
   {
-   "title": "삼성전자 주가 재평가 조건은⋯“파운드리ㆍ주주환원이 관건” [찐코노미]",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDZ2dJd3VORUgybFp1VldNM19qRGpNdXhXUk9fLXlIdVFzRzhWNVVuWTViakZPSlQxS2hla3BSd3phdmEyMldVcmcwaWRZRE1HVFdPWQ?oc=5",
-   "source": "이투데이",
-   "summary": "삼성전자 주가 재평가 조건은⋯“파운드리ㆍ주주환원이 관건” [찐코노미] 이투데이",
-   "published": "2026-09-09T13:34:00+09:00",
+   "title": "테슬라 AI5 '양손 전략'… 삼성 2나노, 수율 논란 넘고 있나",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LOGFRMXlHcERLX2JfSnY0M1hucFFoVE1JN2hadWktNHk1OG9iNm5yVmdOaklINUsydEJZaHJOTWNXcnJsTnFwSEZnaDhLN1dUMDlPZXpiTHhxb2tsWWdLcENFVWVLdFk?oc=5",
+   "source": "초이스스탁US",
+   "summary": "테슬라 AI5 '양손 전략'… 삼성 2나노, 수율 논란 넘고 있나 초이스스탁US",
+   "published": "2026-09-09T11:29:49+09:00",
    "date": "2026-09-09",
    "tags": [
-    "foundry",
-    "market"
+    "foundry"
    ],
    "samsung": true,
-   "score": 13.95,
+   "score": 11.0,
    "feed": "삼성 파운드리"
   },
   {
-   "title": "삼성 파운드리 점유율 5.9%…中 SMIC 턱밑 추격",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRmRNZlRVa3N1aFA0dEJzdGRMcklONlo0ZktKSy1Mb0YyT01jUnQwLUZGdXZTNUZpSllPeF9SZ2w0YWNzUGlOZVJYSl91QzdDd1gybHVGN2oxMm1UdS1CZjdLRy1aZ1hhc01Ya1ktek5HRWxaSGs2WndBb3phTWtUQw?oc=5",
-   "source": "edaily.co.kr",
-   "summary": "삼성 파운드리 점유율 5.9%…中 SMIC 턱밑 추격 edaily.co.kr",
-   "published": "2026-09-09T18:52:38+09:00",
+   "title": "2분기 전세계 파운드리 매출 11.5%↑…TSMC·삼성 격차 확대",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11WkNQek10Q19sOXRDWkVscWg3Z3cwTFJET2dfRk1mYjRLQlBTZ2dsa3drcmh3bElnZ3RNdDBQYkRUNF95WURETThkMVk0My1FTGtiSTJ5RlRjZGfSAWBBVV95cUxPWUhESE5vS2RCR2poajNIUVRWekFIVkFabHh3dzMxOThiRkJMQnYtZlZZN0V0Y3V2OHgwS09mVXAteUdVSWx5OE9qWHN6TFFVNEFCaWdkV0xGTURGZ0xrMEU?oc=5",
+   "source": "연합뉴스",
+   "summary": "2분기 전세계 파운드리 매출 11.5%↑…TSMC·삼성 격차 확대 연합뉴스",
+   "published": "2026-09-09T17:46:26+09:00",
    "date": "2026-09-09",
    "tags": [
-    "foundry",
-    "market"
+    "foundry"
    ],
    "samsung": true,
-   "score": 12.84,
+   "score": 11.0,
    "feed": "삼성 파운드리"
   },
   {
@@ -366,21 +1405,7 @@
     "market"
    ],
    "samsung": true,
-   "score": 12.76,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "2분기 전세계 파운드리 매출 11.5%↑…TSMC·삼성 격차 확대",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11WkNQek10Q19sOXRDWkVscWg3Z3cwTFJET2dfRk1mYjRLQlBTZ2dsa3drcmh3bElnZ3RNdDBQYkRUNF95WURETThkMVk0My1FTGtiSTJ5RlRjZGfSAWBBVV95cUxPWUhESE5vS2RCR2poajNIUVRWekFIVkFabHh3dzMxOThiRkJMQnYtZlZZN0V0Y3V2OHgwS09mVXAteUdVSWx5OE9qWHN6TFFVNEFCaWdkV0xGTURGZ0xrMEU?oc=5",
-   "source": "연합뉴스",
-   "summary": "2분기 전세계 파운드리 매출 11.5%↑…TSMC·삼성 격차 확대 연합뉴스",
-   "published": "2026-09-09T17:46:26+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "foundry"
-   ],
-   "samsung": true,
-   "score": 12.65,
+   "score": 11.0,
    "feed": "삼성 파운드리"
   },
   {
@@ -394,21 +1419,7 @@
     "foundry"
    ],
    "samsung": true,
-   "score": 11.81,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "삼성전자, 미스트랄 AI과 ‘반도체 AI’ 개발...대규모 투자 이어져",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02aFBJSzdaWE15Ti1VWVdfNEZGWHM4VlQ0X2h3R252elRYSExkQzRxSW5PczBoZXIxRzFDbHlOSEtfNmR5TUhjaDJnQUZ4TkYyTm1IUmdKa2N6RVcwaEJOaTJWNVlkUE9VZzdJ?oc=5",
-   "source": "더에이아이",
-   "summary": "삼성전자, 미스트랄 AI과 ‘반도체 AI’ 개발...대규모 투자 이어져 더에이아이",
-   "published": "2026-09-09T15:53:55+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 11.34,
+   "score": 10.0,
    "feed": "삼성 파운드리"
   },
   {
@@ -422,7 +1433,35 @@
     "market"
    ],
    "samsung": true,
-   "score": 10.97,
+   "score": 10.0,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "삼성전자 초기업노조, ‘반도체 중심’ 재편 추진…내달 조합원 표결",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZZTZYbjI3cl9ZUnFzYmRYaU5PQnFVOUp4ZW5HdmRhZFAzdFotYVJtSzE5VlljTFlIaU9xR3J4ZFBNQUgxWmxMWUZjUTJsTmpleDZqM2JXM3p2d1BNU3VmZTA0NEtWNlFtbTZMUVR3OA?oc=5",
+   "source": "진일보",
+   "summary": "삼성전자 초기업노조, ‘반도체 중심’ 재편 추진…내달 조합원 표결 진일보",
+   "published": "2026-09-09T10:15:41+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 10.0,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "삼성전자, 미스트랄 AI과 ‘반도체 AI’ 개발...대규모 투자 이어져",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02aFBJSzdaWE15Ti1VWVdfNEZGWHM4VlQ0X2h3R252elRYSExkQzRxSW5PczBoZXIxRzFDbHlOSEtfNmR5TUhjaDJnQUZ4TkYyTm1IUmdKa2N6RVcwaEJOaTJWNVlkUE9VZzdJ?oc=5",
+   "source": "newstheai.com",
+   "summary": "삼성전자, 미스트랄 AI과 ‘반도체 AI’ 개발...대규모 투자 이어져 newstheai.com",
+   "published": "2026-09-09T15:53:55+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 10.0,
    "feed": "삼성 파운드리"
   },
   {
@@ -436,58 +1475,15 @@
     "pkg"
    ],
    "samsung": true,
-   "score": 10.73,
+   "score": 10.0,
    "feed": "삼성 파운드리"
   },
   {
-   "title": "삼성전자,‘유럽 오픈AI’ 미스트랄에 수천억투자,반도체용 AI 공동개발",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1NSHVaajB5N2s5VnJoX3YzcHRJZlhkcjRXZWNQY3NGTjI1ZWg0YWhXQ0NVVThJbXQxdnFFV2hOcnRGamJ2UE9J?oc=5",
-   "source": "피치원미디어",
-   "summary": "삼성전자,‘유럽 오픈AI’ 미스트랄에 수천억투자,반도체용 AI 공동개발 피치원미디어",
-   "published": "2026-09-09T11:31:47+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 10.61,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "\"LG디스플레이, 올해 아이폰 OLED 8100만대 출하 전망...전년비 11%↑\"",
-   "url": "https://zdnet.co.kr/view/?no=20260909225309",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]LG디스플레이의 올해 애플 아이폰 유기발광다이오드(OLED) 출하량이 지난해보다 11% 늘 것이란 전망이 나왔다. 시장조사업체 시그마인텔은 9일 판교에서 개최한 자체 컨퍼런스에서 LG디스플레이가 올해 아이폰 OLED를 상반기 3200만대, 하반기 4900만대 등 8100만대 출하할 것이라고 예상했다. 이는 지난해 상반기 2600만대와 하반기 4800만대 등 7300만대보다 11",
-   "published": "2026-09-09T23:07:07+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "memory",
-    "market"
-   ],
-   "samsung": true,
-   "score": 10.54,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "삼성전자 초기업노조, ‘반도체 중심’ 재편 추진…내달 조합원 표결",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZZTZYbjI3cl9ZUnFzYmRYaU5PQnFVOUp4ZW5HdmRhZFAzdFotYVJtSzE5VlljTFlIaU9xR3J4ZFBNQUgxWmxMWUZjUTJsTmpleDZqM2JXM3p2d1BNU3VmZTA0NEtWNlFtbTZMUVR3OA?oc=5",
-   "source": "진일보",
-   "summary": "삼성전자 초기업노조, ‘반도체 중심’ 재편 추진…내달 조합원 표결 진일보",
-   "published": "2026-09-09T10:15:41+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 10.4,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "삼성전자, 프랑스 미스트랄 AI와 전략적 파트너십…반도체 특화 AI 공동 개발",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ydXJKdk93VVhNUXF1RGQ0dWRTSGQ4c1N6djk0S0twbjZJZ2Fyb0h6WWxnZ3M2am5zRkwxQUNxeG9fdG8wY0tpcUdYZ2twakJhd1Q4M3ZjNDVNTkRYdUlabkZwMjBwbEtqdEFpVw?oc=5",
-   "source": "나눔경제뉴스",
-   "summary": "삼성전자, 프랑스 미스트랄 AI와 전략적 파트너십…반도체 특화 AI 공동 개발 나눔경제뉴스",
-   "published": "2026-09-09T07:44:28+09:00",
+   "title": "삼성전자, 프랑스 미스트랄과 협력...반도체 특화 AI 만든다",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tWmM1VGxmbHdiYWh5TnFGRjctTXdpNFNieU9rc3lvZU1KM2NGb1NJMUJ3UUdmaXl0ZlhEbjZ1WlNaZ0lNd2JUVkFFck1nVnRFWmtkaFF4bHpsR0RXMzhralZ6LW8xX1FwT050QWhUbkhpbkk?oc=5",
+   "source": "디지털투데이",
+   "summary": "삼성전자, 프랑스 미스트랄과 협력...반도체 특화 AI 만든다 디지털투데이",
+   "published": "2026-09-09T07:11:00+09:00",
    "date": "2026-09-09",
    "tags": [
     "market"
@@ -497,270 +1493,17 @@
    "feed": "삼성 파운드리"
   },
   {
-   "title": "삼성전자, 프랑스 미스트랄과 '반도체 특화 AI' 만든다",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xaFNRVXlBbmI0M3VMbXl3VXphdTV4eF8xMkpjeEVOUVVuazZnU0N0N3J0X0wtazRxa19kc21jcEJyc3JXVGUxdzZpUnJBSk9Mck5pempQMnpEdTRMSEplbDRjOW5LQXhoSWk2eQ?oc=5",
-   "source": "ER 이코노믹리뷰",
-   "summary": "삼성전자, 프랑스 미스트랄과 '반도체 특화 AI' 만든다 ER 이코노믹리뷰",
-   "published": "2026-09-09T01:00:00+09:00",
+   "title": "삼성전자, 미스트랄 AI와 전략적 파트너십 체결",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NT2ZrV2Rsc1ZvWDczRFZmUXYwT28xRUtKTWtTV3RrdlRHUVdOQkgtNDVSTlN1WlFRMWRoRWoxVFRWZExyMzJmN1Y3UzZBNDlleVFKRjcwdzlCVEcxSHFfQjlBRjkyak95RVRkOUo4YmJIZXFYM1HSAXZBVV95cUxNTU9ma1dkbHNWb1g3M0RWZlF2ME9vMUVLSk1rU1d0a3ZUR1FXTkJILTQ1Uk5TdVpRUTFkaEVqMVRUVmRMcjMyZjdWN1M2QTQ5ZXlRSkY3MHc5QlRHMUhxX0I5QUY5MmpPeUVUZDlKOGJiSGVxWDNR?oc=5",
+   "source": "증권경제신문",
+   "summary": "삼성전자, 미스트랄 AI와 전략적 파트너십 체결 증권경제신문",
+   "published": "2026-09-09T16:05:18+09:00",
    "date": "2026-09-09",
    "tags": [
     "market"
    ],
    "samsung": true,
    "score": 10.0,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "삼성전자ㆍ미스트랄 AI, 반도체 특화 AI 공동 개발…DS부문 생산성·정밀도↑",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ubENGMjI1M1BkN0lxUFEtTkM0dEN1TDkyUWFZS0ZwZGtkNGZDVlM2a2Rqek8xd1hzaWc3TkV0cFZhUDZIR085SGVBMnNfOUFoeUJjczVub2EwTHZsd05ISkV0T3JEYkVxQk1v?oc=5",
-   "source": "퍼블릭뉴스통신",
-   "summary": "삼성전자ㆍ미스트랄 AI, 반도체 특화 AI 공동 개발…DS부문 생산성·정밀도↑ 퍼블릭뉴스통신",
-   "published": "2026-09-09T18:24:43+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 9.76,
-   "feed": "삼성전자 실적"
-  },
-  {
-   "title": "‘슬기로운 삼성 생활’",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NMlpYeXBRcGM1X1YtSG0tbEdHYndPVGo3MTdad3lRZGYtb1ZQZkJ1MFVxZUY0cElLT3BHWGFoZ2NLcnNZR3pNbm1kdUlYLUpPWHc?oc=5",
-   "source": "서울경제",
-   "summary": "‘슬기로운 삼성 생활’ 서울경제",
-   "published": "2026-09-09T18:06:21+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 9.71,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "테슬라 AI5 '양손 전략'… 삼성 2나노, 수율 논란 넘고 있나",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LOGFRMXlHcERLX2JfSnY0M1hucFFoVE1JN2hadWktNHk1OG9iNm5yVmdOaklINUsydEJZaHJOTWNXcnJsTnFwSEZnaDhLN1dUMDlPZXpiTHhxb2tsWWdLcENFVWVLdFk?oc=5",
-   "source": "choicestock.co.kr",
-   "summary": "테슬라 AI5 '양손 전략'… 삼성 2나노, 수율 논란 넘고 있나 choicestock.co.kr",
-   "published": "2026-09-09T11:29:49+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "foundry"
-   ],
-   "samsung": true,
-   "score": 9.61,
-   "feed": "TSMC"
-  },
-  {
-   "title": "\"DS만 받겠다\"…삼성 초기업노조, DX 제외 재편 추진",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FUmJRM3ZMcFdYR19qSGdqN1RJTFNzRzY5UHFLelhrZzhtM2YzVzd3WWx5bFZNNlgyeDE3UXJscExXQTM2aV9mMmZmekU5NVc4RlJpUnlPRnA0YlVaMmIybklmRVNpdXVJZUJOZA?oc=5",
-   "source": "ER 이코노믹리뷰",
-   "summary": "\"DS만 받겠다\"…삼성 초기업노조, DX 제외 재편 추진 ER 이코노믹리뷰",
-   "published": "2026-09-09T17:04:05+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 9.54,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "삼성전자 초기업노조 ‘반도체 노조’ 전환 추진... ‘DS노조 규약변경 방해’도",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1TLUdZRUtNQ3hnVlZkMVkzY0p1VnFOelRya2dXMVlVNWUxclkyZWRnRDhKX3JFcVp2NnZBUHhTMVJYdVhuT0Vz?oc=5",
-   "source": "신문고뉴스",
-   "summary": "삼성전자 초기업노조 ‘반도체 노조’ 전환 추진... ‘DS노조 규약변경 방해’도 신문고뉴스",
-   "published": "2026-09-09T16:38:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 9.46,
-   "feed": "삼성전자 실적"
-  },
-  {
-   "title": "오픈AI·삼성, 반도체·AI 동맹 확대…차세대칩 협력 시",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0TWQ5UFNyWUZHclgzZHM5UGN0VEFiY1Vta2M5X1NXS3Y0bUR1LUpUMU93Z0ZQTEZVcGtJS2NNS3dnT0lVWWxMbk9UdzIwSE84QW5Ea0RQaGprOHBCN1JJY3Z1TlBic2lkTkpFaw?oc=5",
-   "source": "mstoday.co.kr",
-   "summary": "오픈AI·삼성, 반도체·AI 동맹 확대…차세대칩 협력 시 mstoday.co.kr",
-   "published": "2026-09-09T16:18:06+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 9.41,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "'무노조'에서 '두 노조'로?···삼성전자, '한 지붕 두 회사' 현실화하나",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpNVI4VGZ2TEljTnBLbDBEdU5UWWM1MXZXbVhkWlBuOG5Xc0xwemVVOHZHSXljM2NXTDZHNGVhV0lkbHk3UVlDcm5qV3dPczNnaDItSGV5MEM0dU0xUF9RQ3Q3aU5sbkJMMXc?oc=5",
-   "source": "서울파이낸스",
-   "summary": "'무노조'에서 '두 노조'로?···삼성전자, '한 지붕 두 회사' 현실화하나 서울파이낸스",
-   "published": "2026-09-09T15:05:07+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 9.21,
-   "feed": "삼성전자 실적"
-  },
-  {
-   "title": "삼성전자, 유럽 AI대표주자 미스트랄과 손잡고 ‘반도체특화 AI’ 만든다",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGZUlIUDctOTdLSy11WDBUSF83U1dCX0N1NkpPSXJFbDI1Uk5IekRER3FSSl9RNUp4Z0xBQVQ0dDBQbTkzTjZFYmlReGU5RGtYOWotQjJpUDQ3QXhiRnJvcXZIMDg5RG1icjFMN0owTdIBb0FVX3lxTFBGZUlIUDctOTdLSy11WDBUSF83U1dCX0N1NkpPSXJFbDI1Uk5IekRER3FSSl9RNUp4Z0xBQVQ0dDBQbTkzTjZFYmlReGU5RGtYOWotQjJpUDQ3QXhiRnJvcXZIMDg5RG1icjFMN0owTQ?oc=5",
-   "source": "catchnews.kr",
-   "summary": "삼성전자, 유럽 AI대표주자 미스트랄과 손잡고 ‘반도체특화 AI’ 만든다 catchnews.kr",
-   "published": "2026-09-09T13:31:30+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 8.95,
-   "feed": "삼성전자 실적"
-  },
-  {
-   "title": "삼성전자 DS, 주거비 지원 부정수급 의혹…직원 100여명 조사",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EbTlvLW8taXFsdHZodmRfR3NLLVdaT3ctMi0xVFVrb053cXR4VWtKa21lNzI0YTFUdWQwRmxsekJyN0lnSDZGakhnWkJzeUhEN3dmbmlYNnhUT2pPN041dllRTmpKcnpKN2lTV1puYzLSAXRBVV95cUxQTXFFWWRYckx4Sk9IUGdLaVdZbzVFVXNmckYyN1VtMWR4Z25Dc1lEWF9FMFdJRFRUeEJWUDFmcmRTQlZXcERGSnlHc2dBcEZzLVNBUm1zR243bkVab3NqVE9LdHRfbXVteWtUdF9iWi1yYV9XdA?oc=5",
-   "source": "산경투데이",
-   "summary": "삼성전자 DS, 주거비 지원 부정수급 의혹…직원 100여명 조사 산경투데이",
-   "published": "2026-09-09T13:05:28+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 8.87,
-   "feed": "삼성전자 실적"
-  },
-  {
-   "title": "글로벌 파운드리 매출 535억달러…AI 반도체 수요에 사상 최대",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DdmtRc0tTd0xveDZESjJHSlVfdWhUbjhmZEpMV3FEMi1TMkdyNXd4c20xSTQ4MTVLLVIteFd1V0hpYzkyQlUzcVFVUDBCWkZMVmtiUjcwTjk0NkU4ZVJpcGFFSXphb0ZE0gFsQVVfeXFMTWpsR3RSejZ5MjBEQWlXMVl5a1p1U3VGeFBMWHZpa3k1eFN0SUlYQ21IMTJYSXhNZndqY08xaFZvUFlSclMtbTVkWHdBVll2VEl4MGdkODFjVUdMQ0ZkbG00UU9iT09ORlg3aEh5?oc=5",
-   "source": "직썰",
-   "summary": "글로벌 파운드리 매출 535억달러…AI 반도체 수요에 사상 최대 직썰",
-   "published": "2026-09-09T18:01:39+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "foundry"
-   ],
-   "samsung": false,
-   "score": 8.7,
-   "feed": "TSMC"
-  },
-  {
-   "title": "삼성 D램에 EUV…기술격차 더 벌린다",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hOXRTWEFuOE9zakpxRWNPZU5sOGFzWGtfd0IyaUNjaE00S2JRXzdrVGFCRWJTejQzdUVGTnRXMWdwWThsWTR4Zms2T0VDZlBHOGtEbUJlaHhjbkJRaEx0LVVoRTd1M0gzY3lDUQ?oc=5",
-   "source": "중소기업신문",
-   "summary": "삼성 D램에 EUV…기술격차 더 벌린다 중소기업신문",
-   "published": "2026-09-09T11:15:28+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "memory",
-    "equip"
-   ],
-   "samsung": true,
-   "score": 8.57,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "삼성전자 초기업노조, DS 중심 노조로 재편 추진…내달 6일 총회",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yUkJNbk1yXzlMSU5JRm1LaUpwRlU0YmdCLXFiRDlkUGtPa1NWWk45VllRa2NfQ3Y4em5UZEw0aWNKY05vRm53ZWZtRHhsWThDSWQxaVVlUW3SAVhBVV95cUxPclJCTW5Ncl85TElOSUZtS2lKcEZVNGJnQi1xYkQ5ZFBrT2tTVlpOOVZZUWtjX0N2OHpuVGRMNGljSmNOb0Zud2VmbUR4bFk4Q0lkMWlVZVFt?oc=5",
-   "source": "아주경제",
-   "summary": "삼성전자 초기업노조, DS 중심 노조로 재편 추진…내달 6일 총회 아주경제",
-   "published": "2026-09-09T11:05:31+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 8.54,
-   "feed": "삼성전자 실적"
-  },
-  {
-   "title": "삼성 초기업노조, '반도체 노조' 전환 추진…가입자 반도체 부문 한정",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00RmxLWDAwMTI3MHNmdWpVOV9fT000UEVPUjFtdGVKSVBLakNrU0oxbTVieDVKdUFMOTB4X3dYY1pENTJqODhPXzlqem42b1l6Mjg4TWhB?oc=5",
-   "source": "지디넷코리아",
-   "summary": "삼성 초기업노조, '반도체 노조' 전환 추진…가입자 반도체 부문 한정 지디넷코리아",
-   "published": "2026-09-09T10:56:05+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 8.51,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "[마켓인사이드] 마이크론·삼성·SK하이닉스의 ‘서로 다른 미국 전략’",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNdUpqV2xiWlFaVnBNT2NlRmlObHB2bXFyTjdXUE9CajJVVTNmSDd1dXYxWVA1dUFwTTlPc0U2WTRhY2dyU2RFc2RSMWdkY1E4cDNqLUlvcHI?oc=5",
-   "source": "뉴스투데이",
-   "summary": "[마켓인사이드] 마이크론·삼성·SK하이닉스의 ‘서로 다른 미국 전략’ 뉴스투데이",
-   "published": "2026-09-09T22:07:31+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "memory"
-   ],
-   "samsung": true,
-   "score": 8.38,
-   "feed": "테일러 팹"
-  },
-  {
-   "title": "이번엔 13조7000억원 자사주 달라니 … 삼성전자 노조 또 '떼쓰기' 논란",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeEE1YTI5QjY5QTAzVW85cVlJZHFxeTRRczNaWkljVlRxU2xaSm9HWEVwYWpObDNkVUV1NU1QTUk5Qy1rTGhMell3Mmt6ZHNIcjNSWnZWcFpsOE5HWE1TbmpFTXFiZGpTMXc3QktBd3o1T01ZQklqOVRVeC1nVUhINdIBgAFBVV95cUxNeEE1YTI5QjY5QTAzVW85cVlJZHFxeTRRczNaWkljVlRxU2xaSm9HWEVwYWpObDNkVUV1NU1QTUk5Qy1rTGhMell3Mmt6ZHNIcjNSWnZWcFpsOE5HWE1TbmpFTXFiZGpTMXc3QktBd3o1T01ZQklqOVRVeC1nVUhINQ?oc=5",
-   "source": "뉴데일리",
-   "summary": "이번엔 13조7000억원 자사주 달라니 … 삼성전자 노조 또 '떼쓰기' 논란 뉴데일리",
-   "published": "2026-09-09T09:45:27+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 8.32,
-   "feed": "삼성전자 실적"
-  },
-  {
-   "title": "삼성, 佛 미스트랄 AI 30억유로 투자 주도…반도체 맞춤 AI 공동개발",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYMUhQZUd3LVdlQ2xZVHdINWZENmRKSk1vWkZtdmQ0bVVXaVY4aUJhWjVMQ29xZ2liQm5UUFQ0X3AwMGp2ZVVFS2U5NU1zNEhOd2ltWGlMTU92T2syWFhsZGxjWENmSzZkeVdB?oc=5",
-   "source": "서울타임즈뉴스",
-   "summary": "삼성, 佛 미스트랄 AI 30억유로 투자 주도…반도체 맞춤 AI 공동개발 서울타임즈뉴스",
-   "published": "2026-09-09T09:00:35+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 8.19,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "삼성, 佛 미스트랄에 수천억 베팅…'반도체용 AI' 함께 만든다",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ETG54VVVqMG9zRGdndUZXekVSdnExS2J1SEZWVzAwa3RYRkJobENNWjItc1RJVmFvLTlPRzJERU1Ra09RazBERUx5TG1fSzA?oc=5",
-   "source": "v.daum.net",
-   "summary": "삼성, 佛 미스트랄에 수천억 베팅…'반도체용 AI' 함께 만든다 v.daum.net",
-   "published": "2026-09-09T08:34:07+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 8.12,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "삼성, 미스트랄AI에 지분투자 단행…제조 특화 AI 모델 공동 개발",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OQzF5TDhDWEdUOGhWNGlCOVJ3by1UWlBVQTEyQlphS1NFTlRmNFYzQVRvWEVEdEp0QTVrZzVVZGRHTnlrUFlySUhhbUNiZkp0bmxKZXZhZXZtYWoxU1A3NWVabUNtRzFuNWpLcw?oc=5",
-   "source": "itbiznews.com",
-   "summary": "삼성, 미스트랄AI에 지분투자 단행…제조 특화 AI 모델 공동 개발 itbiznews.com",
-   "published": "2026-09-09T08:00:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 8.03,
    "feed": "삼성 파운드리"
   },
   {
@@ -783,6 +1526,20 @@
    "source": "머니투데이",
    "summary": "삼성, 佛 미스트랄에 지분 투자…반도체 설계·공정에 '자체 AI' 도입 - 머니투데이 머니투데이",
    "published": "2026-09-09T01:00:00+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 8.0,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "오픈AI·삼성, 반도체·AI 동맹 확대…차세대칩 협력 시",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0TWQ5UFNyWUZHclgzZHM5UGN0VEFiY1Vta2M5X1NXS3Y0bUR1LUpUMU93Z0ZQTEZVcGtJS2NNS3dnT0lVWWxMbk9UdzIwSE84QW5Ea0RQaGprOHBCN1JJY3Z1TlBic2lkTkpFaw?oc=5",
+   "source": "mstoday.co.kr",
+   "summary": "오픈AI·삼성, 반도체·AI 동맹 확대…차세대칩 협력 시 mstoday.co.kr",
+   "published": "2026-09-09T16:18:06+09:00",
    "date": "2026-09-09",
    "tags": [
     "market"
@@ -820,6 +1577,90 @@
    "feed": "삼성 파운드리"
   },
   {
+   "title": "삼성 초기업노조, '반도체 노조' 전환 추진…가입자 반도체 부문 한정",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00RmxLWDAwMTI3MHNmdWpVOV9fT000UEVPUjFtdGVKSVBLakNrU0oxbTVieDVKdUFMOTB4X3dYY1pENTJqODhPXzlqem42b1l6Mjg4TWhB?oc=5",
+   "source": "지디넷코리아",
+   "summary": "삼성 초기업노조, '반도체 노조' 전환 추진…가입자 반도체 부문 한정 지디넷코리아",
+   "published": "2026-09-09T10:56:05+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 8.0,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "\"DS만 받겠다\"…삼성 초기업노조, DX 제외 재편 추진",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FUmJRM3ZMcFdYR19qSGdqN1RJTFNzRzY5UHFLelhrZzhtM2YzVzd3WWx5bFZNNlgyeDE3UXJscExXQTM2aV9mMmZmekU5NVc4RlJpUnlPRnA0YlVaMmIybklmRVNpdXVJZUJOZA?oc=5",
+   "source": "ER 이코노믹리뷰",
+   "summary": "\"DS만 받겠다\"…삼성 초기업노조, DX 제외 재편 추진 ER 이코노믹리뷰",
+   "published": "2026-09-09T17:04:05+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 8.0,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "‘슬기로운 삼성 생활’",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NMlpYeXBRcGM1X1YtSG0tbEdHYndPVGo3MTdad3lRZGYtb1ZQZkJ1MFVxZUY0cElLT3BHWGFoZ2NLcnNZR3pNbm1kdUlYLUpPWHc?oc=5",
+   "source": "sedaily.com",
+   "summary": "‘슬기로운 삼성 생활’ sedaily.com",
+   "published": "2026-09-09T18:06:21+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 8.0,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "삼성전자 초기업노조, DS 중심 노조로 재편 추진…내달 6일 총회",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yUkJNbk1yXzlMSU5JRm1LaUpwRlU0YmdCLXFiRDlkUGtPa1NWWk45VllRa2NfQ3Y4em5UZEw0aWNKY05vRm53ZWZtRHhsWThDSWQxaVVlUW3SAVhBVV95cUxPclJCTW5Ncl85TElOSUZtS2lKcEZVNGJnQi1xYkQ5ZFBrT2tTVlpOOVZZUWtjX0N2OHpuVGRMNGljSmNOb0Zud2VmbUR4bFk4Q0lkMWlVZVFt?oc=5",
+   "source": "아주경제",
+   "summary": "삼성전자 초기업노조, DS 중심 노조로 재편 추진…내달 6일 총회 아주경제",
+   "published": "2026-09-09T11:05:31+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 8.0,
+   "feed": "삼성전자 실적"
+  },
+  {
+   "title": "‘HBM사업 지연 직격탄’ 삼성전자, 3분기 영업익 9.1조원·2Q 대비 12.8% ↓",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rck1VTGtfNWZSajFCZU1NbEFFelVWQ2lKVVhaZ3JXc2ZUNEVneThJQ09icDlTVTl0S09fR2tCaUZ1TXRtZVFiQ2NHNzk4SzNQaS1tMXZSYk1McV8wM0NiVGJHWHA1dHVmWWfSAW5BVV95cUxOWGFEQkVyclNQV1JGQzdQNjlyWnFoQ2dtR3Q3dWk4YnM3Ym9yMkpPYnBFdGRaZ0hrenBhLXJJc1VHX29ZTzhESXJVZTdyajNKUnR5enR5dGVSZkZvTVloSUgtYlFGRllJemowRVdSZw?oc=5",
+   "source": "catchnews.kr",
+   "summary": "‘HBM사업 지연 직격탄’ 삼성전자, 3분기 영업익 9.1조원·2Q 대비 12.8% ↓ catchnews.kr",
+   "published": "2026-09-09T17:26:00+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "memory"
+   ],
+   "samsung": true,
+   "score": 8.0,
+   "feed": "삼성전자 실적"
+  },
+  {
+   "title": "'무노조'에서 '두 노조'로?···삼성전자, '한 지붕 두 회사' 현실화하나",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpNVI4VGZ2TEljTnBLbDBEdU5UWWM1MXZXbVhkWlBuOG5Xc0xwemVVOHZHSXljM2NXTDZHNGVhV0lkbHk3UVlDcm5qV3dPczNnaDItSGV5MEM0dU0xUF9RQ3Q3aU5sbkJMMXc?oc=5",
+   "source": "서울파이낸스",
+   "summary": "'무노조'에서 '두 노조'로?···삼성전자, '한 지붕 두 회사' 현실화하나 서울파이낸스",
+   "published": "2026-09-09T15:05:07+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 8.0,
+   "feed": "삼성전자 실적"
+  },
+  {
    "title": "삼성전자, 미스트랄 AI와 전략적 파트너십 체결…전영현 DS부문장 \"AI 기반 반도체 혁신의 새로운 기준 만들어갈 것\"",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95TEZfSW5QUnhSODVjWGRPQ1JMMndxVF9fRC1PMnZpR015NUdBTkhkX3F3MUZZRkFhcnNySjgybnRjYkZ6QTFOVU5nWE5BZVQ2eHNOSXBTXzduR2VwS0hWaWFKNnhGOU1qVUdn?oc=5",
    "source": "서울뉴스통신",
@@ -834,11 +1675,39 @@
    "feed": "삼성전자 실적"
   },
   {
+   "title": "이번엔 13조7000억원 자사주 달라니 … 삼성전자 노조 또 '떼쓰기' 논란",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJc3ZjVUY1UklUSWY0MV9jQ3Vyb282UHc4eU0zZ3JKdHNHaVBQVkNkcUZWNFlWVjZraDJOSTVFcVlack5JbEpTMHotTS10c3lfamJoTk16UnZqNUkxTzIydWFyMEtjRTl4aGxraGZ0aDR2UHlac2NEbDlIRdIBgAFBVV95cUxNeEE1YTI5QjY5QTAzVW85cVlJZHFxeTRRczNaWkljVlRxU2xaSm9HWEVwYWpObDNkVUV1NU1QTUk5Qy1rTGhMell3Mmt6ZHNIcjNSWnZWcFpsOE5HWE1TbmpFTXFiZGpTMXc3QktBd3o1T01ZQklqOVRVeC1nVUhINQ?oc=5",
+   "source": "뉴데일리",
+   "summary": "이번엔 13조7000억원 자사주 달라니 … 삼성전자 노조 또 '떼쓰기' 논란 뉴데일리",
+   "published": "2026-09-09T09:45:27+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 8.0,
+   "feed": "삼성전자 실적"
+  },
+  {
    "title": "삼성전자, 佛 미스트랄과 반도체 설계·제조 특화 AI 공동 개발",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxTEN3WWd2NTQ0OHlBaDQ0dmJjMVMtc19HRUMwdDdtN0Q0NjZtV2htellBQXdDUjhJM3FBLVZtcUpsc1NRRmc?oc=5",
-   "source": "v.daum.net",
-   "summary": "삼성전자, 佛 미스트랄과 반도체 설계·제조 특화 AI 공동 개발 v.daum.net",
-   "published": "2026-09-09T01:01:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxUTRKY2xaREx5dEpvbWZxNXBwWXBrZWFiaTJGcW51YURCUTlnc0k5R0lBUTAwbHVzZl8xRjBOSDJmMWN0NkJ4ckhVdzFERDUxZXVfaS1MODZSTlNsMFoxUmZxMll1MlY2ZUHSAWpBVV95cUxQcVE0SmNsWkRMeXRKb21mcTVwcFlwa2VhYmkyRnFudWFEQlE5Z3NJOUdJQVEwMGx1c2ZfMUYwTkgyZjFjdDZCeHJIVXcxREQ1MWV1X2ktTDg2Uk5TbDBaMVJmcTJZdTJWNmVB?oc=5",
+   "source": "뉴스1",
+   "summary": "삼성전자, 佛 미스트랄과 반도체 설계·제조 특화 AI 공동 개발 뉴스1",
+   "published": "2026-09-09T01:00:00+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 8.0,
+   "feed": "삼성전자 실적"
+  },
+  {
+   "title": "삼성전자ㆍ미스트랄 AI, 반도체 특화 AI 공동 개발…DS부문 생산성·정밀도↑",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiUWFWdE85aW9oY2xCN09oQWVzZHQyXzB0M2ItWEVfaF83MElIaG1qZTAzemRzM3M4ZGk0R2h2MUpWalpPQWloeGpUa00tYjVxUnoyTEQ5WUZFWEdBWndZRFFmcGdkTTdBYmc?oc=5",
+   "source": "퍼블릭뉴스통신",
+   "summary": "삼성전자ㆍ미스트랄 AI, 반도체 특화 AI 공동 개발…DS부문 생산성·정밀도↑ 퍼블릭뉴스통신",
+   "published": "2026-09-09T18:24:43+09:00",
    "date": "2026-09-09",
    "tags": [
     "market"
@@ -850,9 +1719,23 @@
   {
    "title": "“10평 미만이라더니” 삼성전자, 주거지원금 부정수급 조사 착수···성과급 앞둔 DS에 파장",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HeDNZRDJFVmlyVlhnaVRyb0ZsdDY1ZUU1VkN0V2ExbDZtbG10Vk9LcjVITnBOQ0syNHoybUN0dl81cDd5QmNpMkNSblJrdXVtblMzdFp4b3RHSVNEMWZ4Z0U3NUlhMk43ZGdDag?oc=5",
-   "source": "스마트비즈",
-   "summary": "“10평 미만이라더니” 삼성전자, 주거지원금 부정수급 조사 착수···성과급 앞둔 DS에 파장 스마트비즈",
+   "source": "smartbizn.com",
+   "summary": "“10평 미만이라더니” 삼성전자, 주거지원금 부정수급 조사 착수···성과급 앞둔 DS에 파장 smartbizn.com",
    "published": "2026-09-09T07:26:26+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 8.0,
+   "feed": "삼성전자 실적"
+  },
+  {
+   "title": "삼성전자, 유럽 AI대표주자 미스트랄과 손잡고 ‘반도체특화 AI’ 만든다",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGZUlIUDctOTdLSy11WDBUSF83U1dCX0N1NkpPSXJFbDI1Uk5IekRER3FSSl9RNUp4Z0xBQVQ0dDBQbTkzTjZFYmlReGU5RGtYOWotQjJpUDQ3QXhiRnJvcXZIMDg5RG1icjFMN0owTdIBb0FVX3lxTFBGZUlIUDctOTdLSy11WDBUSF83U1dCX0N1NkpPSXJFbDI1Uk5IekRER3FSSl9RNUp4Z0xBQVQ0dDBQbTkzTjZFYmlReGU5RGtYOWotQjJpUDQ3QXhiRnJvcXZIMDg5RG1icjFMN0owTQ?oc=5",
+   "source": "catchnews.kr",
+   "summary": "삼성전자, 유럽 AI대표주자 미스트랄과 손잡고 ‘반도체특화 AI’ 만든다 catchnews.kr",
+   "published": "2026-09-09T13:31:30+09:00",
    "date": "2026-09-09",
    "tags": [
     "market"
@@ -873,136 +1756,8 @@
     "memory"
    ],
    "samsung": false,
-   "score": 7.92,
+   "score": 7.0,
    "feed": "TSMC"
-  },
-  {
-   "title": "[News] OpenAI Says It Is Working with Samsung on Next-Gen Chips; Ties Could Expand Beyond Memory",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNmhXZUQwejFOMnJoNkxsNjZFTVpQa0N5RVBKdXRnWG12VjZVcDRwTlU2ZWhrNDJYamRNQ2JYbnhDcElOenNKU3ViNi1jamlhYnRCMjBNY1RnYVQ3NFdpelA4MFd3eGZHeThZOUxtdGNxSjktNFFnT1lOZEV6b2cxczVUUWJwQ0Y3cHJqSzRONXV4VlNyVXNhOXZtNnVHcWdCNHY5S1o4ZW9SV0hsb0Q1Vi10cWRNNmI2cU9DcGNTdDlLRFl4QzZoOEdvSFNHVnNxb29N?oc=5",
-   "source": "TrendForce",
-   "summary": "[News] OpenAI Says It Is Working with Samsung on Next-Gen Chips; Ties Could Expand Beyond Memory TrendForce",
-   "published": "2026-09-09T18:42:51+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 7.81,
-   "feed": "Foundry EN"
-  },
-  {
-   "title": "이재용, 홍라희 보유 삼성전자 주식 718만주 1.9조원에 매수",
-   "url": "https://zdnet.co.kr/view/?no=20260909180022",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]이재용 삼성전자 회장이 모친 홍라희 삼성미술관 리움 명예관장이 보유한 삼성전자 주식 718만 8793주를 매수한다. 1조 9000억원 규모다. 9일 전자공시시스템에 따르면 삼성전자는 이재용 회장이 다음달 12일 홍 명예관장이 보유 중인 보통주 718만 8793주를 장외매수한다고 밝혔다. 이 회장 매수 금액은 전날 삼성전자 종가(26만 9500원) 기준 1조 9373억 7971만",
-   "published": "2026-09-09T18:28:50+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 7.77,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "삼성 초기업노조, 반도체 노조로…DX 조합원 탈퇴 처리 추진",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HdHAtd0xWNHVzbHJzWl9xSGlxUjFkeng4TDJ6NGlqNURVVVBZcTFxSW15cFQ2ZF8xaGVOTFN1QmR3aDZrYUp2UTROX1lzbUMyd0tpYzZiRmtSc0F4SFczdERSb1h3T2dodmfSAWpBVV95cUxPR3RwLXdMVjR1c2xyc1pfcUhpcVIxZHp4OEwyejRpajVEVVVQWXExcUlteXBUNmRfMWhlTkxTdUJkd2g2a2FKdlE0Tl9Zc21DMndLaWM2YkZrUnNBeEhXM3REUm9Yd09naHZn?oc=5",
-   "source": "뉴스1",
-   "summary": "삼성 초기업노조, 반도체 노조로…DX 조합원 탈퇴 처리 추진 뉴스1",
-   "published": "2026-09-09T18:03:25+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 7.7,
-   "feed": "삼성전자 실적"
-  },
-  {
-   "title": "SK하닉의 ‘HBM 독주’ 흔드는 삼성···격차 한 분기 만에 ‘절반’",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ubks4MllTU3pkXzUweWxjYzA2WjNQUjhXdUwyNmJXRml2SUZMNjk2Um5nTzhWeWFPZDVWdE95bng0SUx5QzkxUmN3bEV3N3F4SmlyeTZ6bkNfTmpVeGFxc2JqWF9xT1B1aVZrUVp5dDnSAXRBVV95cUxOVUVBd1U1djR5bmp4WG5MMDh1UGFhcm55eWJ4VWQ1QW1BcmkxblpJZ3NwbHZHdXlfWXVTaFRfVExNcFlRZGpaY1ZLTW9OR0JSaC1lWGI2TnNHOFJGRExOS243OWo1RzdBeEJCN3dlRFhsSU5CRQ?oc=5",
-   "source": "enewstoday.co.kr",
-   "summary": "SK하닉의 ‘HBM 독주’ 흔드는 삼성···격차 한 분기 만에 ‘절반’ enewstoday.co.kr",
-   "published": "2026-09-09T17:50:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "memory"
-   ],
-   "samsung": true,
-   "score": 7.66,
-   "feed": "HBM"
-  },
-  {
-   "title": "이재용, 母 지분 1.9조원에 매수...상속세 '정리'",
-   "url": "https://www.etnews.com/20260909000394",
-   "source": "전자신문",
-   "summary": "이재용 삼성전자 회장이 모친 홍라희 리움미술관 명예관장이 보유한 삼성전자 주식 718만주를 1조9000억원에 매수했다. 삼성전자는 홍 명예관장 지분 0.11%를 이 회장에게 넘기는 대주주간 매매가 이워졌다고 9일 공시했다. 이번 거래는 홍 명예관장과 이 회장 간 개인 간 거래로 성사됐다. 삼성전자 관계자는 대주주 개인 간 거래인 만큼 회사 차원 공식 입장은 없다고 밝혔다. 업계에서는 홍 명예",
-   "published": "2026-09-09T17:49:07+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 7.66,
-   "feed": "전자신문"
-  },
-  {
-   "title": "Samsung’s Taylor Foundry Fab Fills Up With Major Chip Orders",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGtFa2hnaFBJbzl5MHlOSGtzTGVQQkNjc0dBdTVBb1Jtc3RHb21velZ0UDhXcGNVSHhpblAybktFTEZIVzZnOXRicjdTa0kyUXlVckNmbHR6MEZnYzZGeXdDYnV1Q3d1ak51MzBKbF8tQjZrdmhGRUkyY1hEcEI4TjJNNERNTVFh?oc=5",
-   "source": "SammyGuru",
-   "summary": "Samsung’s Taylor Foundry Fab Fills Up With Major Chip Orders SammyGuru",
-   "published": "2026-09-09T17:34:03+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "foundry"
-   ],
-   "samsung": true,
-   "score": 7.62,
-   "feed": "Foundry EN"
-  },
-  {
-   "title": "성과급 갈등에 결국 갈라선다… 삼성 초기업노조, '반도체 전용 노조'로 재편 추진",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UQWtrNGFKQV9SOENMMmRLbDRRbGsxZk5PWEpXdFVua3B3T1Z5MEJDanA1V2p1UVduQnMzTlRDVklqeEtIY3BzMGhiZG1za1JDMTlpUXJsTExIb3NUbXlMV2hMV2hXWlE?oc=5",
-   "source": "파이낸스투데이",
-   "summary": "성과급 갈등에 결국 갈라선다… 삼성 초기업노조, '반도체 전용 노조'로 재편 추진 파이낸스투데이",
-   "published": "2026-09-09T17:17:41+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 7.57,
-   "feed": "삼성전자 실적"
-  },
-  {
-   "title": "중국 '반도체 노광장비 자립' 속도 내지만, 삼성전자·SK하이닉스 '하이 NA EUV'로 추격 따돌린다",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwcmFzU25kbTFVUmlKZGFXTkVQaGlIaWszVTM3NVRmbHFETTRPMkpGRFRUMzZmbWo5dElTODBPRzJiRVdKeFR5enYzdFRSTGQ2Y3ZFVHZ0S2VOMlE5MUpZbXR5SnhhMkU4Rm9tWE9ZVjg0c2s?oc=5",
-   "source": "비즈니스포스트",
-   "summary": "중국 '반도체 노광장비 자립' 속도 내지만, 삼성전자·SK하이닉스 '하이 NA EUV'로 추격 따돌린다 비즈니스포스트",
-   "published": "2026-09-09T15:08:54+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "memory",
-    "equip",
-    "market"
-   ],
-   "samsung": true,
-   "score": 7.22,
-   "feed": "장비·소재"
-  },
-  {
-   "title": "삼성·SK하이닉스, 국제물주간 첫 출격…반도체 '물 혁신' 전면에",
-   "url": "https://www.etnews.com/20260909000304",
-   "source": "전자신문",
-   "summary": "삼성전자와 SK하이닉스가 '대한민국 국제물주간(KIWW)'에 처음으로 전시관을 마련하고 반도체 생산에 필수적인 물의 재이용과 '워터 포지티브(Water Positive)' 전략을 선보였다. 정부도 반도체 등 첨단산업의 성장으로 물이 전력과 함께 핵심 인프라로 부상했다고 보고, 물 재이용과 초순수 기술개발을 확대하는 한편 댐·저수지·재이용수 등 분산된 수원을 연결하는 '워터그리드' 구축에 나선",
-   "published": "2026-09-09T15:00:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "memory"
-   ],
-   "samsung": true,
-   "score": 7.19,
-   "feed": "전자신문"
   },
   {
    "title": "“DX 떼고 DS만”…삼전 초기업노조, 반도체 노조 전환 추진",
@@ -1015,120 +1770,8 @@
     "market"
    ],
    "samsung": false,
-   "score": 6.96,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "\"GenAI로 비즈니스 생산성 기준 제시\"...모니터랩, ‘IASF2026’ 개최",
-   "url": "https://zdnet.co.kr/view/?no=20260909182825",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]B2B SECaaS 전문기업 모니터랩(대표 이광후)이 9일 콘래드 서울 호텔에서 자사의 제14회 통합 애플리케이션 보안 세미나인 ‘IASF 2026(Integrated application Security Fair 2026)’를 개최했다.모니터랩은 2013년부터 매년 'IASF'를 통해 최신 보안 기술 트렌드를 공유해 왔다. 올해 행사는 '통제 가능한 GenAI, 비즈니스 생산",
-   "published": "2026-09-09T18:28:25+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "foundry"
-   ],
-   "samsung": false,
-   "score": 6.77,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "\"AI 리스크 관리는 기업 생존 필수\"...에임인텔리전스, 컨퍼런스 성료",
-   "url": "https://zdnet.co.kr/view/?no=20260909230426",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]AI 보안 전문기업 에임인텔리전스(AIM Intelligence, 대표 유상윤)가 지난 7일 삼성금융캠퍼스에서 ‘AI 리스크 컨퍼런스 서울 2026’을 개최, 성황리에 마무리했다. 삼성화재가 후원한 이번 컨퍼런스는 오픈AI, 마이크로소프트 등 AI 보안 선도 기업이 연사로 참여했다. 국내외 기업 관계자가 100명 넘게 참석했다.이번 'AI 리스크 컨퍼런스 서울 2026'은 단순",
-   "published": "2026-09-09T23:04:26+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 6.54,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "“K-반도체, 중국 시장 재공략해야…기술 격차만으로는 부족”",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UcUM1SUpVTTBtbHlJcGcxOTBxemRIaUlkUW51a3l0MzJJeVIzSDBQS293dUtjb3lDekVXZVFtbkVQeW5GNHg4OWpnTG5Ua0VlMkItQmVB?oc=5",
-   "source": "매일경제",
-   "summary": "“K-반도체, 중국 시장 재공략해야…기술 격차만으로는 부족” 매일경제",
-   "published": "2026-09-09T10:58:24+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 6.52,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "[News] Samsung Taylor Fab Reportedly Fully Booked for 2nm by Tesla, Broadcom, Arm; Fab 2 Preparations Accelerate",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdFMxVFluWU9UQi04YjRQRFpTcEtmZDJ3Yi10RUJ1TGR3X2ZwOC1nMnp1Mlk2TVVnN3VzWVFlNDFHRkU4cEplbUNXNTVITTVib2FkSzB0bHJpU1ItRzhFRnlBRWZ6aExpNjh6VnVRaTZ6bzgyNGtYeTFnMlR0c1VSNDEwM2tIa2daRjA2Sm1nY0V1cGV1QTd4TmNOeE1SbHBudE1PTk1TV0NmSVF4bl9HaC1pSUZ0cnJCVTY5TzY5M0FhX1FqdmJ4NjEwVHQ0OThKYlk3bXpVWDNnUTZ3SEZLSzc2SC1OYzVT?oc=5",
-   "source": "TrendForce",
-   "summary": "[News] Samsung Taylor Fab Reportedly Fully Booked for 2nm by Tesla, Broadcom, Arm; Fab 2 Preparations Accelerate TrendForce",
-   "published": "2026-09-09T09:35:40+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "foundry"
-   ],
-   "samsung": true,
-   "score": 6.29,
-   "feed": "Foundry EN"
-  },
-  {
-   "title": "[고래사냥] 'DB하이텍·동진쎄미켐·넥스틸! 내일장 고래 종목은?! - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52NFhCc3A2RUxuNXZreFg2dnVHUi1PRDFHUy1USjI3WjFtYUktVjU2VHEyMHZzY3VlZFJSMEZteW42d2VVUjFKeE1nNlVqOWhUd0ZaM3RmVHByWHdZanVKQXBXNmYzMkhLS1NjUDJn0gFuQVVfeXFMTnY0WEJzcDZFTG41dmt4WDZ2dUdSLU9EMUdTLVRKMjdaMW1hSS1WNTZUcTIwdnNjdWVkUlIwRm15bjZ3ZVVSMUp4TWc2VWo5aFR3RlozdGZUcHJYd1lqdUpBcFc2ZjMySEtLU2NQMmc?oc=5",
-   "source": "머니투데이",
-   "summary": "[고래사냥] 'DB하이텍·동진쎄미켐·넥스틸! 내일장 고래 종목은?! - 머니투데이 머니투데이",
-   "published": "2026-09-09T21:24:29+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 6.26,
-   "feed": "테일러 팹"
-  },
-  {
-   "title": "Samsung's Taylor fab reportedly fully booked before 2nm production begins",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGZkVTVmSlJCM1lsTmY2aVNqNzFTa1JvVUNhZUx0UXZmcXM4Z3ZRZEh1YnF0alB2b29Rc3d2X1JJMHYyaGVvcFhxMnFycFlqaEljTGotSXoyN0REXzdSMWtyRzl2NWFtNDBkWTg0ZmlkSVNNcTZzS0QyemF4T0dfT0pBV1lJZjhETzFN?oc=5",
-   "source": "digitimes",
-   "summary": "Samsung's Taylor fab reportedly fully booked before 2nm production begins digitimes",
-   "published": "2026-09-09T09:04:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "foundry"
-   ],
-   "samsung": true,
-   "score": 6.2,
-   "feed": "Foundry EN"
-  },
-  {
-   "title": "\"에이전틱AI 시대 CIO 역할 제시\"...한국CIO포럼, ‘AX 컨퍼런스 2026’ 개최",
-   "url": "https://zdnet.co.kr/view/?no=20260909205743",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]한국정보산업연합회 CIO포럼(회장 이준호)은 9일 서울 강남구 GS타워 아모리스홀에서 ‘CIO AX Conference 2026’을 개최했다. 이번 컨퍼런스는 ‘The New CIO Agenda for the Agentic Enterprise’를 주제로, 에이전틱 AI 시대를 맞아 기업의 디지털 전환(DX)과 AI 전환(AX)을 이끄는 국내 CIO·CISO·CDO 등 IT 리더",
-   "published": "2026-09-09T20:57:43+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": true,
-   "score": 6.19,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "[삼성 유리기판 승부수] 유리기판 TSMC 신뢰성 평가 지연…양산 일정도 밀려 : 네이버 블로그",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUGFMRk1kZnY5Um9wODluZGxoeHNMZHB0Tm9BaEFHalhhTWxnalRTV3RTNDQ2UmZtVW5aWHZGNE5SZkF4b0ZEeTFyeGtvZ2k4dUIzZEtQZUh3aVVFQk5SbWloN25vR3Byd3ZLYTk1cHhpT2cwSkQ2cDNqVEw4ZkRObjQ3Mnl6M2xfRFYtemYxdw?oc=5",
-   "source": "Naver Blog",
-   "summary": "[삼성 유리기판 승부수] 유리기판 TSMC 신뢰성 평가 지연…양산 일정도 밀려 : 네이버 블로그 Naver Blog",
-   "published": "2026-09-09T03:00:18+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "foundry"
-   ],
-   "samsung": true,
    "score": 6.0,
-   "feed": "TSMC"
+   "feed": "삼성 파운드리"
   },
   {
    "title": "Samsung, Arm Team Up on 2nm AI Chip as On-Device Computing Gains Ground",
@@ -1145,41 +1788,125 @@
    "feed": "Foundry EN"
   },
   {
-   "title": "삼성전자-ASML ‘반도체 동맹’ 강화… 6인치 넘어 12인치 포토마스크 공동개발",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzVE91d3JRU2FNMG03M2tYS01qZTBkVXpiUnNXZXZzanU1ejdWc3ZIOGs3bXZCRm1iNkJfcFp3NFpIcE1LRDlwNHFlcEpvMUZ4cUNHck40VC1xVl9WaGxSZmJxSG5xSUNFLU1taNIBbEFVX3lxTFBzVE91d3JRU2FNMG03M2tYS01qZTBkVXpiUnNXZXZzanU1ejdWc3ZIOGs3bXZCRm1iNkJfcFp3NFpIcE1LRDlwNHFlcEpvMUZ4cUNHck40VC1xVl9WaGxSZmJxSG5xSUNFLU1taA?oc=5",
-   "source": "국민일보",
-   "summary": "삼성전자-ASML ‘반도체 동맹’ 강화… 6인치 넘어 12인치 포토마스크 공동개발 국민일보",
-   "published": "2026-09-09T02:36:00+09:00",
+   "title": "[News] Samsung Taylor Fab Reportedly Fully Booked for 2nm by Tesla, Broadcom, Arm; Fab 2 Preparations Accelerate",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdFMxVFluWU9UQi04YjRQRFpTcEtmZDJ3Yi10RUJ1TGR3X2ZwOC1nMnp1Mlk2TVVnN3VzWVFlNDFHRkU4cEplbUNXNTVITTVib2FkSzB0bHJpU1ItRzhFRnlBRWZ6aExpNjh6VnVRaTZ6bzgyNGtYeTFnMlR0c1VSNDEwM2tIa2daRjA2Sm1nY0V1cGV1QTd4TmNOeE1SbHBudE1PTk1TV0NmSVF4bl9HaC1pSUZ0cnJCVTY5TzY5M0FhX1FqdmJ4NjEwVHQ0OThKYlk3bXpVWDNnUTZ3SEZLSzc2SC1OYzVT?oc=5",
+   "source": "TrendForce",
+   "summary": "[News] Samsung Taylor Fab Reportedly Fully Booked for 2nm by Tesla, Broadcom, Arm; Fab 2 Preparations Accelerate TrendForce",
+   "published": "2026-09-09T09:35:40+09:00",
    "date": "2026-09-09",
    "tags": [
-    "equip"
+    "foundry"
    ],
    "samsung": true,
    "score": 6.0,
-   "feed": "장비·소재"
+   "feed": "Foundry EN"
   },
   {
-   "title": "삼성전자·ASML 'D램 동맹'…日에 첨단 패키징 연구거점 구축",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tUHp6TjlGY3k0bmp0ekZmNFRBSndrX1gtUkljblozTjc3ajI1QzFNUFdBTHBQTF9TaUJUMHgyVU8xaF9CQTZvZ2F4cFZxTmRrM2FR?oc=5",
-   "source": "Nate News",
-   "summary": "삼성전자·ASML 'D램 동맹'…日에 첨단 패키징 연구거점 구축 Nate News",
-   "published": "2026-09-09T05:02:00+09:00",
+   "title": "Samsung’s Taylor Foundry Fab Fills Up With Major Chip Orders",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGtFa2hnaFBJbzl5MHlOSGtzTGVQQkNjc0dBdTVBb1Jtc3RHb21velZ0UDhXcGNVSHhpblAybktFTEZIVzZnOXRicjdTa0kyUXlVckNmbHR6MEZnYzZGeXdDYnV1Q3d1ak51MzBKbF8tQjZrdmhGRUkyY1hEcEI4TjJNNERNTVFh?oc=5",
+   "source": "SammyGuru",
+   "summary": "Samsung’s Taylor Foundry Fab Fills Up With Major Chip Orders SammyGuru",
+   "published": "2026-09-09T17:34:03+09:00",
    "date": "2026-09-09",
    "tags": [
-    "pkg",
+    "foundry"
+   ],
+   "samsung": true,
+   "score": 6.0,
+   "feed": "Foundry EN"
+  },
+  {
+   "title": "Samsung's Taylor fab reportedly fully booked before 2nm production begins",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGZkVTVmSlJCM1lsTmY2aVNqNzFTa1JvVUNhZUx0UXZmcXM4Z3ZRZEh1YnF0alB2b29Rc3d2X1JJMHYyaGVvcFhxMnFycFlqaEljTGotSXoyN0REXzdSMWtyRzl2NWFtNDBkWTg0ZmlkSVNNcTZzS0QyemF4T0dfT0pBV1lJZjhETzFN?oc=5",
+   "source": "digitimes",
+   "summary": "Samsung's Taylor fab reportedly fully booked before 2nm production begins digitimes",
+   "published": "2026-09-09T09:04:00+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": true,
+   "score": 6.0,
+   "feed": "Foundry EN"
+  },
+  {
+   "title": "[News] OpenAI Says It Is Working with Samsung on Next-Gen Chips; Ties Could Expand Beyond Memory",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNmhXZUQwejFOMnJoNkxsNjZFTVpQa0N5RVBKdXRnWG12VjZVcDRwTlU2ZWhrNDJYamRNQ2JYbnhDcElOenNKU3ViNi1jamlhYnRCMjBNY1RnYVQ3NFdpelA4MFd3eGZHeThZOUxtdGNxSjktNFFnT1lOZEV6b2cxczVUUWJwQ0Y3cHJqSzRONXV4VlNyVXNhOXZtNnVHcWdCNHY5S1o4ZW9SV0hsb0Q1Vi10cWRNNmI2cU9DcGNTdDlLRFl4QzZoOEdvSFNHVnNxb29N?oc=5",
+   "source": "TrendForce",
+   "summary": "[News] OpenAI Says It Is Working with Samsung on Next-Gen Chips; Ties Could Expand Beyond Memory TrendForce",
+   "published": "2026-09-09T18:42:51+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "market"
+   ],
+   "samsung": true,
+   "score": 6.0,
+   "feed": "Foundry EN"
+  },
+  {
+   "title": "OpenAI's deeper Samsung tie-up lands on a foundry that is running out of capacity",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOGNvRGt3a0hNZGVWNE1wR3ZfTDdkcFdETWtqM25leGZmakE5OGhFWUU1VW9SbGVRX0dfUldpZlVnNVF3SWtkUTRzYjREa1VBNGltNFRsTXNtc09oRDBHeUtYVDc4SkN1ejFCazdYbzN3eVZET0xhX0V1Y3RqRjZIRnBHTHVEZldMSUEtcg?oc=5",
+   "source": "digitimes",
+   "summary": "OpenAI's deeper Samsung tie-up lands on a foundry that is running out of capacity digitimes",
+   "published": "2026-09-09T19:28:57+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": true,
+   "score": 6.0,
+   "feed": "Foundry EN"
+  },
+  {
+   "title": "TSMC maintains 72.5% market share while SMIC gains ground on Samsung",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3NGVVh6UDRWdkN2MlNnSFlQUk00VzdQeEtKYTRfNkFNc0t4ZUxOT2d4X2puM2NGTVFKazJJUFFrbVY0NEJDelgtNGR4SC1XZGpNQnFWMnEtRjNJbFEtdGdBbGlDSldOOHVSZExoNEc3eEVCWEhUMG1qQUhEbDJaTDNCWm9obG9jM2pCLTBGWHdVdXRaaGhuT3dQSzJpc0k3QlE2OFVTTlFfRVFQUGfSAa4BQVVfeXFMTjNzRlVYelA0VnZDdjJTZ0hZUFJNNFc3UHhLSmE0XzZBTXNLeGVMTk9neF9qbjNjRk1RSmsySVBRa21WNDRCQ3pYLTRkeEgtV2RqTUJxVjJxLUYzSWxRLXRnQWxpQ0pXTjh1UmRMaDRHN3hFQlhIVDBtakFIRGwyWkwzQlpvaGxvYzNqQi0wRlh3VXV0Wmhobk93UEsyaXNJN0JRNjhVU05RX0VRUFBn?oc=5",
+   "source": "Sammy Fans",
+   "summary": "TSMC maintains 72.5% market share while SMIC gains ground on Samsung Sammy Fans",
+   "published": "2026-09-09T21:53:42+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "foundry"
+   ],
+   "samsung": true,
+   "score": 6.0,
+   "feed": "Foundry EN"
+  },
+  {
+   "title": "SK하닉의 ‘HBM 독주’ 흔드는 삼성···격차 한 분기 만에 ‘절반’",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ubks4MllTU3pkXzUweWxjYzA2WjNQUjhXdUwyNmJXRml2SUZMNjk2Um5nTzhWeWFPZDVWdE95bng0SUx5QzkxUmN3bEV3N3F4SmlyeTZ6bkNfTmpVeGFxc2JqWF9xT1B1aVZrUVp5dDnSAXRBVV95cUxOVUVBd1U1djR5bmp4WG5MMDh1UGFhcm55eWJ4VWQ1QW1BcmkxblpJZ3NwbHZHdXlfWXVTaFRfVExNcFlRZGpaY1ZLTW9OR0JSaC1lWGI2TnNHOFJGRExOS243OWo1RzdBeEJCN3dlRFhsSU5CRQ?oc=5",
+   "source": "이뉴스투데이",
+   "summary": "SK하닉의 ‘HBM 독주’ 흔드는 삼성···격차 한 분기 만에 ‘절반’ 이뉴스투데이",
+   "published": "2026-09-09T17:50:00+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "memory"
+   ],
+   "samsung": true,
+   "score": 6.0,
+   "feed": "HBM"
+  },
+  {
+   "title": "중국 '반도체 노광장비 자립' 속도 내지만, 삼성전자·SK하이닉스 '하이 NA EUV'로 추격 따돌린다",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwcmFzU25kbTFVUmlKZGFXTkVQaGlIaWszVTM3NVRmbHFETTRPMkpGRFRUMzZmbWo5dElTODBPRzJiRVdKeFR5enYzdFRSTGQ2Y3ZFVHZ0S2VOMlE5MUpZbXR5SnhhMkU4Rm9tWE9ZVjg0c2s?oc=5",
+   "source": "비즈니스포스트",
+   "summary": "중국 '반도체 노광장비 자립' 속도 내지만, 삼성전자·SK하이닉스 '하이 NA EUV'로 추격 따돌린다 비즈니스포스트",
+   "published": "2026-09-09T15:08:54+09:00",
+   "date": "2026-09-09",
+   "tags": [
     "memory",
-    "equip"
+    "equip",
+    "market"
    ],
    "samsung": true,
    "score": 6.0,
    "feed": "장비·소재"
   },
   {
-   "title": "삼성 성과급 합의 그 후, 노동자들 사이에 어떤 일이 벌어지고 있나",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aM3IxRVh6M19fWWVBeXhMejhQUFBBOG56TDRQOWJKamtsMzNSWklTdlhOaWN0VXFwQUVlMGlocUVrcm9sMDBrbXRyOTJfVlJ1SnlWanVrd2lURmkyRHBLckMxR1NsN3hia2c?oc=5",
-   "source": "시사IN",
-   "summary": "삼성 성과급 합의 그 후, 노동자들 사이에 어떤 일이 벌어지고 있나 시사IN",
-   "published": "2026-09-09T06:39:56+09:00",
+   "title": "삼성 초기업노조, 반도체 노조로…DX 조합원 탈퇴 처리 추진",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HdHAtd0xWNHVzbHJzWl9xSGlxUjFkeng4TDJ6NGlqNURVVVBZcTFxSW15cFQ2ZF8xaGVOTFN1QmR3aDZrYUp2UTROX1lzbUMyd0tpYzZiRmtSc0F4SFczdERSb1h3T2dodmfSAWpBVV95cUxPR3RwLXdMVjR1c2xyc1pfcUhpcVIxZHp4OEwyejRpajVEVVVQWXExcUlteXBUNmRfMWhlTkxTdUJkd2g2a2FKdlE0Tl9Zc21DMndLaWM2YkZrUnNBeEhXM3REUm9Yd09naHZn?oc=5",
+   "source": "뉴스1",
+   "summary": "삼성 초기업노조, 반도체 노조로…DX 조합원 탈퇴 처리 추진 뉴스1",
+   "published": "2026-09-09T18:03:25+09:00",
    "date": "2026-09-09",
    "tags": [
     "market"
@@ -1187,6 +1914,20 @@
    "samsung": true,
    "score": 6.0,
    "feed": "삼성전자 실적"
+  },
+  {
+   "title": "[고래사냥] 'DB하이텍·동진쎄미켐·넥스틸! 내일장 고래 종목은?! - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52NFhCc3A2RUxuNXZreFg2dnVHUi1PRDFHUy1USjI3WjFtYUktVjU2VHEyMHZzY3VlZFJSMEZteW42d2VVUjFKeE1nNlVqOWhUd0ZaM3RmVHByWHdZanVKQXBXNmYzMkhLS1NjUDJn0gFuQVVfeXFMTnY0WEJzcDZFTG41dmt4WDZ2dUdSLU9EMUdTLVRKMjdaMW1hSS1WNTZUcTIwdnNjdWVkUlIwRm15bjZ3ZVVSMUp4TWc2VWo5aFR3RlozdGZUcHJYd1lqdUpBcFc2ZjMySEtLU2NQMmc?oc=5",
+   "source": "머니투데이",
+   "summary": "[고래사냥] 'DB하이텍·동진쎄미켐·넥스틸! 내일장 고래 종목은?! - 머니투데이 머니투데이",
+   "published": "2026-09-09T21:24:29+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "market"
+   ],
+   "samsung": false,
+   "score": 4.0,
+   "feed": "테일러 팹"
   },
   {
    "title": "[반도체 3강 열도 상륙] 반도체 쇄국주의는 필패…韓 제조 경쟁력 유지 위한 생태계 확장 절실",
@@ -1199,64 +1940,8 @@
     "market"
    ],
    "samsung": false,
-   "score": 5.69,
+   "score": 4.0,
    "feed": "테일러 팹"
-  },
-  {
-   "title": "삼전·SK하닉 강세 지속될까···HBM4 공급·경쟁구도 주목",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EOW90YU80cDgyemw4b3FISzlCcGQtMUdIOFc3QzY3amgybjJ5c2toZTR2eUtaZFlsSjlzSU5zMVZmRlhWem9CVy1ORTdqano3SUY2V2laQVBSNGswSnV2aWpMZzVRNEpUSXNV0gFrQVVfeXFMTkQ5b3RhTzRwODJ6bDhvcUhLOUJwZC0xR0g4VzdDNjdqaDJuMnlza2hlNHZ5S1pkWWxKOXNJTnMxVmZGWFZ6b0JXLU5FN2pqejdJRjZXaVpBUFI0azBKdXZpakxnNVE0SlRJc1U?oc=5",
-   "source": "현대경제신문",
-   "summary": "삼전·SK하닉 강세 지속될까···HBM4 공급·경쟁구도 주목 현대경제신문",
-   "published": "2026-09-09T16:35:54+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "memory"
-   ],
-   "samsung": false,
-   "score": 5.46,
-   "feed": "HBM"
-  },
-  {
-   "title": "[전혜은 시선] HBM 다음까지 선점한다…SK하이닉스, AI 메모리 ‘풀스택’ 승부수",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04YzEwMDVvS2ZvTGhqbkVDOFNxbzQ2OU5FRE1BMi1xVWExWlpreDRUN2w5UGZmckRPdTJUdEphVDdNSUJKT0xteEE3WTMxWTdMVWN5ZHRtbHc1eWZ0MnVKM3pyWjdycUpWaFFSRGFXaw?oc=5",
-   "source": "위클리오늘",
-   "summary": "[전혜은 시선] HBM 다음까지 선점한다…SK하이닉스, AI 메모리 ‘풀스택’ 승부수 위클리오늘",
-   "published": "2026-09-09T11:42:55+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "memory"
-   ],
-   "samsung": false,
-   "score": 4.64,
-   "feed": "HBM"
-  },
-  {
-   "title": "TSMC, 2031년까지 12인치 포토마스크 시험생산라인 구축",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uN2NzdF9EWDFwcmRUc3R5X3o5QlBHWmtwcF9ZcTNxUkRLeTlYdzlYMDl0aGtLNUMtS1VvMkhxenluLTlhd2xOcm84Z05OMjhXcWpWUVJjVlZKZ1dUdXdMatIBYEFVX3lxTE5uN2NzdF9EWDFwcmRUc3R5X3o5QlBHWmtwcF9ZcTNxUkRLeTlYdzlYMDl0aGtLNUMtS1VvMkhxenluLTlhd2xOcm84Z05OMjhXcWpWUVJjVlZKZ1dUdXdMag?oc=5",
-   "source": "연합뉴스",
-   "summary": "TSMC, 2031년까지 12인치 포토마스크 시험생산라인 구축 연합뉴스",
-   "published": "2026-09-09T11:37:37+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "foundry"
-   ],
-   "samsung": false,
-   "score": 4.63,
-   "feed": "TSMC"
-  },
-  {
-   "title": "중기부, 9개 부처 경연 '올해 K-스타트업' 진출 32곳 선발",
-   "url": "https://zdnet.co.kr/view/?no=20260909232531",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]중소벤처기업부(중기부)는 9일 9개 부처가 협업하는 창업경진대회 '올해의 K-스타트업'의 중기부 주관 예선리그인 인공지능(AI)리그와 혁신창업리그에서 범부처 통합본선에 진출할 기업의 선발 결과를 발표했다.'올해의 K-스타트업'은 업력 3년 이내의 초기 창업기업을 대상으로 하는 범부처 창업경진대회로, 그간 뤼튼테크놀로지스, 엘디카본, 라이온로보틱스 등 혁신기업을 배출하며 ‘K-스",
-   "published": "2026-09-09T23:25:31+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.6,
-   "feed": "ZDNet Korea"
   },
   {
    "title": "[NNA] TSMC, 3나노 생산 확대…매출 비중 30% 돌파 전망",
@@ -1270,270 +1955,14 @@
     "market"
    ],
    "samsung": false,
-   "score": 4.59,
+   "score": 4.0,
    "feed": "TSMC"
-  },
-  {
-   "title": "태성, KPCA쇼서 유리기판 장비 공개…\"이달 수주 가시화\"",
-   "url": "https://zdnet.co.kr/view/?no=20260909161612",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]태성이 9~11일 인천 송도컨벤시아에서 열리는 국내 최대 기판 전시회 KPCA쇼(국제 반도체 기판 및 첨단 패키징 산업전)에서 유리기판 생산설비를 전시한다고 9일 밝혔다.태성은 올해 전시회에서 기존 인쇄회로기판(PCB) 제조장비에서 축적한 기술력을 바탕으로 유리관통전극(TGV) 식각, 세정, 도금 등 유리기판 제조 전 과정을 아우르는 공정 장비 풀라인업을 공개한다. 유리기판은 ",
-   "published": "2026-09-09T23:21:19+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "pkg",
-    "equip",
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.58,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "韓, 프랑스와 AI·반도체·양자기술 투자 협력 늘린다",
-   "url": "https://zdnet.co.kr/view/?no=20260909225456",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]한국과 프랑스가 인공지능(AI), 반도체, 양자 등 미래 전략기술 분야에서 공동 연구개발(R&D)과 기업 프로젝트를 발굴하고 양국 기업의 시장 진출을 위한 투자 협력을 확대한다.과학기술정보통신부는 이재명 대통령의 프랑스 국빈 방문을 계기로 8일(현지시간) 프랑스 파리에서 AI·반도체·양자 기술 분야 협력 강화를 위한 양해각서를 체결했다고 밝혔다.양해각서 체결은 지난 4월 에마뉘",
-   "published": "2026-09-09T22:54:56+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.51,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "노드VPN, 상반기 쿠키 940억 개 노출 및 440만 건 피싱 차단",
-   "url": "https://zdnet.co.kr/view/?no=20260909225006",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]글로벌 보안 기업 노드VPN(NordVPN)은 상반기 사이버 위협 동향을 분석한 ‘소비자 사이버 보안 보고서’를 발표했다. 이 보고서는 최신 위협 지표와 실제 사례를 바탕으로, 생성형 AI와 고도화된 공격 수단이 어떻게 전례 없는 규모로 소비자를 표적으로 삼고 있는지 조명했다.사이버 범죄 양상은 과거 대량의 무작위 기술적 악용 방식에서 벗어나, 긴급성과 탐욕, 그리고 친숙한 브",
-   "published": "2026-09-09T22:50:06+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.5,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "'세균 득실' 변기 내부…“물 내릴 때 뚜껑 안 닫으면 호흡기로 침투”",
-   "url": "https://www.etnews.com/20260909000369",
-   "source": "전자신문",
-   "summary": "변기 물을 내린 뒤에도 눈에 보이지 않는 변기 속 입자가 일정 시간 실내 공기 속에 남아 있을 수 있다는 연구 결과가 공개됐다. 일부 입자는 성인의 호흡기 높이까지 도달하는 것으로 나타났다. 8일(현지시간) 데일리메일에 따르면 호주 플린더스대 연구진은 변기에서 발생하는 에어로졸과 생물학적 에어로졸을 다룬 기존 연구 20여편을 종합적으로 분석했다. 그 결과 변기에서 물이 빠져나가는 순간 미세한",
-   "published": "2026-09-09T22:30:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.44,
-   "feed": "전자신문"
-  },
-  {
-   "title": "DJI, 제83회 베니스 국제영화제 기간 중 베니스 프로덕션 브릿지서 &apos;영화 제작자 & 비저너리 세션&apos; 개최",
-   "url": "https://zdnet.co.kr/view/?no=20260909221025",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]- 새로운 세대와 새로운 영화 언어: Osmo Pocket 4P, 스토리텔링•창작의 자유•전문 촬영 도구에 대한 새로운 논의 촉발 이탈리아 베니스 2026년 9월 9일 /PRNewswire/ -- 민간용 드론 및 창의적인 카메라 기술 분야의 글로벌 리더 DJI가 제83회 베니스 국제영화제 기간 중 영화 산업 교류 프로그램인 베니스 프로덕션 브릿지(Venice Production",
-   "published": "2026-09-09T22:10:25+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "equip",
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.39,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "홍콩이 서방 언론이 미리 짜놓은 &apos;종말 시나리오&apos;대로 흘러가지 않은 이유",
-   "url": "https://zdnet.co.kr/view/?no=20260909221014",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]광저우, 중국 2026년 9월 9일 /PRNewswire/ -- 사우스(South)의 뉴스 보도: 지난 몇 년간 홍콩을 둘러싸고 일부 서방 언론은 다양한 버전의 '종말 시나리오'를 만들어 왔다. 세계 금융 중심지로서 홍콩의 위상이 약화되고 있는가? 싱가포르가 홍콩을 대체할 수 있는가? 일부에서는 심지어 \"홍콩은 끝났다\"고 단언하기도 했다. 그러나 최근 홍콩에서 잇따라 발표된 수",
-   "published": "2026-09-09T22:10:14+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.39,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "ADGM, AUM 54% 급증•유효 라이선스 1만 4000건 육박하며 글로벌 금융 허브로서 아부다비 위상 강화",
-   "url": "https://zdnet.co.kr/view/?no=20260909221004",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아] 아부다비, 아랍에미리트, 2026년 9월 9일 /PRNewswire/ -- 아부다비의 국제금융센터인 ADGM이 2026년 상반기 강력한 성장세를 기록한 가운데, 운용자산(Assets Under Management, AUM)은 전년 동기 대비 54% 증가했고, 근무 인력은 4만 9027명에 달했다. 한편 유효 라이선스 수도 약 1만 4000건으로 증가했다. 이번 실적은 글로벌 ",
-   "published": "2026-09-09T22:10:04+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.39,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "커넥셔너리, 신한카드와 '금융 의사결정 AI 엔진' 개발",
-   "url": "https://zdnet.co.kr/view/?no=20260909215442",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]AI 의사결정 인프라 기업 커넥셔너리가 신한카드와 함께 ‘금융 의사결정 AI 엔진’ 개발 및 실증에 나선다. 이번 프로젝트는 생성형 AI를 단순히 정보 검색이나 질의응답 도구로 활용하는 단계를 넘어, 복잡한 금융상품 정보를 AI가 정확하게 이해하고 비교해 고객과 업무 담당자의 의사결정을 지원할 수 있는 기술 기반을 확보하는 것이 목표다.커넥셔너리는 자체 개발한 AID(Atomi",
-   "published": "2026-09-09T21:54:42+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.34,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "씨이랩, 엔비디아 'AI 시티 챌린지 2026' 1위...'ECCV 2026'서 수상",
-   "url": "https://zdnet.co.kr/view/?no=20260909214627",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]피지컬AI 전문기업 씨이랩(대표 윤세혁·채정환)이 엔비디아(NVIDIA)가 주관하는 글로벌 컴퓨터 비전 경진대회 '2026 AI 시티 챌린지(2026 AI City Challenge)'의 Track 4(텍스트 기반 인물 이상 탐색, Sim2Real) 부문에서 최종 1위를 확정, 유럽 컴퓨터 비전 학회 'ECCV 2026' 현장에서 수상했다. 공개 리더보드 1위 이후 주관사의 규",
-   "published": "2026-09-09T21:46:27+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.32,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "유진 배 미국무부 디렉터 \"양자컴퓨터, 가속기 역할부터 할 것\"",
-   "url": "https://zdnet.co.kr/view/?no=20260909214611",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]\"양자컴퓨터는 현재 컴퓨터를 대체하는 것이 아니라, GPU 같은 가속기 역할을 할 것이다. 결함없는 양자컴퓨터를 기다리기 보다는, 당장 유용하게 써야 하기 때문이다.\"유진 배 미국 국무부 기술정책 디렉터가 9일 국회박물관에서 한국표준과학연구원(KRISS) 주관으로 열린 '2026 양자 국가전략기술 국회포럼'에서 기조강연자로 나서 이같이 언급했다.이날 포럼은 송기헌·한준호·최형두",
-   "published": "2026-09-09T21:46:11+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "equip",
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.32,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "인텔리빅스, 'IFA 2026' 참가…국산 NPU 기반 재난안전 AI 소개",
-   "url": "https://zdnet.co.kr/view/?no=20260909213846",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]안전 딥테크 AI기업 인텔리빅스(대표 장정훈)는 4일부터 8일까지 독일 베를린에서 열린 국제가전전시회 ‘IFA 2026’ 에 참가했다. 국산 AI반도체(NPU) 기반 산불 조기경보 및 자율형 안전관제 기술을 소개했다.9일 회사에 따르면, 인텔리빅스는 정보통신산업진흥원(NIPA) ‘K-AI반도체’ 공동관(K-AI Semiconductor Pavilion)에 참가했다. 전시 부스에",
-   "published": "2026-09-09T21:38:46+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.3,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "버스데이, 실시간 미디어아트 '더 브레이크 포인트' 선보여",
-   "url": "https://zdnet.co.kr/view/?no=20260909213005",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]미디어아트 레이블 버스데이(VERSEDAY)가 지난 3일 개막한 '서울라이트 DDP 2026 가을'에서 라이브 퍼포먼스와 실시간 미디어아트를 결합한 새로운 형식의 작품 '더 브레이크 포인트(The Break Point)'를 선보인다. 이 행사는 13일까지 11일간 동대문디자인플라자(DDP) 전면부 및 일대에서 무료로 개최된다. 버스데이가 기획·제작하고 백남준아트센터가 협력한 '",
-   "published": "2026-09-09T21:30:05+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.28,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "현대홈쇼핑플러스샵 재승인 평가 1위…쇼핑엔티 최하위",
-   "url": "https://zdnet.co.kr/view/?no=20260909205346",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]TV홈쇼핑과 데이터홈쇼핑 사업자 12곳이 모두 방송미디어통신위원회로부터 재승인을 받았다. 심사에서는 현대홈쇼핑플러스샵이 가장 높은 점수를 받았고 쇼핑엔티가 최하위를 기록, 모든 사업자가 재승인 기준을 넘겼다. 방송미디어통신위원회는 송출수수료 인상분의 납품업체 부당 전가 금지와 중소기업 판로 지원 등 공정거래 관련 조건도 부과했다.방송미디어통신위원회는 9일 전체회의를 열고 롯데홈",
-   "published": "2026-09-09T21:04:06+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.2,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "\"中 국무원, 韓 데이터 행정 배운다\"...개발원 방문",
-   "url": "https://zdnet.co.kr/view/?no=20260909203753",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]한국지역정보개발원(이하 개발원)은 9일 오후 2시 개발원 다올 회의실에서 중국 국무원 연수단을 맞아 한국의 전자지방정부 성과와 데이터 기반 행정 혁신 사례를 공유하고 협력 방안을 모색했다.이번 연수단은 중국 국무원 인력자원사회보장부 우슈쥔(吴秀君) 인사서비스센터 부주임을 단장으로, 중앙인터넷정보판공실, 국가발전개혁위원회, 교육부, 과학기술부, 공업정보화부 등 주요 중앙부처 관계",
-   "published": "2026-09-09T20:37:53+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.13,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "2026 진도국제무형유산컨퍼런스 열린다...6개국 무형유산 전문가 참여",
-   "url": "https://zdnet.co.kr/view/?no=20260909202921",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]지역 전통문화의 변화와 문화적 가치 등을 확인할 수 있는 ‘2026 진도국제무형문화컨퍼런스’가 열린다. 9일 진도군과 진도군문화도시센터에 따르면, 이달 진도군청 일대에 국제 교류 행사인 ‘2026 진도국제무형문화컨퍼런스’가 개최된다.해당 컨퍼런스는 오는 16일부터 18일까지 진행되며, 주제는 ‘살아있는 유산, 함께 여는 미래’다. 지역의 전통문화가 시대의 변화 속에서 어떻게 전",
-   "published": "2026-09-09T20:29:31+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.11,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "美 NSA·CISA·FBI, 중국 AI 6개사 '지식 증류' 경보…\"수십억 토큰 빼갔다\"",
-   "url": "https://zdnet.co.kr/view/?no=20260909202006",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]미국 국가안보국과 사이버보안·인프라보안국, 연방수사국이 현지 시각 9월 8일 중국 AI 기업 6곳을 대상으로 한 공동 경보를 발표했다. 경보 번호는 AA26-251A이며 딥시크와 문샷 AI, 알리바바, 미니맥스, 스텝펀, Z.AI가 대상이다.경보는 산업 규모의 지식 증류를 문제 삼았다. 증류는 큰 모델이 내놓은 답을 교재 삼아 다른 모델을 가르치는 방법으로, 개발 비용과 시간을",
-   "published": "2026-09-09T20:20:06+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.08,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "금융의 재구상: DIFC, 두바이 미래 금융 주간에서 은행, 사모시장, 자산운용, 핀테크, 공공정책 및 지속가능성 분야 글로벌 리더 집결",
-   "url": "https://zdnet.co.kr/view/?no=20260909201003",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아] 두바이, 아랍에미리트, 2026년 9월 9일 /PRNewswire/ -- 중동, 아프리카 및 남아시아 지역을 대표하는 글로벌 금융 중심지인 두바이 국제금융센터(Dubai International Financial Centre, DIFC)가 2026년 11월 2일부터 6일까지 처음 개최되는 두바이 미래 금융 주간(Dubai Future Finance Week)의 프로그램을 확정",
-   "published": "2026-09-09T20:10:03+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.05,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "마음AI, 부산 'SCE 2026'서 로봇개 시연...피지컬AI 강연도",
-   "url": "https://zdnet.co.kr/view/?no=20260909195445",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]AI 전문기업 마음AI는 부산 벡스코에서 개막한 ‘2026 월드 스마트시티 엑스포(WSCE 2026)’에서 피지컬AI(Physical AI) 기반 스마트시티 미래 비전을 제시했다. 또 10일 열릴 WSCE 어워즈(Awards)의 '우수기업-이노베이션 분야’에서 수상할 예정이다.9일 회사에 따르면, 이날 손병희 마음AI 국방AI&로보틱스 부문 대표는 자사 진도봇(JINDO BOT",
-   "published": "2026-09-09T19:54:45+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 4.01,
-   "feed": "ZDNet Korea"
   },
   {
    "title": "칩 커지는데 렌즈는 줄었다… TSMC가 12인치 꺼내든 속사정",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lR3BIVURJdk1UanE4WVYzeDBsTGFLdGRlU1pITFR4ckRaMGFDelptM25BeXV5QW5iRzdzcUU1aXpVb0g4ODU2ZUtNUFNVRkp3ajFyMzVnQm9TRGpFNXBZU01JRXFEZ2s?oc=5",
-   "source": "choicestock.co.kr",
-   "summary": "칩 커지는데 렌즈는 줄었다… TSMC가 12인치 꺼내든 속사정 choicestock.co.kr",
+   "source": "초이스스탁US",
+   "summary": "칩 커지는데 렌즈는 줄었다… TSMC가 12인치 꺼내든 속사정 초이스스탁US",
    "published": "2026-09-09T07:16:00+09:00",
    "date": "2026-09-09",
    "tags": [
@@ -1544,25 +1973,39 @@
    "feed": "TSMC"
   },
   {
-   "title": "우리 계열 카지노 사이트 자산 배분의 파악: 원리, 방법 및 기술",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2pEMTBaSTh5U1Z2T2pKTW1ESFlWblI3YnZMa0NHeHhOYzROVU9GSUFQR1k2cU1WT3VpcWVlVHMxVnFJQlp0dWN1dWNZNkFmSUdtaVMxMUtMbzJBU01MZDBhUU56cmFFeWtmdXVQQVNpM1FBdFIweUVJRkNsWWotbWl6MUVaQ21kNlpfdlZ6ejRLMW5IbTljMkJNcm1NeEZpSmZQOGs2VUphVFhsQUljcHBVTlY5UQ?oc=5",
-   "source": "Histoire pour tous",
-   "summary": "우리 계열 카지노 사이트 자산 배분의 파악: 원리, 방법 및 기술 Histoire pour tous",
-   "published": "2026-09-09T02:07:36+09:00",
+   "title": "[반도체 패권전쟁 ①] ‘메모리 왕좌’를 잡아라…아직은 견고한 3강 체제",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tTEdiYVhDRGg2aVVyMndWZHFud3kybnhFbDR2VkRtaXYwbVNFd29ucFVWbHBQd19NV1RGMEFYRV9ObG5HNjI0VjE5X0FwdDFRa292SXRMRE1WUEloeExvb1FuMnBjQ0txVXI5Vjh1aEN1Zw?oc=5",
+   "source": "newsimpact.co.kr",
+   "summary": "[반도체 패권전쟁 ①] ‘메모리 왕좌’를 잡아라…아직은 견고한 3강 체제 newsimpact.co.kr",
+   "published": "2026-09-09T06:15:00+09:00",
    "date": "2026-09-09",
    "tags": [
-    "market"
+    "memory"
    ],
    "samsung": false,
    "score": 4.0,
-   "feed": "TSMC"
+   "feed": "HBM"
   },
   {
-   "title": "[반도체 패권전쟁 ①] ‘메모리 왕좌’를 잡아라…아직은 견고한 3강 체제",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tTEdiYVhDRGg2aVVyMndWZHFud3kybnhFbDR2VkRtaXYwbVNFd29ucFVWbHBQd19NV1RGMEFYRV9ObG5HNjI0VjE5X0FwdDFRa292SXRMRE1WUEloeExvb1FuMnBjQ0txVXI5Vjh1aEN1Zw?oc=5",
-   "source": "뉴스임팩트",
-   "summary": "[반도체 패권전쟁 ①] ‘메모리 왕좌’를 잡아라…아직은 견고한 3강 체제 뉴스임팩트",
-   "published": "2026-09-09T06:15:00+09:00",
+   "title": "[전혜은 시선] HBM 다음까지 선점한다…SK하이닉스, AI 메모리 ‘풀스택’ 승부수",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kWENBUVpFNVhNRWZRdkVmYlJCQ0JJdmYtTDNvUjRIS1NTeVQ2NVpHUUZER2dRNHNNQXl3UHVONkVHUWs5ZXJCWkR3WjQ4Z3Q5Z19VYmxUM1d5cTZWWVlXak5JOTRlcHBodlY4MVVB?oc=5",
+   "source": "위클리오늘",
+   "summary": "[전혜은 시선] HBM 다음까지 선점한다…SK하이닉스, AI 메모리 ‘풀스택’ 승부수 위클리오늘",
+   "published": "2026-09-09T11:42:55+09:00",
+   "date": "2026-09-09",
+   "tags": [
+    "memory"
+   ],
+   "samsung": false,
+   "score": 4.0,
+   "feed": "HBM"
+  },
+  {
+   "title": "삼전·SK하닉 강세 지속될까···HBM4 공급·경쟁구도 주목",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EOW90YU80cDgyemw4b3FISzlCcGQtMUdIOFc3QzY3amgybjJ5c2toZTR2eUtaZFlsSjlzSU5zMVZmRlhWem9CVy1ORTdqano3SUY2V2laQVBSNGswSnV2aWpMZzVRNEpUSXNV0gFrQVVfeXFMTkQ5b3RhTzRwODJ6bDhvcUhLOUJwZC0xR0g4VzdDNjdqaDJuMnlza2hlNHZ5S1pkWWxKOXNJTnMxVmZGWFZ6b0JXLU5FN2pqejdJRjZXaVpBUFI0azBKdXZpakxnNVE0SlRJc1U?oc=5",
+   "source": "현대경제신문",
+   "summary": "삼전·SK하닉 강세 지속될까···HBM4 공급·경쟁구도 주목 현대경제신문",
+   "published": "2026-09-09T16:35:54+09:00",
    "date": "2026-09-09",
    "tags": [
     "memory"
@@ -1587,11 +2030,11 @@
    "feed": "D램·낸드"
   },
   {
-   "title": "반도체 호황에… 소부장 기업들도 노조 만들고 잇단 파업",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclZIN3ptYU1kbENfUGkwNDVrczVFeUVvSUlMeEs4Q2xrYnRveWF6XzhUcjl6YjdfOHJiWlctVWxZc3BpcFA2Z3dvMzNoS1FMVWlpTWw4TTY5cTQxZWpzbUctbFhnNl9xeXBFazFLelgzUFlaWks3d1VUandvbXMwZUpB?oc=5",
-   "source": "조선일보",
-   "summary": "반도체 호황에… 소부장 기업들도 노조 만들고 잇단 파업 조선일보",
-   "published": "2026-09-09T00:50:32+09:00",
+   "title": "반도체 호황에…소부장 기업들도 노조 만들고 잇단 파업",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PRnhhLXhjbzVvSlVvWk5TQzktR1VuWjdSMHlXWndBQXdQaHB0R3ZaSlAwMWtzaGFMM3JnUEdlb0FtRExyci1Gc3lqTFpuY0IzWGpJ?oc=5",
+   "source": "Nate News",
+   "summary": "반도체 호황에…소부장 기업들도 노조 만들고 잇단 파업 Nate News",
+   "published": "2026-09-09T00:46:00+09:00",
    "date": "2026-09-09",
    "tags": [
     "market"
@@ -1599,357 +2042,6 @@
    "samsung": false,
    "score": 4.0,
    "feed": "삼성전자 실적"
-  },
-  {
-   "title": "유료방송 생태계 위기…\"사용료 현실화·요금 규제 풀고 위험 나눠야\"",
-   "url": "https://zdnet.co.kr/view/?no=20260909173432",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]유료방송 시장 침체와 제작비 상승이 맞물리면서 콘텐츠 투자까지 위축되는 악순환을 끊기 위해 방송채널사용사업자(PP)에 지급하는 프로그램 사용료를 현실화해야 한다는 주장이 나왔다. 유료방송의 수익 기반을 확대할 수 있도록 요금 규제를 완화하고 PP와 유료방송 사업자가 콘텐츠 투자 위험을 나눠야 한다는 제안도 제시됐다.김정현 고려대 미디어학부 교수는 9일 국회에서 열린 합리적인 유",
-   "published": "2026-09-09T19:18:38+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.91,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "[카드뉴스] 똑똑한 AI, 위험할 수도 있대요",
-   "url": "https://zdnet.co.kr/view/?no=20260909102453",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 요즘 UN을 비롯한 세계 여러 나라 어른들이 AI의 위험성에 대해 심각하게 고민하고 있다는 소식, 알고 계셨나요? AI가 점점 똑똑해지면서 그만큼 사람들의 걱정도 함께 커지고 있는데요, 이를 막기 위해 유럽에서는 강력한 규제 카드를 꺼내 들었어요. AI 회사가 안전 규칙을 어길 경우 무려 92조 원에 달하는 어마어마한 벌금을 물어야 할 수도 ",
-   "published": "2026-09-09T19:16:10+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.9,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "10월부터 불법스팸 발송·방치하면 매출 6% 과징금 부과한다",
-   "url": "https://zdnet.co.kr/view/?no=20260909190057",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]불법스팸을 보내거나 자신의 서비스가 불법스팸 전송에 이용되는 것을 제대로 막지 않은 사업자에게 관련 매출액의 최대 6%를 과징금으로 부과하는 제도가 10월부터 시행된다. 과징금은 사업자의 매출 규모와 함께 위반 행위의 고의성, 방법과 수단, 피해 규모 등을 따져 결정된다.방송미디어통신위원회는 9일 전체회의를 열고 불법스팸 과징금 부과 기준 등을 담은 정보통신망법 시행령 개정안과",
-   "published": "2026-09-09T19:09:28+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.88,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "방미통위, 데이터홈쇼핑 10개사+롯데홈쇼핑·홈앤쇼핑 7년 재승인",
-   "url": "https://zdnet.co.kr/view/?no=20260909161305",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]T커머스(데이터홈쇼핑) 10개 사업자와 TV홈쇼핑인 롯데홈쇼핑·홈앤쇼핑이 모두 방송미디어통신위원회로부터 재승인을 받았다. 승인 유효기간은 7년이다.방송미디어통신위원회는 9일 전체회의를 열고 데이터홈쇼핑 10개 사업자와, 롯데홈쇼핑·홈앤쇼핑에 대한 재승인을 의결했다. 사업자들에게는 공통 조건과 사업자별 개별 조건을 부과하기로 했다.데이터홈쇼핑 재승인은 2021년 이후 5년 만이다",
-   "published": "2026-09-09T19:05:47+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.87,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "닌텐도, '젤다의 전설 시간의 오카리나' 리메이크 11월 5일 발매",
-   "url": "https://zdnet.co.kr/view/?no=20260909185104",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]닌텐도의 대표 명작 '젤다의 전설 시간의 오카리나'가 풀 리메이크를 거쳐 차세대 콘솔 닌텐도 스위치2로 정식 귀환한다.한국닌텐도는 닌텐도 스위치2 전용 소프트웨어 '젤다의 전설 시간의 오카리나'의 출시 정보 등을 공개했다고 9일 밝혔다.오는 11월 5일 정식 출시되는 이번 작품은 지난 1998년 닌텐도 64로 선보였던 동명의 원작을 완전히 새롭게 풀 리메이크한 타이틀로, 그래픽",
-   "published": "2026-09-09T18:51:04+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.83,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "신라면세점 \"신라시대 캐릭터로 쇼핑 성향 테스트 하세요\"",
-   "url": "https://zdnet.co.kr/view/?no=20260909184134",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]신라면세점이 추석 연휴를 앞두고 쇼핑 성향을 분석해 유형별 혜택을 제공하는 고객 참여형 행사를 진행한다.신라면세점은 오는 10월11일까지 ‘추(秋)구미 페스타’를 진행한다고 9일 밝혔다.신라인터넷면세점에서 ‘신라시대에 태어난 나는?’ 테스트에 참여하면 쇼핑 성향에 따라 여왕과 성골, 무희, 광대 등 16개 유형 가운데 하나의 결과를 받을 수 있다. 유형별로 온·오프라인에서 사용",
-   "published": "2026-09-09T18:49:19+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.83,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "공영홈쇼핑 \"외국산 홍어·가자미 국내산 판매 의혹, 아직 수사 중\"",
-   "url": "https://zdnet.co.kr/view/?no=20260909183934",
-   "source": "ZDNet Korea",
-   "summary": "[지디넷코리아]공영홈쇼핑이 외국산 홍어무침과 가자미를 국내산으로 속여 판매했다는 의혹과 관련해 원산지 위반 여부가 아직 확정되지 않았다고 반박했다. 현재 수사기관이 납품 제조업체의 원산지 표시 위반 여부를 조사하고 있으며 공영홈쇼핑은 피해자 신분으로 수사에 협조하고 있다는 입장이다.9일 국회 산업통상자원중소벤처기업위원회 소속 최수진 국민의힘 의원이 공개한 자료에 따르면 공영홈쇼핑은 국내산으로",
-   "published": "2026-09-09T18:39:34+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.8,
-   "feed": "ZDNet Korea"
-  },
-  {
-   "title": "코스피, 7000 고지 탈환...14일 애프터마켓 가동 '시너지'",
-   "url": "https://www.etnews.com/20260909000395",
-   "source": "전자신문",
-   "summary": "코스피가 9일 7000선을 돌파해 마감했다. 최근 국내 증시가 반등한 가운데 오는 14일 열리는 한국거래소 애프터마켓 거래 활성화로 이어질지 주목된다. 코스피는 전 거래일 대비 97.12P(1.40%) 오른 7051.64에 거래를 마쳤다. 장중 7112.48까지 오르며 지수 강세가 이어졌다. 코스닥은 18.49P(2.28%) 상승한 830.37에 장을 마쳤다. 서울 외환시장에서 원/달러 환율",
-   "published": "2026-09-09T18:00:40+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.69,
-   "feed": "전자신문"
-  },
-  {
-   "title": "日, 성범죄자 '본인이 동의해야' GPS 착용?…“누구를 위한 법이냐”",
-   "url": "https://www.etnews.com/20260909000382",
-   "source": "전자신문",
-   "summary": "일본 정부가 출소 이후 사회로 복귀한 성범죄자를 감시하는 전자장치의 도입을 추진하고 있다. 다만 당사자의 동의를 전제로 하고 기기를 신체에 부착하지 않는 방식이어서 제도의 실효성을 둘러싼 논란이 예상된다. 9일(현지시간) 요미우리신문에 따르면 일본 법무성은 내년 중 가석방 상태에 있는 성범죄자를 대상으로 위치확인 기능이 탑재된 기기를 휴대하도록 하는 시범사업에 나설 예정이다. 적용 대상은 개",
-   "published": "2026-09-09T17:08:50+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.55,
-   "feed": "전자신문"
-  },
-  {
-   "title": "한국오라클 클라우드 매출 1000억 육박…OCI 국내 사업 본궤도",
-   "url": "https://www.etnews.com/20260909000271",
-   "source": "전자신문",
-   "summary": "한국오라클의 클라우드 사업 부문 매출이 2년 만에 두 배 이상 증가하며 1000억원에 육박했다. 매출 비중이 가장 큰 라이선스 사업이 완만한 증가에 머무는 사이, 클라우드가 회사 성장을 이끄는 새로운 엔진으로 부상했다는 평가다. 데이터베이스(DB) 고객의 클라우드 전환 수요에 신규 고객의 오라클클라우드인프라스트럭처(OCI) 도입까지 더해지면서 국내 클라우드 사업이 본격적인 성장 궤도에 올라섰",
-   "published": "2026-09-09T17:00:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.52,
-   "feed": "전자신문"
-  },
-  {
-   "title": "최태원, 노소영 재산분할 7000억원 수용…2440억원만 다투기로",
-   "url": "https://www.etnews.com/20260909000371",
-   "source": "전자신문",
-   "summary": "최태원 SK그룹 회장이 노소영 아트센터나비 관장에게 지급해야 할 재산분할액 9440억원 가운데 7000억원은 다투지 않고 나머지 2440억원에 대해서만 대법원 판단을 받기로 했다. 9일 법조계에 따르면 지난달 31일 최 회장 측은 이 같은 내용이 담긴 상고 취지 감축 신청서를 법원에 제출했다. 최 회장 측은 “분쟁이 너무 오래 지속된 만큼 분쟁을 축소하고 조속히 해결하려는 대승적 차원에서 7",
-   "published": "2026-09-09T16:33:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.45,
-   "feed": "전자신문"
-  },
-  {
-   "title": "총리 연봉이 38억…트럼프보다 많이 받는 이 나라",
-   "url": "https://www.etnews.com/20260909000259",
-   "source": "전자신문",
-   "summary": "싱가포르 정부가 로렌스 웡 총리를 비롯한 내각 각료들의 급여를 대폭 인상하기로 결정했다. 고액 연봉을 통해 우수한 인재를 유치하고 효율적인 국정 운영을 담보하겠다는 취지다. 다만 일반 시민과의 소득 격차가 커지면서 정치적 논란도 함께 이어질 전망이다. 9일(현지시간) AFP 통신 등 외신 등에 따르면 싱가포르 정부가 내각 각료들의 급여 인상을 결정하면서 로렌스 웡 싱가포르 총리의 연봉은 기존",
-   "published": "2026-09-09T16:30:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.44,
-   "feed": "전자신문"
-  },
-  {
-   "title": "[단독]쿠팡, 초대형 가구까지 '로켓설치'…중국산 저가 가구 공세 온다",
-   "url": "https://www.etnews.com/20260909000226",
-   "source": "전자신문",
-   "summary": "쿠팡이 소파·침대·식탁 등 초대형 가구에도 물류센터 입고부터 배송·설치·반품을 맡아주는 '로켓설치' 서비스를 운영한다. 또한 중국 판매자에게도 서비스를 전면 개방하기로 했다. 물류 인프라 부재로 온라인 판매에 어려움을 겪었던 국내 중소 판매자들에게 새로운 기회가 열리는 한편 저렴한 중국산 가구의 공세가 본격화할 전망이다. 9일 업계에 따르면 쿠팡은 이르면 이달 말부터 부피가 크거나 전문 설치",
-   "published": "2026-09-09T16:30:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.44,
-   "feed": "전자신문"
-  },
-  {
-   "title": "편의점업계, 상품 탐색부터 추천까지 AI로…대고객 서비스 고도화",
-   "url": "https://www.etnews.com/20260909000275",
-   "source": "전자신문",
-   "summary": "편의점 업계가 대고객 인공지능(AI) 서비스를 고도화하며 AI 커머스를 강화한다. 가맹점주 운영 효율화에서 나아가 개인화 상품 추천 등 대고객 서비스로 AI 활용 범위가 확장되는 추세다. 9일 유통업계에 따르면 세븐일레븐·CU·GS25 등 편의점 3사는 인공지능(AI) 서비스를 고도화하고 있다. 세븐일레븐은 자체 애플리케이션(앱) 세븐앱 내 AI 챗봇 '치릴릴' 고도화 계획을 마련했다. 기존",
-   "published": "2026-09-09T16:25:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.43,
-   "feed": "전자신문"
-  },
-  {
-   "title": "니콜라스 케이지 140억 저택 앞 '거대 싱크홀' 발생… “허리케인 영향”",
-   "url": "https://www.etnews.com/20260909000364",
-   "source": "전자신문",
-   "summary": "할리우드 배우 니콜라스 케이지의 미국 캘리포니아주 말리부 해변 저택 진입로가 무너지면서 대형 싱크홀이 발생하고 가스가 누출되는 사고가 일어났다. 8일(현지시간) 미국 폭스뉴스에 따르면 로스앤젤레스(LA) 카운티 소방당국은 태평양에서 발생한 허리케인 '마리'의 영향으로 말리부 해안가에 거대한 싱크홀이 발생했다고 밝혔다. 강한 파도와 높은 조수가 밀려들면서 해안 침식으로 인해 발생된 것으로 추정",
-   "published": "2026-09-09T16:20:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.41,
-   "feed": "전자신문"
-  },
-  {
-   "title": "코스피, 종가 7000선 탈환…SK하이닉스 3%대 상승",
-   "url": "https://www.etnews.com/20260909000368",
-   "source": "전자신문",
-   "summary": "코스피가 전일 장중 7000선을 돌파한데 이어 상승세를 이어가며 종가에서 7051.64에 장을 마쳤다. 코스피는 전 거래일 대비 97.12P(1.40%) 오른 7051.64에 거래를 마쳤다. 장중 7112.48까지 오르며 지수 강세가 이어졌다. 코스닥은 18.49P(2.28%) 상승한 830.37에 장을 마쳤다. 서울 외환시장에서 원/달러 환율은 장 마감 시간 기준 1336.35원을 기록했다",
-   "published": "2026-09-09T16:04:31+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "memory",
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.37,
-   "feed": "전자신문"
-  },
-  {
-   "title": "휴머노이드 쏟아지는데…수출입 통계도 못내",
-   "url": "https://www.etnews.com/20260909000291",
-   "source": "전자신문",
-   "summary": "세계적으로 휴머노이드 제품 출하량이 빠르게 증가하고 있지만 정작 국내 수출입 통계는 이같은 시장 변화를 전혀 파악하지 못하고 있다. 휴머노이드를 구분할 수 있는 별도의 통관 분류 기준이 없기 때문이다. 휴머노이드 시장 확대에 맞춰 통관·통계 기준을 서둘러 마련해야 한다는 요구가 빗발치고 있다. 9일 관련 업계에 따르면 산업통상부가 2028년 관세통계통합품목분류표(HSK) 개정을 앞두고 재정경",
-   "published": "2026-09-09T16:00:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.36,
-   "feed": "전자신문"
-  },
-  {
-   "title": "AI 해양도시 부산의 미래 한눈에…'K-ICT WEEK in BUSAN 2026' 개막",
-   "url": "https://www.etnews.com/20260909000198",
-   "source": "전자신문",
-   "summary": "기업 성장과 인재 정착, 시민 체감까지 아우른 지역 최대 정보통신기술(ICT) 종합 전시·컨벤션 행사 'K-ICT WEEK in BUSAN 2026'이 역대 최대 규모로 9일 벡스코 제1전시장에서 성대한 막을 올렸다. 과학기술정보통신부, 부산광역시, 부산광역시교육청이 공동 주최하고 정보통신산업진흥원(NIPA), 부산정보산업진흥원(BIPA), 벡스코, 전자신문이 공동 주관하는 K-ICT WEE",
-   "published": "2026-09-09T16:00:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.36,
-   "feed": "전자신문"
-  },
-  {
-   "title": "서울 지하철 결제망 재편…NFC 이어 태그리스·EMV 시대 열린다",
-   "url": "https://www.etnews.com/20260909000361",
-   "source": "전자신문",
-   "summary": "서울 지하철 결제 인프라가 태그리스와 EMV 개방형 결제를 지원하는 체계로 고도화한다. 현재 사용 중인 근거리무선통신(NFC) 기반 교통카드 결제에 태그리스와 해외 신용카드 결제가 추가된다. 국내 교통카드 규격에 머물던 결제망의 호환성과 확장성이 높아질 것으로 기대된다. 9일 업계에 따르면 서울교통공사가 최근 '3기 교통카드 수집 시스템 구축 사업자' 공모를 시작했다. 공사는 오는 12월까지",
-   "published": "2026-09-09T15:55:39+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.35,
-   "feed": "전자신문"
-  },
-  {
-   "title": "“ATM도 사라진다”… 3년 반 만에 4600대 증발, 지방은 더 심각",
-   "url": "https://www.etnews.com/20260909000318",
-   "source": "전자신문",
-   "summary": "최근 3년여 동안 국내 은행들이 운영하는 현금자동입출금기(ATM) 수가 15% 이상 감소한 것으로 조사됐다. 울산·경남·제주 등 일부 지역에서는 감소 폭이 20%를 넘어서면서 비수도권을 중심으로 현금 이용 환경이 악화되고 있다는 우려가 제기된다. 9일 국회 정무위원회 소속 서일준 국민의힘 의원이 금융감독원으로부터 받은 자료를 보면, 올해 6월 기준 국내 은행 ATM은 총 2만4711대였다. ",
-   "published": "2026-09-09T15:50:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.33,
-   "feed": "전자신문"
-  },
-  {
-   "title": "韓 총리 “한동훈 녹취록 유출 경위 확인”…5·18 폄훼엔 “합당 조치 필요”",
-   "url": "https://www.etnews.com/20260909000345",
-   "source": "전자신문",
-   "summary": "한성숙 국무총리가 최근 무소속 한동훈 의원이 공개한 김승원 법무부 장관 후보자의 이른바 '신약 청탁' 의혹 관련 녹취록과 수사자료에 대해 유출 경위와 위법 여부를 관계기관이 확인하도록 지시하겠다고 밝혔다. 한 총리는 9일 국회 본회의장에서 열린 정치 분야 대정부질문에서 이해식 더불어민주당 의원 질의에 “관계기관이 수사자료 유출 경위와 위법 여부, 사실관계를 면밀히 확인하도록 지시하겠다”고 말",
-   "published": "2026-09-09T15:46:46+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.32,
-   "feed": "전자신문"
-  },
-  {
-   "title": "창업주 이혼 판결에 스마일게이트 지배구조 변화... 권혁빈 경영권은 유지",
-   "url": "https://www.etnews.com/20260909000336",
-   "source": "전자신문",
-   "summary": "권혁빈 스마일게이트 창업자 겸 최고비전책임자(CVO)가 보유한 스마일게이트 지분 35%를 배우자에게 현물로 넘기라는 1심 판결이 나오면서 스마일게이트 지배구조에도 변화 가능성이 제기된다. 다만 권 CVO가 65%의 지분을 유지하도록 판단된 만큼 경영권 자체에는 당장 큰 변화가 없을 전망이다. 서울가정법원은 9일 권 CVO와 배우자 이 모 씨의 이혼 청구를 인용했다. 다만 위자료 청구는 기각했",
-   "published": "2026-09-09T15:18:36+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.24,
-   "feed": "전자신문"
-  },
-  {
-   "title": "A2 vs 락토프리…프리미엄 우유 전선 갈렸다",
-   "url": "https://www.etnews.com/20260909000258",
-   "source": "전자신문",
-   "summary": "'속 편한 우유'를 둘러싼 유업계의 프리미엄 경쟁이 A2와 락토프리로 양분되고 있다. 젖소의 유전형질부터 바꿔야 하는 A2는 원유 생산 기반을 직접 확보한 서울우유와 전용 목장을 운영하는 연세유업이 확대에 나선 반면, 원유를 외부에서 조달하는 업체들은 기존 생산 기반을 활용할 수 있는 락토프리에 무게를 두고 있다. 2년 전 서울우유가 A2를 '흰우유 시장의 게임체인저'로 띄웠지만, 업계 전체",
-   "published": "2026-09-09T15:14:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.23,
-   "feed": "전자신문"
-  },
-  {
-   "title": "정부, 중소·중견기업 무역금융 연내 120조·내년 140조 푼다",
-   "url": "https://www.etnews.com/20260909000328",
-   "source": "전자신문",
-   "summary": "정부가 중소·중견기업의 역대 최대 수출실적 달성을 뒷받침하기 위해 연내 120조원, 내년까지 140조원 규모 무역금융을 공급한다. 자금 부족으로 인해 어렵게 확보한 수출 기회를 놓치지 않도록 하기 위해서다. 산업통상부는 9일 경기 수원시 선익시스템에서 박정성 통상교섭본부장 주재로 수출기업 및 금융기관 간담회를 열고 이 같은 내용의 '수출 중소·중견기업 무역금융 지원 확대방안'을 발표했다. 지",
-   "published": "2026-09-09T15:08:39+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.22,
-   "feed": "전자신문"
-  },
-  {
-   "title": "민주당, 배달수수료 상한제 입법 재시동…국감 앞두고 플랫폼 압박",
-   "url": "https://www.etnews.com/20260909000254",
-   "source": "전자신문",
-   "summary": "더불어민주당이 국정감사를 앞두고 배달 수수료 상한제와 공공배달앱 활성화 방안을 중심으로 배달 플랫폼 규제 입법에 다시 속도를 내고 있다. 공정거래위원회도 자율규제만으로는 한계가 있다는 입장을 보이면서 법제화 가능성을 열어뒀다. 반면 업계와 전문가들은 일률적인 수수료 상한보다 소비자·입점업체·플랫폼이 비용을 나누는 방식의 제도 설계가 필요하다고 강조했다. 9일 국회와 업계에 따르면 민주당은 이",
-   "published": "2026-09-09T15:07:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.21,
-   "feed": "전자신문"
   },
   {
    "title": "[아주사설 | 기본·원칙·상식] 메모리 초격차, 반도체 동맹의 힘으로 지켜야",
@@ -1962,50 +2054,8 @@
     "memory"
    ],
    "samsung": false,
-   "score": 3.2,
+   "score": 2.0,
    "feed": "장비·소재"
-  },
-  {
-   "title": "은행·ERP 경계 허문다…기업금융 '경영 플랫폼' 경쟁",
-   "url": "https://www.etnews.com/20260909000096",
-   "source": "전자신문",
-   "summary": "은행과 전사적자원관리(ERP) 업체 간 영역 경계가 허물어지고 있다. 은행은 기업뱅킹에 장부·자금관리 등 ERP 기능을 직접 넣고, ERP 업체는 은행과 손잡고 기업 업무 플랫폼 안에서 금융을 제공한다. 기업 경영데이터가 신용평가와 맞춤형 금융의 핵심 자원으로 떠오르면서 기업금융 플랫폼을 둘러싼 경쟁이 확산하고 있다. 9일 금융권에 따르면 KB국민은행은 기업뱅킹을 기존 '뱅킹 중심 플랫폼'에",
-   "published": "2026-09-09T15:00:00+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.19,
-   "feed": "전자신문"
-  },
-  {
-   "title": "곽동신 한미반도체 회장, 자사주 7억원 취득…누적 720억원",
-   "url": "https://www.etnews.com/20260909000310",
-   "source": "전자신문",
-   "summary": "한미반도체는 곽동신 회장이 사재로 7억원 규모의 자사주를 추가 취득한다고 9일 밝혔다. 이로써 곽 회장은 총 702억원어치 자사주를 취득하게 됐다. 취득 예정 시기는 오는 10월 7일로, 장내 취득 예정이다. 이번 취득이 완료되면 곽동신 회장의 지분율은 33.63%로 높아진다. 곽 회장은 2023년부터 본격적으로 사재로 자사주를 매입해오고 있다. 올해 4월 30억원, 6월 80억원, 7월 5",
-   "published": "2026-09-09T14:51:27+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.17,
-   "feed": "전자신문"
-  },
-  {
-   "title": "카카오 자율주행택시, 강남서 1.3만㎞ 달리며 '돌발상황' 학습…연내 E2E로 진화",
-   "url": "https://www.etnews.com/20260909000306",
-   "source": "전자신문",
-   "summary": "카카오모빌리티가 심야 시간 서울 강남구 일대에서 운행하는 '서울자율차'에 차세대 자율주행 기술 엔드투엔드(E2E)를 연내 도입한다. E2E 모델은 인지와 판단을 하나의 인공지능(AI) 모델로 처리해, 오인지로 인한 급감속이나 차량의 잘못된 거동으로 인한 불편함 등을 개선할 것으로 기대된다. 카카오모빌리티는 9일 서울 서초구 한국자동차모빌리티산업협회에서 미디어 스터디를 열고 서울자율차의 성과와",
-   "published": "2026-09-09T14:49:03+09:00",
-   "date": "2026-09-09",
-   "tags": [
-    "market"
-   ],
-   "samsung": false,
-   "score": 3.16,
-   "feed": "전자신문"
   },
   {
    "title": "아이멕, 기존 감광재로 22㎚ 미세 패턴 구현…1나노급 공정 적용 길 열어",
@@ -2018,7 +2068,7 @@
     "market"
    ],
    "samsung": false,
-   "score": 2.31,
+   "score": 2.0,
    "feed": "장비·소재"
   },
   {
@@ -2038,8 +2088,8 @@
   {
    "title": "삼성 파운드리, 시높시스와 ‘全 선단공정’ 협업…엑시노스까지 보폭 넓힌다",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvYkJkc3pUajd6M2EzZzRYYXNIRG94NmNwZWlxbkx3dlBPUG9yNXUyZXJlUzhaLXFHTkE4RnBUTFJwWTNLX05nV2NhajhzVGRFSlE?oc=5",
-   "source": "서울경제",
-   "summary": "삼성 파운드리, 시높시스와 ‘全 선단공정’ 협업…엑시노스까지 보폭 넓힌다 서울경제",
+   "source": "sedaily.com",
+   "summary": "삼성 파운드리, 시높시스와 ‘全 선단공정’ 협업…엑시노스까지 보폭 넓힌다 sedaily.com",
    "published": "2026-09-08T17:12:10+09:00",
    "date": "2026-09-08",
    "tags": [
@@ -2150,14 +2200,13 @@
    "feed": "삼성 파운드리"
   },
   {
-   "title": "삼성전자, ASML과 차세대 반도체 동맹…내후년 D램에 ’High NA EUV’ 쓴다 By EBN",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UY0NDQ1lXa3RUd2Z0QXFaMHhrcm4xSXFsb2lmb0FEZk1uamhYVGM5VWRxNS1iWDdlYUJqbUR6UkJfZjQwUEhzenl6RmtUTHdxTWlJbC05UjVENEY5blJXTGNpYk9DU3RXaVluU2xEc0I?oc=5",
-   "source": "Investing.com 한국어",
-   "summary": "삼성전자, ASML과 차세대 반도체 동맹…내후년 D램에 ’High NA EUV’ 쓴다 By EBN Investing.com 한국어",
-   "published": "2026-09-08T16:11:00+09:00",
+   "title": "삼성전자-ASML, 12인치 포토마스크 공동개발 나선다",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wNGkyeWVLYm11MHhUNEFmY2J5WHZibG1LSEdnVEp4dmZLSTZ4aHR0ZUdTemdRUFVzV2IwRmJuMWt5M3RGcnBlWDJfQmd6WXJCYi13Y0UyTEc2ZVpSNWNnWG1mWENNRU5rMXhGTQ?oc=5",
+   "source": "ER 이코노믹리뷰",
+   "summary": "삼성전자-ASML, 12인치 포토마스크 공동개발 나선다 ER 이코노믹리뷰",
+   "published": "2026-09-08T17:28:06+09:00",
    "date": "2026-09-08",
    "tags": [
-    "memory",
     "equip"
    ],
    "samsung": true,
@@ -2209,28 +2258,14 @@
    "feed": "삼성 파운드리"
   },
   {
-   "title": "삼성전자, 2028년 D램에 ‘High NA EUV’ 도입···ASML과 차세대 공정 동맹",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93R3dEb1dQSUJPR3htZENma0VtTWo2U3VxY2xwcjRIQVJFd1IxWFNCN0NBMHZHelJYckk1VjhOZk5iemdaVzdrRTRJTGJMRlpSX05paWFDZVBZbTRLeThyaU5rWTdIeV9XeEt2LU1Ldk3SAXRBVV95cUxPd1VjZnl4eXJVamdPU3BOSmxrQmpDQ2tSaFluVHlLWUJ6U2RIRG5JdThGaXk5N0JzaTZoaGp2U1lKaUF6SHVsZHhTR2FZZFNOYVZIdUJGcU5CVU9rQUppWHBsaHNjcXlVbEM1Rm5BVkUwbEZLUw?oc=5",
-   "source": "enewstoday.co.kr",
-   "summary": "삼성전자, 2028년 D램에 ‘High NA EUV’ 도입···ASML과 차세대 공정 동맹 enewstoday.co.kr",
-   "published": "2026-09-08T17:23:13+09:00",
+   "title": "삼성전자, ASML과 차세대 반도체 동맹⋯2028년 D램에 ‘High NA EUV’ 첫 도입",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9URXViRVhaM3lobVRQb2hsd0lVMEo4cnN6U29ycU5WMDRfUHZUQkNpZHQzRGJYZVRsWTFvNUJHMXRFYUlzTVh5VmthMTFwaG5USDB1Ng?oc=5",
+   "source": "이투데이",
+   "summary": "삼성전자, ASML과 차세대 반도체 동맹⋯2028년 D램에 ‘High NA EUV’ 첫 도입 이투데이",
+   "published": "2026-09-08T15:11:00+09:00",
    "date": "2026-09-08",
    "tags": [
     "memory",
-    "equip"
-   ],
-   "samsung": true,
-   "score": 10.0,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "삼성전자-ASML, 12인치 포토마스크 공동개발 나선다",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wNGkyeWVLYm11MHhUNEFmY2J5WHZibG1LSEdnVEp4dmZLSTZ4aHR0ZUdTemdRUFVzV2IwRmJuMWt5M3RGcnBlWDJfQmd6WXJCYi13Y0UyTEc2ZVpSNWNnWG1mWENNRU5rMXhGTQ?oc=5",
-   "source": "ER 이코노믹리뷰",
-   "summary": "삼성전자-ASML, 12인치 포토마스크 공동개발 나선다 ER 이코노믹리뷰",
-   "published": "2026-09-08T17:28:06+09:00",
-   "date": "2026-09-08",
-   "tags": [
     "equip"
    ],
    "samsung": true,
@@ -2295,11 +2330,11 @@
    "feed": "삼성 파운드리"
   },
   {
-   "title": "\"반도체 미세화 한계 극복한다\"…삼성전자·ASML, 차세대 12인치 포토 마스크 공동 개발",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wZDdmMTgyOXRsOGF5ODhaSFoyTHVhMzFDRDJZMWZpTjBoMFliZGRqT1lzRUlmdTMwSWlMXzR1WVRZcWtmdjNNNjRGU1g0U2s?oc=5",
-   "source": "v.daum.net",
-   "summary": "\"반도체 미세화 한계 극복한다\"…삼성전자·ASML, 차세대 12인치 포토 마스크 공동 개발 v.daum.net",
-   "published": "2026-09-08T15:33:50+09:00",
+   "title": "삼성전자, ASML과 반도체 동맹",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ILWNQWVRCUTQtcWZVZVlYdEtGYzloSkw4TUxwNTl2dnIzeUNxa3d3enl5blE4UkZNdENLUWlhU1FVODdsck5LRnlheEdYTGxLbTBfNi1FS001U0tyWHVQR0J5Yi1WQjdCNHZMVE85eXB0YUJt0gF0QVVfeXFMT0gtY1BZVEJRNC1xZlVlWVh0S0ZjOWhKTDhNTHA1OXZ2cjN5Q3Frd3d6eXluUThSRk10Q0tRaWFTUVU4N2xyTktGeWF4R1hMbEttMF82LUVLTTVTS3JYdVBHQnliLVZCN0I0dkxUTzl5cHRhQm0?oc=5",
+   "source": "IT조선",
+   "summary": "삼성전자, ASML과 반도체 동맹 IT조선",
+   "published": "2026-09-08T16:05:03+09:00",
    "date": "2026-09-08",
    "tags": [
     "equip"
@@ -2309,14 +2344,27 @@
    "feed": "삼성 파운드리"
   },
   {
-   "title": "\"업계 최초\" 삼성전자, 차세대 D램에 ASML '첨단 노광 장비' 도입한다",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pZ3BmNlJ2QXdqblZpZzVmUlNFdDZ4YTJwaDN3TWgtVWFfM3ItRUwweWVUbnl6ZlA4a3U1ZTVkUmNMUy1zdmhPNDFXS3QyMklHbmpUSkVwd1BoQmVwUjBPMnNWaWxRRVEyVk50ZXdYU2poOGZy?oc=5",
-   "source": "financialpost.co.kr",
-   "summary": "\"업계 최초\" 삼성전자, 차세대 D램에 ASML '첨단 노광 장비' 도입한다 financialpost.co.kr",
-   "published": "2026-09-08T16:15:05+09:00",
+   "title": "삼성전자-ASML, 반도체 회로 '원판' 대형화 협력",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNWNuc0N1dnhicmlvUVdKdUpPR0pYTU9pbE9Ea1JVLVB5Z19Qc0ZtSmRpa2tMZDE4dnVDbGtuTGw2NEhYaGMtVFBDZWxjZS1wZzh6ZVFQR1_SAVhBVV95cUxOTTVjbnNDdXZ4YnJpb1FXSnVKT0dKWE1PaWxPRGtSVS1QeWdfUHNGbUpkaWtrTGQxOHZ1Q2xrbkxsNjRIWGhjLVRQQ2VsY2UtcGc4emVRUEdf?oc=5",
+   "source": "SBS Biz",
+   "summary": "삼성전자-ASML, 반도체 회로 '원판' 대형화 협력 SBS Biz",
+   "published": "2026-09-08T15:18:00+09:00",
    "date": "2026-09-08",
    "tags": [
-    "memory",
+    "equip"
+   ],
+   "samsung": true,
+   "score": 10.0,
+   "feed": "삼성 파운드리"
+  },
+  {
+   "title": "\"반도체 미세화 한계 극복한다\"…삼성전자·ASML, 차세대 12인치 포토 마스크 공동 개발",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wZDdmMTgyOXRsOGF5ODhaSFoyTHVhMzFDRDJZMWZpTjBoMFliZGRqT1lzRUlmdTMwSWlMXzR1WVRZcWtmdjNNNjRGU1g0U2s?oc=5",
+   "source": "v.daum.net",
+   "summary": "\"반도체 미세화 한계 극복한다\"…삼성전자·ASML, 차세대 12인치 포토 마스크 공동 개발 v.daum.net",
+   "published": "2026-09-08T15:33:50+09:00",
+   "date": "2026-09-08",
+   "tags": [
     "equip"
    ],
    "samsung": true,
@@ -2332,20 +2380,6 @@
    "date": "2026-09-08",
    "tags": [
     "memory",
-    "equip"
-   ],
-   "samsung": true,
-   "score": 10.0,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "삼성전자-ASML, 첨단반도체 공정 위한 ‘대형 마스크 컨소시엄’ 협력",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNQ3d3V0U0SDVEdS1EYVNFWUl1SkdyWTFPMjBPeDUtWFJUWUlIMzAyMHFubU01TVk3ZEoyTWczYXhSLTFXX3pKdkZ2eldiNFU?oc=5",
-   "source": "v.daum.net",
-   "summary": "삼성전자-ASML, 첨단반도체 공정 위한 ‘대형 마스크 컨소시엄’ 협력 v.daum.net",
-   "published": "2026-09-08T16:50:51+09:00",
-   "date": "2026-09-08",
-   "tags": [
     "equip"
    ],
    "samsung": true,
@@ -2372,34 +2406,6 @@
    "source": "에너지경제신문",
    "summary": "칩은 더 작게, 마스크는 두 배 크게…삼성·ASML이 노리는 것 에너지경제신문",
    "published": "2026-09-08T15:34:47+09:00",
-   "date": "2026-09-08",
-   "tags": [
-    "equip"
-   ],
-   "samsung": true,
-   "score": 8.0,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "[기획] 삼성·ASML ‘초격차’ 동맹… 中 따돌린다",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KMDVkZUlDTVNIaVQ5LTJpRThSOTNGcG1qVUEzUFc3VHRLN2N1UnkwTG0zcWVoRl9yQnI0clBVcFZpMjN6SmdJNU1MMEc4b1U?oc=5",
-   "source": "v.daum.net",
-   "summary": "[기획] 삼성·ASML ‘초격차’ 동맹… 中 따돌린다 v.daum.net",
-   "published": "2026-09-08T19:15:28+09:00",
-   "date": "2026-09-08",
-   "tags": [
-    "equip"
-   ],
-   "samsung": true,
-   "score": 8.0,
-   "feed": "삼성 파운드리"
-  },
-  {
-   "title": "삼성, ASML과 차세대 EUV 마스크 만든다",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wNkNUaEZ2YUhyVG1nY1hIbUs1TEI4Uk1fYVJhTy1Zc1hFWWJqQ1RvNUlWTUsybHVROXNOSnJJSEIwM0cwN0VDNFJJclJUWmh5U1E?oc=5",
-   "source": "서울경제",
-   "summary": "삼성, ASML과 차세대 EUV 마스크 만든다 서울경제",
-   "published": "2026-09-08T18:40:30+09:00",
    "date": "2026-09-08",
    "tags": [
     "equip"
